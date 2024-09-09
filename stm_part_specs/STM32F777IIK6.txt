@@ -1,0 +1,82 @@
+Part Name: STM32F777IIK6
+Caption: High-performance and DSP with FPU, Arm Cortex-M7 MCU with 2 Mbytes of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, HW crypto, SDRAM, TFT, JPEG codec, DFSDM
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M7
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFBGA 176+25 10x10x0.6 P 0.65 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Core: Arm® 32-bit Cortex® -M7 CPU with DPFPU, ART Accelerator and L1-cache: 16 Kbytes I/D cache, allowing 0-wait state execution from embedded flash memory and external memories, up to 216 MHz, MPU, 462 DMIPS/2.14 DMIPS/MHz (Dhrystone 2.1), and DSP instructions.
+        • MemoriesUp to 2 Mbytes of flash memory, organized into two banks allowing read-while-writeSRAM: 512 Kbytes (including 128 Kbytes of data TCM RAM for critical real-time data) + 16 Kbytes of instruction TCM RAM (for critical real-time routines) + 4 Kbytes of backupFlexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND memories
+                • Up to 2 Mbytes of flash memory, organized into two banks allowing read-while-write
+                • SRAM: 512 Kbytes (including 128 Kbytes of data TCM RAM for critical real-time data) + 16 Kbytes of instruction TCM RAM (for critical real-time routines) + 4 Kbytes of backup
+                • Flexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND memories
+        • Dual mode Quad-SPI
+        • GraphicsChrom-ART Accelerator (DMA2D), graphical hardware accelerator enabling enhanced graphical user interfaceHardware JPEG codecLCD-TFT controller supporting up to XGA resolutionMIPI® DSI host controller supporting up to 720p 30 Hz resolution
+                • Chrom-ART Accelerator (DMA2D), graphical hardware accelerator enabling enhanced graphical user interface
+                • Hardware JPEG codec
+                • LCD-TFT controller supporting up to XGA resolution
+                • MIPI® DSI host controller supporting up to 720p 30 Hz resolution
+        • Clock, reset and supply management1.7 to 3.6 V application supply and I/OsPOR, PDR, PVD and BORDedicated USB power4-to-26 MHz crystal oscillatorInternal 16 MHz factory-trimmed RC (1% accuracy)32 kHz oscillator for RTC with calibrationInternal 32 kHz RC with calibration
+                • 1.7 to 3.6 V application supply and I/Os
+                • POR, PDR, PVD and BOR
+                • Dedicated USB power
+                • 4-to-26 MHz crystal oscillator
+                • Internal 16 MHz factory-trimmed RC (1% accuracy)
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 32 kHz RC with calibration
+        • Low-powerSleep, Stop and Standby modesVBATsupply for RTC, 32×32 bit backup registers + 4 Kbytes backup SRAM
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC, 32×32 bit backup registers + 4 Kbytes backup SRAM
+        • 3×12-bit, 2.4 MSPS ADC: up to 24 channels
+        • Digital filters for sigma delta modulator (DFSDM), 8 channels / 4 filters
+        • 2×12-bit D/A converters
+        • General-purpose DMA: 16-stream DMA controller with FIFOs and burst support
+        • Up to 18 timers: up to thirteen 16-bit (1x low- power 16-bit timer available in Stop mode) and two 32-bit timers, each with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input. All 15 timers running up to 216 MHz. 2x watchdogs, SysTick timer
+        • Debug modeSWD and JTAG interfacesCortex® -M7 Trace Macrocell™ 
+                • SWD and JTAG interfaces
+                • Cortex® -M7 Trace Macrocell™ 
+        • Up to 168 I/O ports with interrupt capabilityUp to 164 fast I/Os up to 108 MHzUp to 166 5 V-tolerant I/Os
+                • Up to 164 fast I/Os up to 108 MHz
+                • Up to 166 5 V-tolerant I/Os
+        • Up to 28 communication interfacesUp to four I2C interfaces (SMBus/PMBus)Up to four USARTs/4 UARTs (12.5 Mbit/s, ISO7816 interface, LIN, IrDA, modem control)Up to six SPIs (up to 54 Mbit/s), three with muxed simplex I2S for audio2 x SAIs (serial audio interface)3 × CANs (2.0B Active) and 2x SDMMCsSPDIFRX interfaceHDMI-CECMDIO slave interface
+                • Up to four I2C interfaces (SMBus/PMBus)
+                • Up to four USARTs/4 UARTs (12.5 Mbit/s, ISO7816 interface, LIN, IrDA, modem control)
+                • Up to six SPIs (up to 54 Mbit/s), three with muxed simplex I2S for audio
+                • 2 x SAIs (serial audio interface)
+                • 3 × CANs (2.0B Active) and 2x SDMMCs
+                • SPDIFRX interface
+                • HDMI-CEC
+                • MDIO slave interface
+        • Advanced connectivityUSB 2.0 full-speed device/host/OTG controller with on-chip PHYUSB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+                • USB 2.0 full-speed device/host/OTG controller with on-chip PHY
+                • USB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI
+                • 10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+        • 8- to 14-bit camera interface, up to 54 Mbyte/s
+        • Cryptographic acceleration: hardware acceleration for AES 128, 192, 256, triple DES, HASH (MD5, SHA-1, SHA-2), and HMAC
+        • True random number generator (RNG).
+        • CRC calculation unit
+        • RTC: subsecond accuracy, hardware calendar
+        • 96-bit unique ID
+        • All packages are ECOPACK2 compliant
+Description: 
+The STM32F777xx, STM32F778Ax and STM32F779xx devices are based on the high-performance Arm® Cortex®-M7 32-bit RISC core operating at up to 216 MHz frequency. The Cortex®-M7 core features a floating point unit (FPU), which supports Arm® double-precision and single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU), which enhances the application security.The STM32F777xx, STM32F778Ax and STM32F779xx devices incorporate high-speed embedded memories with a flash up to 2 Mbytes, 512 Kbytes of SRAM (including 128 Kbytes of Data TCM RAM for critical real-time data), 16 Kbytes of instruction TCM RAM (for critical real-time routines), 4 Kbytes of backup SRAM available in the lowest power modes, and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses, a 32-bit multi-AHB bus matrix, and a multi layer AXI interconnect supporting internal and external memories access.The devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-purpose 16-bit timers including two PWM timers for motor control, two general-purpose 32-bit timers, a true random number generator (RNG), and a cryptographic acceleration cell. They also feature standard and advanced communication interfaces. 

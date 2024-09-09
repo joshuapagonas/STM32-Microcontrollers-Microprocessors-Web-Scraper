@@ -1,0 +1,51 @@
+Part Name: STM32WB1MMCH6TR
+Caption: Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32MHz with 320 Kbytes of Flash memory,  Bluetooth LE 5.4
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: SIP LGA 77 6.5x10x1.372 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Integrated chip antenna, and option for external antenna
+        • Bluetooth® Low Energy 5.4 certified
+        • Supports 2 Mbits/s
+        • Frequency band: 2400 to 2483.5 MHz
+        • Advertising extension
+        • TX output power up to +5.5 dBm
+        • RX sensitivity: -96 dBm (1 Mbps)
+        • Dedicated Arm® Cortex® -M0+ for radio and security tasks
+        • Dedicated Arm® Cortex® -M4 CPU with FPU and ART (adaptative real-time accelerator), up to 64 MHz speed
+        • 320-Kbyte flash memory, 48-Kbyte SRAM
+        • Fully integrated BOM, including 32 MHz radio and 32 kHz RTC crystals
+        • Integrated SMPS
+        • Ultra-low power modes for battery longevity
+        • 27 GPIOs
+        • SWD, JTAG
+        • Integrated IPD for best-in-class and reliable antenna matching
+        • VDDrange: 1.71 to 3.6 V
+        • Temperature range: -40 to 85 °C
+        • Built-in security features, such as secure firmware installation (SFI) for radio stack, PKA, AES 256-bit, RNG, PCROP, CRC, 96-bit UID, possibility to derive 48-bit UEI
+        • Certifications: CE, FCC, ISED, JRF, RoHS, REACH, UKCA, NCC, KC
+        • Planned certification: SRRC
+        • 2-layer PCB
+Description: 
+The STM32WB1MMC is an ultra-low power, small form factor, certified 2.4 GHz wireless module, supporting Bluetooth® Low Energy 5.4. Based on the STM32WB15CCY wireless microcontroller, it provides best-in-class RF performance thanks to its good receiver sensitivity and a high output power signal. Its low power features enable extended battery life time, small coin-cell batteries, or energy harvesting.The STM32WB1MMC requires no RF expertise, and is the best way to speed up the application development and to reduce the associated costs. The module is completely protocol stack royalty-free. 

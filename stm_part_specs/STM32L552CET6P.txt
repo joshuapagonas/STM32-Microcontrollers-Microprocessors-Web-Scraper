@@ -1,0 +1,61 @@
+Part Name: STM32L552CET6P
+Caption: Ultra-low-power with FPU Arm Cortex-M33 with Trust Zone, MCU 110 MHz with 512 kbytes of Flash memory
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M33
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 48 7x7x1.4 mm
+
+Key features:
+        • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature rangeBatch acquisition mode (BAM)187 nA in VBAT mode: supply for RTC and 32x32-bit backup registers17 nA Shutdown mode (5 wakeup pins)108 nA Standby mode (5 wakeup pins)222 nA Standby mode with RTC3.16 μA Stop 2 with RTC106 μA/MHz Run mode (LDO mode)62 μA/MHz Run mode @ 3 V (SMPS step-down converter mode)5 µs wakeup from Stop modeBrownout reset (BOR) in all modes except Shutdown
+                • 1.71 V to 3.6 V power supply
+                • -40 °C to 85/125 °C temperature range
+                • Batch acquisition mode (BAM)
+                • 187 nA in VBAT mode: supply for RTC and 32x32-bit backup registers
+                • 17 nA Shutdown mode (5 wakeup pins)
+                • 108 nA Standby mode (5 wakeup pins)
+                • 222 nA Standby mode with RTC
+                • 3.16 μA Stop 2 with RTC
+                • 106 μA/MHz Run mode (LDO mode)
+                • 62 μA/MHz Run mode @ 3 V (SMPS step-down converter mode)
+                • 5 µs wakeup from Stop mode
+                • Brownout reset (BOR) in all modes except Shutdown
+        • CoreArm® 32-bit Cortex® -M33 CPU with TrustZone® and FPU
+                • Arm® 32-bit Cortex® -M33 CPU with TrustZone® and FPU
+        • ART Accelerator8-Kbyte instruction cache allowing 0-wait-state execution from Flash memory and external memories; frequency up to 110 MHz, MPU, 165 DMIPS and DSP instructions
+                • 8-Kbyte instruction cache allowing 0-wait-state execution from Flash memory and external memories; frequency up to 110 MHz, MPU, 165 DMIPS and DSP instructions
+        • Performance benckmark1.5 DMIPS/MHz (Drystone 2.1)442 CoreMark® (4.02 CoreMark® /MHz)
+                • 1.5 DMIPS/MHz (Drystone 2.1)
+                • 442 CoreMark® (4.02 CoreMark® /MHz)
+        • Energy benchmark370 ULPMark-CP® score54 ULPMark-PP® score27400 SecureMark-TLS® score
+                • 370 ULPMark-CP® score
+                • 54 ULPMark-PP® score
+                • 27400 SecureMark-TLS® score
+        • MemoriesUp to 512-Kbyte Flash, two banks read-while-write256 Kbytes of SRAM including 64 Kbytes with hardware parity checkExternal memory interface supporting SRAM, PSRAM, NOR, NAND and FRAM memoriesOCTOSPI memory interface
+                • Up to 512-Kbyte Flash, two banks read-while-write
+                • 256 Kbytes of SRAM including 64 Kbytes with hardware parity check
+                • External memory interface supporting SRAM, PSRAM, NOR, NAND and FRAM memories
+                • OCTOSPI memory interface
+        • SecurityArm® TrustZone® and securable I/Os, memories and peripheralsFlexible life cycle scheme with RDP (readout protection)Root of trust thanks to unique boot entry and hide p
+                • Arm® TrustZone® and securable I/Os, memories and peripherals
+                • Flexible life cycle scheme with RDP (readout protection)
+                • Root of trust thanks to unique boot entry and hide p
+Description: 
+The STM32L552xx devices are an ultra-low-power microcontrollers family (STM32L5 Series) based on the high-performance Arm® Cortex®-M33 32-bit RISC core. They operate at a frequency of up to 110 MHz.The Cortex®-M33 core features a single-precision floating-point unit (FPU), which supports all the Arm® single-precision data-processing instructions and all the data types. The Cortex®-M33 core also implements a full set of DSP (digital signal processing) instructions and a memory protection unit (MPU) which enhances the application’s security.These devices embed high-speed memories (512 Kbytes of Flash memory and 256 Kbytes of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), an Octo-SPI Flash memories interface (available on all packages) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The STM32L5 Series devices offer security foundation compliant with the trusted based security architecture (TBSA) requirements from Arm. They embed the necessary security features to implement a secure boot, secure data storage, secure firmware installation and secure firmware upgrade. Flexible life cycle is managed thanks to multiple levels of readout protection. Firmware hardware isolation is supported thanks to securable peripherals, memories and I/Os, and also to the possibility to configure the peripherals and memories as “privilege”.The STM32L552xx devices embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection, secure and hidden protection areas.The STM32L552xx devices embed peripherals reinforcing security:- One HASH hardware accelerator- One true random number generatorThe STM32L5 Series devices offer active tamper detection and protection against transient and environmental perturbation attacks thanks to several internal monitoring which generate secret data erase in case of attack. This helps to fit the PCI requirements for point of sales applications. These devices offer two fast 12-bit ADC (5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timer, two 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and two 16-bit low-power timers. The devices support four digital filters for external sigma delta modulators (DFSDM). In addition, up to 22 capacitive sensing channels are available.STM32L5 Series also feature standard and advanced communication interfaces such as:- Four I2Cs- Three SPIs- Three USARTs, two UARTs and one low-power UART- Two SAIs- One SDMMC- One FDCAN- USB device FS- USB Type-C / USB power delivery controllerThe devices operate in the -40 to +85 °C (+105 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V power supply. A comprehensive set of power-saving modes allows the design of low-power applications.Some independent power supplies are supported like an analog independent supply input for ADC, DAC, OPAMPs and comparators, a 3.3 V dedicated supply input for USB and up to 14 I/Os, which can be supplied independently down to 1.08 V. A VBAT input allows the backup of the RTC and the backup of the registers.The STM32L552xx devices offer seven packages from 48-pin to 144-pin. 

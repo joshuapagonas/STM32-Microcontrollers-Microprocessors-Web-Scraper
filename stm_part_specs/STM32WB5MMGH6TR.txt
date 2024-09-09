@@ -1,0 +1,57 @@
+Part Name: STM32WB5MMGH6TR
+Caption: Ultra-low-power Module - Dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 MHz with 1 Mbyte of Flash memory, Bluetooth LE 5.4, 802.15.4, Zigbee, Thread, Matter, USB, LCD, AES-256
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Operating Voltage Min Volt: 1.71
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M4
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: SIP LGA 86 7.3x11x1.342 mm
+
+Key features:
+        • Includes STMicroelectronics state-of-the-art patented technology
+        • Integrated chip antenna
+        • Bluetooth® Low Energy 5.4, Zigbee® 3.0, OpenThread certified
+        • Dynamic and static concurrent modes
+        • IEEE 802.15.4-2011 MAC PHY
+        • Supports 2 Mbits/s
+        • Frequency band 2402-2480 MHz
+        • Advertising extension
+        • Tx output power up to +6 dBm
+        • Rx sensitivity: -96 dBm (Bluetooth® Low Energy at 1 Mbps), -100 dBm (802.15.4)
+        • Range: up to 75 meters
+        • Dedicated Arm® Cortex® -M0+ CPU for radio and security tasks
+        • Dedicated Arm® Cortex® -M4 CPU with FPU and ART (adaptive real-time accelerator) up to 64 MHz speed
+        • 1-Mbyte flash memory, 256-Kbyte SRAM
+        • Fully integrated BOM, including 32 MHz radio and 32 kHz RTC crystals
+        • Integrated SMPS
+        • Ultra-low-power modes for battery longevity
+        • 68 GPIOs
+        • SWD, JTAG
+        • Integrated IPD for best-in-class and reliable antenna matching
+        • 1.71 V to 3.6 V VDDrange
+        • -40°C to 85°C temperature range
+        • Built-in security features, such as: secure firmware installation (SFI) for radio stack, customer key storage/key management services, PKA, AES 256-bit, TRNG, PCROP, CRC, 96-bit UID, possibility to derive 802.15.4 and Bluetooth® Low Energy 48-bit UEI
+        • Certifications: CE, FCC, IC, JRF, SRRC, RoHS, REACH, GOST, KC, NCC
+        • Two-layer PCB compatibility (using external raw pins only)
+Description: 
+STM32WB5MMG is an ultra-low-power and small form factor certified 2.4 GHz wireless module. It supports Bluetooth® Low Energy 5.4, Zigbee® 3.0, OpenThread, dynamic, and static concurrent modes, and 802.15.4 proprietary protocols. Based on the STMicroelectronics STM32WB55VGY wireless microcontroller, STM32WB5MMG provides best-in-class RF performance thanks to its high receiver sensitivity and output power signal. Its low-power features enable extended battery life, small coin-cell batteries, and energy harvesting.STM32WB5MMG revision Y is based on cut 2.1 of the STM32WB55VGY microcontroller. Revision X is based on cut 2.2.STM32WB5MMG requires no RF expertise and is the best way to speed up any development and reduce associated costs. The module is completely protocol stack royalty-free. 

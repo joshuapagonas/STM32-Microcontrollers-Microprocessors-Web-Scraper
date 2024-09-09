@@ -1,0 +1,81 @@
+Part Name: STM32L151RDT6
+Caption: Ultra-low-power Arm Cortex-M3 MCU with 384 Kbytes of Flash memory, 32 MHz CPU, USB, 3xOp-amp
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technologyUltra-low-power platform1.65 V to 3.6 V power supply-40°C to 105°C temperature range305 nA Standby mode (3 wakeup pins)1.15 µA Standby mode + RTC0.475 µA Stop mode (16 wakeup lines)1.35 µA Stop mode + RTC11 µA Low-power run mode230 µA/MHz Run mode10 nA ultra-low I/O leakage8 µs wakeup timeCore: Arm® Cortex® -M3 32-bit CPUFrom 32 kHz up to 32 MHz max33.3 DMIPS peak (Dhrystone 2.1)Memory protection unitUp to 34 capacitive sensing channelsCRC calculation unit, 96-bit unique IDReset and supply managementLow-power, ultrasafe BOR (brownout reset) with 5 selectable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)Clock sources1 to 24 MHz crystal oscillator32 kHz oscillator for RTC with calibrationHigh Speed Internal 16 MHz factory-trimmed RC (+/- 1%)Internal low-power 37 kHz RCInternal multispeed low-power 65 kHz to 4.2 MHzPLL for CPU clock and USB (48 MHz)Pre-programmed bootloaderUSB and USART supportedSerial wire debug, JTAG and traceUp to 116 fast I/Os (102 I/Os 5V tolerant), all mappable on 16 external interrupt vectorsMemories384 Kbytes of Flash memory with ECC (with 2 banks of 192 Kbytes enabling Rww capability)48 Kbytes of RAM12 Kbytes of true EEPROM with ECC128-byte backup registerMemory interface controller supporting SRAM, PSRAM and NOR FlashLCD driver (except STM32L151xD devices) up to 8x40 segments, contrast adjustment, blinking mode, step-up converterRich analog peripherals (down to 1.8V)3x operational amplifiers12-bit ADC 1 Msps up to 40 channels12-bit DAC 2 ch with output buffers2x ultra-low-power-comparators(window mode and wakeup capability)DMA controller 12x channels12x peripheral communication interfaces1x USB 2.0 (internal 48 MHz PLL)5x USARTsUp to 8x SPIs (2x I2S, 3x 16 Mbit/s)2x I2Cs (SMBus/PMBus)1x SDIO interface11x timers: 1x 32-bit, 6x 16-bit with up to 4 IC/OC/PWM channels, 2x 16-bit basic timers, 2x watchdog timers (independent and window)
+                • Ultra-low-power platform1.65 V to 3.6 V power supply-40°C to 105°C temperature range305 nA Standby mode (3 wakeup pins)1.15 µA Standby mode + RTC0.475 µA Stop mode (16 wakeup lines)1.35 µA Stop mode + RTC11 µA Low-power run mode230 µA/MHz Run mode10 nA ultra-low I/O leakage8 µs wakeup time
+                        • 1.65 V to 3.6 V power supply
+                        • -40°C to 105°C temperature range
+                        • 305 nA Standby mode (3 wakeup pins)
+                        • 1.15 µA Standby mode + RTC
+                        • 0.475 µA Stop mode (16 wakeup lines)
+                        • 1.35 µA Stop mode + RTC
+                        • 11 µA Low-power run mode
+                        • 230 µA/MHz Run mode
+                        • 10 nA ultra-low I/O leakage
+                        • 8 µs wakeup time
+                • Core: Arm® Cortex® -M3 32-bit CPUFrom 32 kHz up to 32 MHz max33.3 DMIPS peak (Dhrystone 2.1)Memory protection unit
+                        • From 32 kHz up to 32 MHz max
+                        • 33.3 DMIPS peak (Dhrystone 2.1)
+                        • Memory protection unit
+                • Up to 34 capacitive sensing channels
+                • CRC calculation unit, 96-bit unique ID
+                • Reset and supply managementLow-power, ultrasafe BOR (brownout reset) with 5 selectable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)
+                        • Low-power, ultrasafe BOR (brownout reset) with 5 selectable thresholds
+                        • Ultra-low-power POR/PDR
+                        • Programmable voltage detector (PVD)
+                • Clock sources1 to 24 MHz crystal oscillator32 kHz oscillator for RTC with calibrationHigh Speed Internal 16 MHz factory-trimmed RC (+/- 1%)Internal low-power 37 kHz RCInternal multispeed low-power 65 kHz to 4.2 MHzPLL for CPU clock and USB (48 MHz)
+                        • 1 to 24 MHz crystal oscillator
+                        • 32 kHz oscillator for RTC with calibration
+                        • High Speed Internal 16 MHz factory-trimmed RC (+/- 1%)
+                        • Internal low-power 37 kHz RC
+                        • Internal multispeed low-power 65 kHz to 4.2 MHz
+                        • PLL for CPU clock and USB (48 MHz)
+                • Pre-programmed bootloaderUSB and USART supported
+                        • USB and USART supported
+                • Serial wire debug, JTAG and trace
+                • Up to 116 fast I/Os (102 I/Os 5V tolerant), all mappable on 16 external interrupt vectors
+                • Memories384 Kbytes of Flash memory with ECC (with 2 banks of 192 Kbytes enabling Rww capability)48 Kbytes of RAM12 Kbytes of true EEPROM with ECC128-byte backup registerMemory interface controller supporting SRAM, PSRAM and NOR Flash
+                        • 384 Kbytes of Flash memory with ECC (with 2 banks of 192 Kbytes enabling Rww capability)
+                        • 48 Kbytes of RAM
+                        • 12 Kbytes of true EEPROM with ECC
+                        • 128-byte backup register
+                        • Memory interface controller supporting SRAM, PSRAM and NOR Flash
+                • LCD driver (except STM32L151xD devices) up to 8x40 segments, contrast adjustment, blinking mode, step-up converter
+                • Rich analog peripherals (down to 1.8V)3x operational amplifiers12-bit ADC 1 Msps up to 40 channels12-bit DAC 2 ch with output buffers2x ultra-low-power-comparators(window mode and wakeup capability)
+                        • 3x operational amplifiers
+                        • 12-bit ADC 1 Msps up to 40 channels
+                        • 12-bit DAC 2 ch with output buffers
+                        • 2x ultra-low-power-comparators(window mode and wakeup capability)
+                • DMA controller 12x channels
+                • 12x peripheral communication interfaces1x USB 2.0 (internal 48 MHz PLL)5x USARTsUp to 8x SPIs (2x I2S, 3x 16 Mbit/s)2x I2Cs (SMBus/PMBus)1x SDIO interface
+                        • 1x USB 2.0 (internal 48 MHz PLL)
+                        • 5x USARTs
+                        • Up to 8x SPIs (2x I2S, 3x 16 Mbit/s)
+                        • 2x I2Cs (SMBus/PMBus)
+                        • 1x SDIO interface
+                • 11x timers: 1x 32-bit, 6x 16-bit with up to 4 IC/OC/PWM channels, 2x 16-bit basic timers, 2x watchdog timers (independent and window)
+Description: 
+The ultra-low-power STM32L151xD and STM32L152xD devices incorporate the connectivity power of the universal serial bus (USB) with the high-performance Arm® Cortex®-M3 32-bit RISC core operating at a frequency of 32 MHz (33.3 DMIPS), a memory protection unit (MPU), high-speed embedded memories (Flash memory up to 384 Kbytes and RAM up to 48 Kbytes), a flexible static memory controller (FSMC) interface (for devices with packages of 100 pins and more) and an extensive range of enhanced I/Os and peripherals connected to two APB buses.The STM32L151xD and STM32L152xD devices offer three operational amplifiers, one 12-bit ADC, two DACs, two ultra-low-power comparators, one general-purpose 32-bit timer, six general-purpose 16-bit timers and two basic timers, which can be used as time bases.Moreover, the STM32L151xD and STM32L152xD devices contain standard and advanced communication interfaces: up to two I2Cs, three SPIs, two I2S, one SDIO, three USARTs, two UARTs, and an USB. The STM32L151xD and STM32L152xD devices offer up to 34 capacitive sensing channels to simply add a touch sensing functionality to any application.They also include a real-time clock and a set of backup registers that remain powered in Standby mode.Finally, the integrated LCD controller (except STM32L151xD devices) has a built-in LCD voltage generator that allows to drive up to 8 multiplexed LCDs with the contrast independent of the supply voltage.The ultra-low-power STM32L151xD and STM32L152xD devices operate from a 1.8 to 3.6 V power supply (down to 1.65 V at power down) with BOR and from a 1.65 to 3.6 V power supply without BOR option. They are available in the -40 to +85 °C and -40 to +105 °C temperature ranges. A comprehensive set of power-saving modes allows the design of low-power applications. 

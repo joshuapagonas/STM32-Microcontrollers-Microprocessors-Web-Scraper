@@ -1,0 +1,59 @@
+Part Name: STM32C011F6P6TR
+Caption: Mainstream Arm Cortex-M0+ MCU with 32 Kbytes of Flash memory, 6 Kbytes RAM, 48 MHz CPU, 2x USART, timers, ADC, comm. I/F, 2-3.6V
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M0+
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TSSOP-20
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Core: Arm® 32-bit Cortex® -M0+ CPU, frequency up to 48 MHz
+        • -40°C to 85°C/105°C/125°C operating temperature
+        • MemoriesUp to 32 Kbytes of flash memory with protection6 Kbytes of SRAM with hardware parity check
+                • Up to 32 Kbytes of flash memory with protection
+                • 6 Kbytes of SRAM with hardware parity check
+        • CRC calculation unit
+        • Reset and power managementVoltage range: 2.0 V to 3.6 VPower-on / power-down reset (POR/PDR)Programmable brownout reset (BOR)Low-power modes:Sleep, Stop, Standby, Shutdown
+                • Voltage range: 2.0 V to 3.6 V
+                • Power-on / power-down reset (POR/PDR)
+                • Programmable brownout reset (BOR)
+                • Low-power modes:Sleep, Stop, Standby, Shutdown
+        • Clock management4 to 48 MHz crystal oscillator32 kHz crystal oscillator with calibrationInternal 48 MHz RC oscillator (±1 %)Internal 32 kHz RC oscillator (±5 %)
+                • 4 to 48 MHz crystal oscillator
+                • 32 kHz crystal oscillator with calibration
+                • Internal 48 MHz RC oscillator (±1 %)
+                • Internal 32 kHz RC oscillator (±5 %)
+        • Up to 18 fast I/OsAll mappable on external interrupt vectorsAll 5 V-tolerant
+                • All mappable on external interrupt vectors
+                • All 5 V-tolerant
+        • 3-channel DMA controller with flexible mapping
+        • 12-bit, 0.4 µs ADC (up to 13 ext. channels)Conversion range: 0 to 3.6 V
+                • Conversion range: 0 to 3.6 V
+        • 8 timers: 16-bit for advanced motor control, four 16-bit general-purpose, two watchdogs, SysTick timer
+        • Calendar RTC with alarm
+        • Communication interfacesOne I2C-bus interface supporting Fast-mode Plus (1 Mbit/s) with extra current sink; supporting SMBus/PMBus™  and wake-up from Stop modeTwo USARTs with master/slave synchronous SPI; one supporting ISO7816 interface, LIN, IrDA capability, auto baud rate detection and wake-up featureOne SPI (24 Mbit/s) with 4- to 16-bit programmable bitframe, multiplexed with I²S interface; two extra SPIs through USARTs
+                • One I2C-bus interface supporting Fast-mode Plus (1 Mbit/s) with extra current sink; supporting SMBus/PMBus™  and wake-up from Stop mode
+                • Two USARTs with master/slave synchronous SPI; one supporting ISO7816 interface, LIN, IrDA capability, auto baud rate detection and wake-up feature
+                • One SPI (24 Mbit/s) with 4- to 16-bit programmable bitframe, multiplexed with I²S interface; two extra SPIs through USARTs
+        • Development support: serial wire debug (SWD)
+        • All packages ECOPACK2 compliant
+Description: 
+The STM32C011x4/x6 mainstream microcontrollers are based on high-performance Arm® Cortex®-M0+ 32-bit RISC core operating at up to 48 MHz frequency. Offering a high level of integration, they are suitable for a wide range of applications in consumer, industrial and appliance domains and ready for the Internet of Things (IoT) solutions.The devices incorporate a memory protection unit (MPU), high-speed embedded memories (6 Kbytes of SRAM and up to 32 Kbytes of flash program memory with read and write protection), DMA, an extensive range of system functions, enhanced I/Os, and peripherals. The devices offer standard communication interfaces (one I2Cs, one SPI / one I2S, and two USARTs), one 12-bit ADC (2.5 MSps) with up to 15 channels, a low-power RTC, an advanced control PWM timer, four general-purpose 16-bit timers, two watchdog timers, and a SysTick timer.The devices operate within ambient temperatures from -40 to 125°C and with supply voltages from 2.0 V to 3.6 V. Optimized dynamic consumption combined with power-saving modes allows the design of low-power applications.The devices are housed in packages with 8 to 20 pins. 

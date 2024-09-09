@@ -1,0 +1,118 @@
+Part Name: STM32U5F9NJH6Q
+Caption: Advanced Graphics and Ultra Low Power  CortexM-33 with Trustzone, NEOCHROM VG GPU, 160MHZ, with 3 MBSRAM and 4M of Flash.
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M33
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TFBGA 216 13x13x1.2 P 0.8 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply- 40 °C to + 85°C temperature rangeLPBAM: autonomous peripherals with DMA, functional down to Stop 2 modeVBATmode: supply for RTC, 32 x 32-bit backup registers and 2-Kbyte backup SRAM150 nA Shutdown mode (24 wake-up pins)195 nA Standby mode (24 wake-up pins)480 nA Standby mode with RTC2.05 μA Stop 3 mode with 40-Kbyte SRAM8.25 μA Stop 3 mode with 3-Mbyte SRAM4.05 μA Stop 2 mode with 40-Kbyte SRAM15.5 μA Stop 2 mode with 3-Mbyte SRAM18.6 μA/MHz Run mode at 3.3 V
+                • 1.71 V to 3.6 V power supply
+                • - 40 °C to + 85°C temperature range
+                • LPBAM: autonomous peripherals with DMA, functional down to Stop 2 mode
+                • VBATmode: supply for RTC, 32 x 32-bit backup registers and 2-Kbyte backup SRAM
+                • 150 nA Shutdown mode (24 wake-up pins)
+                • 195 nA Standby mode (24 wake-up pins)
+                • 480 nA Standby mode with RTC
+                • 2.05 μA Stop 3 mode with 40-Kbyte SRAM
+                • 8.25 μA Stop 3 mode with 3-Mbyte SRAM
+                • 4.05 μA Stop 2 mode with 40-Kbyte SRAM
+                • 15.5 μA Stop 2 mode with 3-Mbyte SRAM
+                • 18.6 μA/MHz Run mode at 3.3 V
+        • CoreArm® 32-bit Cortex® -M33 CPU with TrustZone® , MPU, DSP, and FPU
+                • Arm® 32-bit Cortex® -M33 CPU with TrustZone® , MPU, DSP, and FPU
+        • ART Accelerator32-Kbyte ICACHE allowing 0-wait-state execution from flash and external memories: frequency up to 160 MHz, 240 DMIPS16-Kbyte data cache for external memories
+                • 32-Kbyte ICACHE allowing 0-wait-state execution from flash and external memories: frequency up to 160 MHz, 240 DMIPS
+                • 16-Kbyte data cache for external memories
+        • Power managementEmbedded regulator (LDO) and SMPS step-down converter supporting switch on-the-fly and voltage scaling
+                • Embedded regulator (LDO) and SMPS step-down converter supporting switch on-the-fly and voltage scaling
+        • Performance benchmark1.5 DMIPS/MHz (Drystone 2.1)655 CoreMark® (4.09 CoreMark® /MHz)
+                • 1.5 DMIPS/MHz (Drystone 2.1)
+                • 655 CoreMark® (4.09 CoreMark® /MHz)
+        • MemoriesUp to 4-Mbyte flash memory with ECC, 2 banks read-while-write, including 512 Kbytes with 100 kcyclesWith SRAM3 ECC off: 3026-Kbyte RAM including 66 Kbytes with ECCWith SRAM3 ECC on: 2962-Kbyte RAM including 322 Kbytes with ECCExternal memory interface supporting SRAM, PSRAM, NOR, NAND and FRAM memories2 Octo-SPI memory interfacesHSPI memory interface up to 160 MHz
+                • Up to 4-Mbyte flash memory with ECC, 2 banks read-while-write, including 512 Kbytes with 100 kcycles
+                • With SRAM3 ECC off: 3026-Kbyte RAM including 66 Kbytes with ECC
+                • With SRAM3 ECC on: 2962-Kbyte RAM including 322 Kbytes with ECC
+                • External memory interface supporting SRAM, PSRAM, NOR, NAND and FRAM memories
+                • 2 Octo-SPI memory interfaces
+                • HSPI memory interface up to 160 MHz
+        • Rich graphic featuresNeo-Chrom VG processor (GPU2D) accelerating any angle rotation, scaling and perspective correct texture mapping, and vector graphicsChrom-ART Accelerator (DMA2D) for enhanced graphic content creationChrom-GRC (GFXMMU) allowing up to 20 % of graphic resources optimizationMIPI® DSI Host controller with two DSI lanes running at up to 500 Mbit/s eachLCD-TFT controller (LTDC)Digital camera interfaceHardware JPEG codecDedicated graphic timer
+                • Neo-Chrom VG processor (GPU2D) accelerating any angle rotation, scaling and perspective correct texture mapping, and vector graphics
+                • Chrom-ART Accelerator (DMA2D) for enhanced graphic content creation
+                • Chrom-GRC (GFXMMU) allowing up to 20 % of graphic resources optimization
+                • MIPI® DSI Host controller with two DSI lanes running at up to 500 Mbit/s each
+                • LCD-TFT controller (LTDC)
+                • Digital camera interface
+                • Hardware JPEG codec
+                • Dedicated graphic timer
+        • General-purpose input/outputsUp to 151 fast I/Os with interrupt capability most 5V-tolerant and up to 14 I/Os with independent supply down to 1.08 V
+                • Up to 151 fast I/Os with interrupt capability most 5V-tolerant and up to 14 I/Os with independent supply down to 1.08 V
+        • Clock management4 to 50 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (± 1 %)Internal low-power 32 kHz RC (± 5 %)2 internal multispeed 100 kHz to 48 MHz oscillators, including one auto-trimmed by LSEInternal 48 MHz3 PLLs for system clock, USB, audio, ADC
+                • 4 to 50 MHz crystal oscillator
+                • 32 kHz crystal oscillator for RTC (LSE)
+                • Internal 16 MHz factory-trimmed RC (± 1 %)
+                • Internal low-power 32 kHz RC (± 5 %)
+                • 2 internal multispeed 100 kHz to 48 MHz oscillators, including one auto-trimmed by LSE
+                • Internal 48 MHz
+                • 3 PLLs for system clock, USB, audio, ADC
+        • SecurityArm® TrustZone® and securable I/Os, memories and peripheralsFlexible life-cycle scheme with RDP and password-protected debugRoot of trust thanks to unique boot entry and secure hide-protection area (HDP)SFI (secure firmware installation) thanks to embedded RSS (root secure services)Secure data storage with hardware unique key (HUK)Secure firmware upgrade support with TF-MHASH hardware acceleratorTrue random number generator, NIST SP800-90B compliant96-bit unique ID512-byte OTP (one-time programmable)Active tampers
+                • Arm® TrustZone® and securable I/Os, memories and peripherals
+                • Flexible life-cycle scheme with RDP and password-protected debug
+                • Root of trust thanks to unique boot entry and secure hide-protection area (HDP)
+                • SFI (secure firmware installation) thanks to embedded RSS (root secure services)
+                • Secure data storage with hardware unique key (HUK)
+                • Secure firmware upgrade support with TF-M
+                • HASH hardware accelerator
+                • True random number generator, NIST SP800-90B compliant
+                • 96-bit unique ID
+                • 512-byte OTP (one-time programmable)
+                • Active tampers
+        • Up to 17 timers, 2 watchdogs and RTC19 timers: 2 16-bit advanced motor-control, 4 32-bit, 3 16-bit general purpose, 2 16-bit basic, 4 low-power 16-bit (available in Stop mode), 2 SysTick timers, and 2 watchdogsRTC with calendar, alarms, and calibration
+                • 19 timers: 2 16-bit advanced motor-control, 4 32-bit, 3 16-bit general purpose, 2 16-bit basic, 4 low-power 16-bit (available in Stop mode), 2 SysTick timers, and 2 watchdogs
+                • RTC with calendar, alarms, and calibration
+        • Up to 25 communication peripherals1 USB Type-C® /USB Power Delivery controller1 USB OTG high-speed with embedded PHY2 SAIs (serial-audio interface)6 I2C FM+(1 Mbit/s), SMBus/PMBus® 7 USARTs (ISO 7816, LIN, IrDA, modem)3 SPIs (5x SPIs with the dual OCTOSPI)1 CAN FD controller2 SDMMC interfaces1 multifunction digital filter (6 filters) + 1 audio digital filter with sound-activity detectionParallel synchronous slave interface
+                • 1 USB Type-C® /USB Power Delivery controller
+                • 1 USB OTG high-speed with embedded PHY
+                • 2 SAIs (serial-audio interface)
+                • 6 I2C FM+(1 Mbit/s), SMBus/PMBus® 
+                • 7 USARTs (ISO 7816, LIN, IrDA, modem)
+                • 3 SPIs (5x SPIs with the dual OCTOSPI)
+                • 1 CAN FD controller
+                • 2 SDMMC interfaces
+                • 1 multifunction digital filter (6 filters) + 1 audio digital filter with sound-activity detection
+                • Parallel synchronous slave interface
+        • 16- and 4-channel DMA controllers, functional in Stop mode
+        • Mathematical coprocessorCORDIC for trigonometric functions acceleration and FMAC
+                • CORDIC for trigonometric functions acceleration and FMAC
+        • Up to 24 capacitive sensing channels
+        • Rich analog peripherals (independent supply)2 × 14-bit ADC 2.5-Msps with hardware oversampling1 × 12-bit ADC 2.5-Msps, with hardware oversampling, autonomous in Stop 2 mode12-bit DAC (2 channels), low-power sample and hold, autonomous in Stop 2 mode2 operational amplifiers with built-in PGA2 ultra-low-power comparators
+                • 2 × 14-bit ADC 2.5-Msps with hardware oversampling
+                • 1 × 12-bit ADC 2.5-Msps, with hardware oversampling, autonomous in Stop 2 mode
+                • 12-bit DAC (2 channels), low-power sample and hold, autonomous in Stop 2 mode
+                • 2 operational amplifiers with built-in PGA
+                • 2 ultra-low-power comparators
+        • CRC calculation unit
+        • DebugDevelopment support: serial-wire debug (SWD), JTAG, ETM
+                • Development support: serial-wire debug (SWD), JTAG, ETM
+        • ECOPACK2 compliant package
+Description: 
+The STM32U5Fxxx devices belong to an ultra-low-power microcontrollers family (STM32U5 Series) based on the high-performance Arm® Cortex®-M33 32-bit RISC core. They operate at a frequency of up to 160 MHz.The Cortex®-M33 core features a single-precision FPU (floating-point unit), that supports all the Arm® single-precision data-processing instructions and all the data types.The Cortex®-M33 core also implements a full set of DSP (digital signal processing) instructions and a MPU (memory protection unit) that enhances the application security.The devices embed high-speed memories (up to 4 Mbytes of flash memory and 3 Mbytes of SRAM), an FSMC (flexible external memory controller) for static memories (for devices with packages of 100 pins and more), two Octo-SPI and one Hexadeca-SPI memory interfaces (at least one Quad-SPI available on all packages) and an extensive range of enhanced I/Os and peripherals connected to three APB buses, three AHB buses and a 32-bit multi-AHB bus matrix.The devices offer security foundation compliant with the TBSA (trusted-based security architecture) requirements from Arm®. It embeds the necessary security features to implement a secure boot, secure data storage and secure firmware update. Besides these capabilities, the devices incorporate a secure firmware installation feature that allows the customer to secure the provisioning of the code during its production. A flexible life cycle is managed thanks to multiple levels of readout protection and debug unlock with password. Firmware hardware isolation is supported thanks to securable peripherals, memories and I/Os, and privilege configuration of peripherals and memories.The devices feature several protection mechanisms for embedded flash memory and SRAM: readout protection, write protection, secure and hide protection areas.The devices embed several peripherals reinforcing security: a HASH hardware accelerator, and a true random number generator.The devices offer active tamper detection and protection against transient and environmental perturbation attacks, thanks to several internal monitoring generating secret data erase in case of attack. This helps to fit the PCI requirements for point of sales applications.The devices offer two fast 14-bit ADCs (2.5 Msps), one 12-bit ADC (2.5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, four 32-bit general-purpose timers, two 16-bit PWM timers dedicated to motor control, three 16-bit general-purpose timers, two 16-bit basic timers and four 16-bit low-power timers.The devices offer a rich set of graphic oriented peripherals: GPU2D (Neo-Chrom graphic processor) for graphic data fast processing including vector graphic operation, DMA2D (Chrom-ART Accelerator) for enhanced graphic content creation, GFXMMU (Chrom-GRC) allowing up to 20 % of graphic resources optimization, MIPI® DSI Host controller with two DSI lanes running at up to 500 Mbit/s each, and LTDC (LCD-TFT controller), a JPEG hardware compressor/decompressor and a dedicated GFXTIM graphic timer.The devices support an MDF (multifunction digital filter) with six filters dedicated to the connection of external sigma-delta modulators. Another low-power digital filter dedicated to audio signals is embedded (ADF), with one filter supporting sound-activity detection. The devices embed mathematical accelerators (a trigonometric functions accelerator plus a filter mathematical accelerator). In addition, up to 24 capacitive sensing channels are available.The devices also feature standard and advanced communication interfaces such as: six I2Cs, three SPIs, four USARTs, two UARTs and one low-power UART, two SAIs, one DCMI (digital camera interface), two SDMMCs, one FDCAN, one USB OTG high-speed, one USB Type-C™/USB Power Delivery controller, and one generic synchronous 8-/16-bit PSSI (parallel data input/output slave interface).The devices operate in the –40 to +85 °C (+ 105 °C junction) temperature ranges from a 1.71 to 3.6 V power supply.A comprehensive set of power-saving modes allows the design of low-power applications. Many peripherals (including communication, analog, timers, and audio peripherals) can be functional and autonomous down to Stop mode with direct memory access, thanks to LPBAM support (low-power background autonomous mode).Some independent power supplies are supported like an analog independent supply input for ADC, DACs, OPAMPs and comparators, a 3.3 V dedicated supply input for USB and up to 14 I/Os that can be supplied independently down to 1.08 V. A VBAT input is available for connecting a backup battery in order to preserve the RTC functionality and to backup 32 32-bit registers and 2-Kbyte SRAM.The devices offer nine packages from 64 to 216 pins. 

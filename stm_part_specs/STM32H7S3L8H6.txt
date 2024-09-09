@@ -1,0 +1,26 @@
+Part Name: STM32H7S3L8H6
+Caption: High-Performance Arm Cortex-M7 MCU, 600MHz, 64KB Bootflash, 620KB SRAM, with DSP, cache, USB HS PHY
+Parameters:
+Supply Voltage Min Volt: 1.62
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M7
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TFBGA 225 13x13x1.2 P 0.8 mm
+
+Key features:

@@ -1,0 +1,112 @@
+Part Name: STM32WL33C8V6
+Caption: Sub-GHz Wireless Microcontrollers. Single-core Arm Cortex-M0+ @64 MHz with 64 Kbytes of Flash memory, 16 Kbytes of SRAM.
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Operating Voltage Min Volt: 1.8
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M0+
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: VFQFPN 48 6x6x0.9
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Ultra-low power sub-1GHz wireless system-on-chip
+        • Programmable MCUCore: Arm® Cortex® -M0+ 32-bit, running up to 64 MHzProgram memory: 64-Kbyte / 128-Kbyte / 256-Kbyte flash memoryData memory: 16-Kbyte / 32-Kbyte SRAM (full retention)Additional storage: 1-Kbyte OTP (user data)
+                • Core: Arm® Cortex® -M0+ 32-bit, running up to 64 MHz
+                • Program memory: 64-Kbyte / 128-Kbyte / 256-Kbyte flash memory
+                • Data memory: 16-Kbyte / 32-Kbyte SRAM (full retention)
+                • Additional storage: 1-Kbyte OTP (user data)
+        • RadioFrequency bands: 159-185 MHz, 413-479 MHz, 826-958 MHzAir data rate from 0.1 to 600 kbit/sProgrammable TX power up to +20dBmRX sensitivity @ 1% BER:-132 dBm sensitivity @300 bit/s 433 MHz OOK-128 dBm sensitivity @300 bit/s 868 MHz 2(G)FSK-112 dBm sensitivity @38.4 bit/s 868 MHz 2(G)FSKModulation schemes:2(G)FSK, 2(G)MSK, 4(G)FSKOOK, ASKD-BPSKDSSS (direct sequence spread spectrum)I/Q channels data accessCompatible with proprietary and standardized wireless protocols (W-MBUS, Sigfox, Mioty, KNX-RF, IEEE 802.15.4g, others)Suitable for worldwide certifications:Europe: ETSI EN 300 220, category 1 compliant, ETSI EN 303 131US: FCC part 15 and part 90Japan: ARIB STD T67, T108Fully-configurable hardware sequencer for autonomous radio operations (Sniff mode, Frequency hopping, Low Duty Cycle mode, Listen before talk)
+                • Frequency bands: 159-185 MHz, 413-479 MHz, 826-958 MHz
+                • Air data rate from 0.1 to 600 kbit/s
+                • Programmable TX power up to +20dBm
+                • RX sensitivity @ 1% BER:-132 dBm sensitivity @300 bit/s 433 MHz OOK-128 dBm sensitivity @300 bit/s 868 MHz 2(G)FSK-112 dBm sensitivity @38.4 bit/s 868 MHz 2(G)FSK
+                        • -132 dBm sensitivity @300 bit/s 433 MHz OOK
+                        • -128 dBm sensitivity @300 bit/s 868 MHz 2(G)FSK
+                        • -112 dBm sensitivity @38.4 bit/s 868 MHz 2(G)FSK
+                • Modulation schemes:2(G)FSK, 2(G)MSK, 4(G)FSKOOK, ASKD-BPSKDSSS (direct sequence spread spectrum)I/Q channels data accessCompatible with proprietary and standardized wireless protocols (W-MBUS, Sigfox, Mioty, KNX-RF, IEEE 802.15.4g, others)
+                        • 2(G)FSK, 2(G)MSK, 4(G)FSK
+                        • OOK, ASK
+                        • D-BPSK
+                        • DSSS (direct sequence spread spectrum)
+                        • I/Q channels data access
+                        • Compatible with proprietary and standardized wireless protocols (W-MBUS, Sigfox, Mioty, KNX-RF, IEEE 802.15.4g, others)
+                • Suitable for worldwide certifications:Europe: ETSI EN 300 220, category 1 compliant, ETSI EN 303 131US: FCC part 15 and part 90Japan: ARIB STD T67, T108
+                        • Europe: ETSI EN 300 220, category 1 compliant, ETSI EN 303 131
+                        • US: FCC part 15 and part 90
+                        • Japan: ARIB STD T67, T108
+                • Fully-configurable hardware sequencer for autonomous radio operations (Sniff mode, Frequency hopping, Low Duty Cycle mode, Listen before talk)
+        • Wakeup radio receiverLow power autonomous wakeup receiver (LPAWUR), featuring:OOK data receiver channelSensitivity: -50 dBmCurrent consumption: 4 µA in always-on autonomous mode
+                • Low power autonomous wakeup receiver (LPAWUR), featuring:OOK data receiver channelSensitivity: -50 dBmCurrent consumption: 4 µA in always-on autonomous mode
+                        • OOK data receiver channel
+                        • Sensitivity: -50 dBm
+                        • Current consumption: 4 µA in always-on autonomous mode
+        • Ultra-low power architectureDynamic current consumption: 21 µA/MHz14 nA in Shutdown mode960 nA in Deepstop modeRadio only consumption:4 mA in RX8 mA in TX @ +10 dBm78 mA in TX @ +20 dBmConsumption: 1.3 mA current in WFI conditions (direct HSE mode)Wakeup capability from both Deepstop and Shutdown modes
+                • Dynamic current consumption: 21 µA/MHz
+                • 14 nA in Shutdown mode
+                • 960 nA in Deepstop mode
+                • Radio only consumption:4 mA in RX8 mA in TX @ +10 dBm78 mA in TX @ +20 dBm
+                        • 4 mA in RX
+                        • 8 mA in TX @ +10 dBm
+                        • 78 mA in TX @ +20 dBm
+                • Consumption: 1.3 mA current in WFI conditions (direct HSE mode)
+                • Wakeup capability from both Deepstop and Shutdown modes
+        • Peripherals and analog front-endLCD driver with up to 96 (12x8) or 64 (16x4) matrix elements12-bit ADC: up to 1 Msample/s with 8 single ended channels (or 4 differentials)1x comparator1x 6-bit sample-and-hold DAC output1x LC sensor controller (for autonomous rotary-wheel based flow metering)Battery voltage monitoring with low-level detectionTemperature monitoring
+                • LCD driver with up to 96 (12x8) or 64 (16x4) matrix elements
+                • 12-bit ADC: up to 1 Msample/s with 8 single ended channels (or 4 differentials)
+                • 1x comparator
+                • 1x 6-bit sample-and-hold DAC output
+                • 1x LC sensor controller (for autonomous rotary-wheel based flow metering)
+                • Battery voltage monitoring with low-level detection
+                • Temperature monitoring
+        • Communication interfacesUp to 32 GPIOs (VFQFPN48), all with retention capabilityUp to 17 GPIOs (VFQFPN32), all with retention capability1x USART. Supports of LIN, Smartcard Protocol, IrDA, SIR ENDEC specifications, and modem operations (CTS/RTS)1x LPUART (available also in low-power mode), with wakeup capability1x SPI1x SPI with I2S interface multiplexed2x I2C (SMBus/PMBus)1x DMA 8 channels controller, supporting ADC, DAC, SPIs, I2Cs, USART, LPUART, timers, AES
+                • Up to 32 GPIOs (VFQFPN48), all with retention capability
+                • Up to 17 GPIOs (VFQFPN32), all with retention capability
+                • 1x USART. Supports of LIN, Smartcard Protocol, IrDA, SIR ENDEC specifications, and modem operations (CTS/RTS)
+                • 1x LPUART (available also in low-power mode), with wakeup capability
+                • 1x SPI
+                • 1x SPI with I2S interface multiplexed
+                • 2x I2C (SMBus/PMBus)
+                • 1x DMA 8 channels controller, supporting ADC, DAC, SPIs, I2Cs, USART, LPUART, timers, AES
+        • Clock sources and timersFlexible clocking scheme, featuring:64 MHz (HSI or PLL)Fail-safe 48 MHz crystal oscillator (HSE), with integrated trimming capacitors32 kHz crystal oscillator (LSE)Integrated low-power 32 kHz RC (LSI)1x 16-bits, four channels general purpose timer1x 16-bits, two channels general purpose timer1x RTC1x independent watchdogRadio timer with wakeup capability
+                • Flexible clocking scheme, featuring:64 MHz (HSI or PLL)Fail-safe 48 MHz crystal oscillator (HSE), with integrated trimming capacitors32 kHz crystal oscillator (LSE)Integrated low-power 32 kHz RC (LSI)
+                        • 64 MHz (HSI or PLL)
+                        • Fail-safe 48 MHz crystal oscillator (HSE), with integrated trimming capacitors
+                        • 32 kHz crystal oscillator (LSE)
+                        • Integrated low-power 32 kHz RC (LSI)
+                • 1x 16-bits, four channels general purpose timer
+                • 1x 16-bits, two channels general purpose timer
+                • 1x RTC
+                • 1x independent watchdog
+                • Radio timer with wakeup capability
+        • SecuritySecure bootloader with SWD disablingAES-128 co-processor and 16-bit TRNGEmbedded UART bootloader with selectable write and read-out protection
+                • Secure bootloader with SWD disabling
+                • AES-128 co-processor and 16-bit TRNG
+                • Embedded UART bootloader with selectable write and read-out protection
+        • Operating range and resetUltra-low-power power-on-reset (POR) and power-down-reset (PDR)Programmable voltage detector (PVD)Supply voltage: from 1.7 to 3.6 VTemperature range: -40 ºC to 105 ºC
+                • Ultra-low-power power-on-reset (POR) and power-down-reset (PDR)
+                • Programmable voltage detector (PVD)
+                • Supply voltage: from 1.7 to 3.6 V
+                • Temperature range: -40 ºC to 105 ºC
+        • All packages are ECOPACK2 compliant
+Description: 
+The STM32WL33xx is a high performance ultra-low power wireless application processor, intended for RF wireless applications in the sub-1 GHz band. It is designed to operate in both the license-free ISM and SRD frequency bands such as 433, 868, and 915 MHz.It adopts a single-core architecture embedding an Arm® 32-bit Cortex®-M0+ CPU that can operate up to 64 MHz. It integrates high-speed and flexible memory types: up to 256 Kbyte flash memory, and up to 32 Kbyte RAM, one-time programmable (OTP) memory area of 1 Kbyte.The STM32WL33xx embeds a wide set of peripherals, including a 20-pin (16 segments + 4 commons) LCD driver, 12-bit, 8 channel ADC, analog comparator, DAC, LC sensor controller, RTC, IWDG, general purpose timers, AES-128, RNG, CRC, communication interfaces such as USART, SPI, and I2C. Moreover, the security features enable secure boot with USART/SWD block (write protection) and sensitive information storage in flash (read-out protection).Direct data transfer between memory and peripherals and from memory-to-memory is supported by seven DMA channels with fully-flexible channel mapping by the DMAMUX peripheral.It can be configured to support standalone or network processor applications. In the first configuration, the STM32WL33xx operates as single device in the application for managing both the application code and proprietary sub-1 GHz protocol stacks.It operates in the -40 to +105 °C temperature range from a 1.7 V to 3.6 V power supply. A comprehensive set of power-saving modes enables the design of low-power applications.The integrated highly efficient SMPS step-down converter together with the state transition speed between low-power and active states minimize in every condition the average current consumption enabling the STM32WL33xx to be the wireless application processor most suited for battery-operated applications.The STM32WL33xx comes in different package versions supporting up to 32 I/Os for the VFQFPN48 package and 17 I/Os for the VFQFPN32 package. 

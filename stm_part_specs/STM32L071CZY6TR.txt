@@ -1,0 +1,71 @@
+Part Name: STM32L071CZY6TR
+Caption: Ultra-low-power Arm Cortex-M0+ MCU with 192 Kbytes of Flash memory, 32 MHz CPu
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M0+
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: WLCSP 49 3.3x3.3x0.6 P 0.4 mm
+
+Key features:
+        • Ultra-low-power platform1.65 V to 3.6 V power supply-40 to 125 °C temperature range0.29 μA Standby mode (3 wakeup pins)0.43 μA Stop mode (16 wakeup lines)0.86 μA Stop mode + RTC + 20 KB RAM retentionDown to 93 μA/MHz Run mode5 μs wakeup time (from Flash memory)41 μA 1é-bit ADC (conversion at 10kbps)
+                • 1.65 V to 3.6 V power supply
+                • -40 to 125 °C temperature range
+                • 0.29 μA Standby mode (3 wakeup pins)
+                • 0.43 μA Stop mode (16 wakeup lines)
+                • 0.86 μA Stop mode + RTC + 20 KB RAM retention
+                • Down to 93 μA/MHz Run mode
+                • 5 μs wakeup time (from Flash memory)
+                • 41 μA 1é-bit ADC (conversion at 10kbps)
+        • Core: ARM®  32-bit Cortex® -M0+ with MPUFrom 32 kHz up to 32 MHz max.0.95 DMIPS/MHzUltra-safe, low-power BOR (brownout reset) with 5 selectable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)
+                • From 32 kHz up to 32 MHz max.
+                • 0.95 DMIPS/MHz
+                • Ultra-safe, low-power BOR (brownout reset) with 5 selectable thresholds
+                • Ultra-low-power POR/PDR
+                • Programmable voltage detector (PVD)
+        • Clock sources1 to 25 MHz crystal oscillator32 kHz oscillator for RTC with calibrationHigh speed internal 16 MHz factory-trimmed RC (+/- 1%)Internal low-power 37 kHz RCInternal multispeed low-power 65 kHz to 4.2 MHz RCPLL for CPU clock
+                • 1 to 25 MHz crystal oscillator
+                • 32 kHz oscillator for RTC with calibration
+                • High speed internal 16 MHz factory-trimmed RC (+/- 1%)
+                • Internal low-power 37 kHz RC
+                • Internal multispeed low-power 65 kHz to 4.2 MHz RC
+                • PLL for CPU clock
+        • Pre-programmed bootloaderUSART, I2C, SPI supported
+                • USART, I2C, SPI supported
+        • Development supportSerial wire debug supported
+                • Serial wire debug supported
+        • Up to 84 fast I/Os (78 I/Os 5V tolerant)
+        • MemoriesUp to 192 KB Flash memory with ECC(2 banks with read-while-write capability)20 KB RAM6 KB of data EEPROM with ECC20-byte backup registerSector protection against R/W operation
+                • Up to 192 KB Flash memory with ECC(2 banks with read-while-write capability)
+                • 20 KB RAM
+                • 6 KB of data EEPROM with ECC
+                • 20-byte backup register
+                • Sector protection against R/W operation
+        • Rich Analog peripherals12-bit ADC 1.14 Msps up to 16 channels (down to 1.65 V)2x ultra-low-power comparators (window mode and wake up capability, down to 1.8 V)
+                • 12-bit ADC 1.14 Msps up to 16 channels (down to 1.65 V)
+                • 2x ultra-low-power comparators (window mode and wake up capability, down to 1.8 V)
+        • 7-channel DMA controller, supporting ADC, SPI, I2C, USART, Timers
+        • 10x peripheral communication interfaces
+        • 4x USART (2 with ISO 7816, IrDA), 1x UART (low power)
+        • 2x SPI 16 Mbits/s
+        • 3x I2C (2 with SMBus/PMBus)
+        • 11x timers: 2x 16-bit with up to 4 channels, 2x 16-bit with up to 2 channels, 1x 16-bit ultra-low-power timer, 1x SysTick, 1x RTC, 2x 16-bit basic, and 2x watchdogs (independent/window)
+        • CRC calculation unit, 96-bit unique ID
+Description: 
+The access line ultra-low-power STM32L071xx microcontrollers incorporate the high-performance ARM® Cortex®-M0+ 32-bit RISC core operating at a 32 MHz frequency, a memory protection unit (MPU), high-speed embedded memories (up to 192 Kbytes of Flash program memory, 6 Kbytes of data EEPROM and 20 Kbytes of RAM) plus an extensive range of enhanced I/Os and peripherals.The STM32L071xx devices provide high power efficiency for a wide range of performance. It is achieved with a large choice of internal and external clock sources, an internal voltage adaptation and several low-power modes.The STM32L071xx devices offer several analog features, one 12-bit ADC with hardware oversampling, two ultra-low-power comparators, several timers, one low-power timer (LPTIM), four general-purpose 16-bit timers and two basic timer, one RTC and one SysTick which can be used as timebases. They also feature two watchdogs, one watchdog with independent clock and window capability and one window watchdog based on bus clock.Moreover, the STM32L071xx devices embed standard and advanced communication interfaces: up to three I2Cs, two SPIs, one I2S, four USARTs, a low-power UART (LPUART), .The STM32L071xx also include a real-time clock and a set of backup registers that remain powered in Standby mode.The ultra-low-power STM32L071xx devices operate from a 1.8 to 3.6 V power supply (down to 1.65 V at power down) with BOR and from a 1.65 to 3.6 V power supply without BOR option. They are available in the -40 to +125 °C temperature range. A comprehensive set of power-saving modes allows the design of low-power applications. 

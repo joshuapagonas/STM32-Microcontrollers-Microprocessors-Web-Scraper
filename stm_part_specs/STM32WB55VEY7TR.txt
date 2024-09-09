@@ -1,0 +1,64 @@
+Part Name: STM32WB55VEY7TR
+Caption: Ultra-low-power dual core Arm Cortex-M4 MCU 64 MHz, Cortex-M0+ 32 MHz with 512 Kbytes of Flash memory, Bluetooth LE 5.3, 802.15.4, Zigbee, Thread, Matter, USB, LCD, AES-256
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 105.0
+
+Operating Voltage Min Volt: 1.71
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M4
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: WLCSP 100 4.4x4.4x0.6 P 0.4 mm
+
+Key features:
+        • Include ST state-of-the-art patented technology
+        • Radio2.4 GHzRF transceiver supporting Bluetooth® 5.2specification, IEEE 802.15.4-2011 PHY and MAC, supporting Thread and Zigbee® 3.0RX sensitivity: -96 dBm (Bluetooth® Low Energy at 1 Mbps), -100 dBm (802.15.4)Programmable output power up to +6 dBm with 1 dB stepsIntegrated balun to reduce BOMSupport for 2 MbpsDedicated Arm® 32-bit Cortex® M0+ CPU for real-time Radio layerAccurate RSSI to enable power controlSuitable for systems requiring compliance with radio frequency regulations ETSI EN 300 328, EN 300 440, FCC CFR47 Part 15 and ARIB STD-T66Support for external PAAvailable integrated passive device (IPD) companion chip for optimized matching solution (MLPF-WB-01E3 or MLPF-WB-02E3)
+                • 2.4 GHz
+                • RF transceiver supporting Bluetooth® 5.2specification, IEEE 802.15.4-2011 PHY and MAC, supporting Thread and Zigbee® 3.0
+                • RX sensitivity: -96 dBm (Bluetooth® Low Energy at 1 Mbps), -100 dBm (802.15.4)
+                • Programmable output power up to +6 dBm with 1 dB steps
+                • Integrated balun to reduce BOM
+                • Support for 2 Mbps
+                • Dedicated Arm® 32-bit Cortex® M0+ CPU for real-time Radio layer
+                • Accurate RSSI to enable power control
+                • Suitable for systems requiring compliance with radio frequency regulations ETSI EN 300 328, EN 300 440, FCC CFR47 Part 15 and ARIB STD-T66
+                • Support for external PA
+                • Available integrated passive device (IPD) companion chip for optimized matching solution (MLPF-WB-01E3 or MLPF-WB-02E3)
+        • Ultra-low-power platform1.71 to 3.6 V power supply– 40 °C to 85 / 105 °C temperature ranges13 nA shutdown mode600 nA Standby mode + RTC + 32 KB RAM2.1 µA Stop mode + RTC + 256 KB RAMActive-mode MCU: < 53 µA / MHz when RF and SMPS onRadio: Rx 4.5 mA / Tx at 0 dBm 5.2 mA
+                • 1.71 to 3.6 V power supply
+                • – 40 °C to 85 / 105 °C temperature ranges
+                • 13 nA shutdown mode
+                • 600 nA Standby mode + RTC + 32 KB RAM
+                • 2.1 µA Stop mode + RTC + 256 KB RAM
+                • Active-mode MCU: < 53 µA / MHz when RF and SMPS on
+                • Radio: Rx 4.5 mA / Tx at 0 dBm 5.2 mA
+        • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 64 MHz, MPU, 80 DMIPS and DSP instructions
+        • Performance benchmark1.25 DMIPS/MHz (Drystone 2.1)219.48 CoreMark® (3.43 CoreMark/MHz at 64 MHz)
+                • 1.25 DMIPS/MHz (Drystone 2.1)
+                • 219.48 CoreMark® (3.43 CoreMark/MHz at 64 MHz)
+        • Energy benckmark303 ULPMark™  CP score
+                • 303 ULPMark™  CP score
+        • Supply and reset managementHigh efficiency embedded SMPS step-down converter with intelligent bypass modeUltra-safe, low-power BOR (brownout reset) with five selectable thresholdsUltra-low-power POR/PDRProgrammable voltage d
+                • High efficiency embedded SMPS step-down converter with intelligent bypass mode
+                • Ultra-safe, low-power BOR (brownout reset) with five selectable thresholds
+                • Ultra-low-power POR/PDR
+                • Programmable voltage d
+Description: 
+The STM32WB55xx and STM32WB35xx multiprotocol wireless and ultra-low-power devices embed a powerful and ultra-low-power radio compliant with the Bluetooth® Low Energy SIG specification 5.2 and with IEEE 802.15.4-2011. They contain a dedicated Arm® Cortex®-M0+ for performing all the real-time low layer operation.The devices are designed to be extremely low-power and are based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 64 MHz. This core features a Floating point unit (FPU) single precision that supports all Arm®single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) that enhances application security.Enhanced inter-processor communication is provided by the IPCC with six bidirectional channels. The HSEM provides hardware semaphores used to share common resources between the two processors.The devices embed high-speed memories (up to 1 Mbyte of Flash memory for STM32WB55xx, up to 512 Kbytes for STM32WB35xx, up to 256 Kbytes of SRAM for STM32WB55xx, 96 Kbytes for STM32WB35xx), a Quad-SPI Flash memory interface (available on all packages) and an extensive range of enhanced I/Os and peripherals.Direct data transfer between memory and peripherals and from memory to memory is supported by fourteen DMA channels with a full flexible channel mapping by the DMAMUX peripheral.The devices feature several mechanisms for embedded Flash memory and SRAM: readout protection, write protection and proprietary code readout protection. Portions of the memory can be secured for Cortex® -M0+ exclusive access.The two AES encryption engines, PKA and RNG enable lower layer MAC and upper layer cryptography. A customer key storage feature may be used to keep the keys hidden.The devices offer a fast 12-bit ADC and two ultra-low-power comparators associated with a high accuracy reference voltage generator.These devices embed a low-power RTC, one advanced 16-bit timer, one general-purpose32-bit timer, two general-purpose 16-bit timers, and two 16-bit low-power timers.In addition, up to 18 capacitive sensing channels are available for STM32WB55xx (not on UFQFPN48 package). The STM32WB55xx also embed an integrated LCD driver up to 8x40 or 4x44, with internal step-up converter.The STM32WB55xx and STM32WB35xx also feature standard and advanced communication interfaces, namely one USART (ISO 7816, IrDA, Modbus and Smartcard mode), one low- power UART (LPUART), two I2Cs (SMBus/PMBus), two SPIs (one for STM32WB35xx) up to 32 MHz, one serial audio interface (SAI) with two channels and three PDMs, one USB 2.0 FS device with embedded crystal-less oscillator, supporting BCD and LPM and one Quad-SPI with execute-in-place (XIP) capability.The STM32WB55xx and STM32WB35xx operate in the -40 to +105 °C (+125 °C junction) and -40 to +85 °C (+105 °C junction) temperature ranges from a 1.71 to 3.6 V power supply. A comprehensive set of power-saving modes enables the design of low-power applications.The devices include independent power supplies for analog input for ADC.The STM32WB55xx and STM32WB35xx integrate a high efficiency SMPS step-down converter with automatic bypass mode capability when the VDD falls below VBORx (x=1, 2, 3, 4) voltage level (default is 2.0 V). It includes independent power supplies for analog input for ADC and comparators, as well as a 3.3 V dedicated supply input for USB.A VBAT dedicated supply allows the devices to back up the LSE 32.768 kHz oscillator, the RTC and the backup registers, thus enabling the STM32WB55xx and STM32WB35xx to supply these functions even if the main VDD is not present through a CR2032-like battery, a Supercap or a small rechargeable battery.The STM32WB55xx offer four packages, from 48 to 129 pins. The STM32WB35xx offer one package, 48 pins. 

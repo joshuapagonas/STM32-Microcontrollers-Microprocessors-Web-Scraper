@@ -1,0 +1,91 @@
+Part Name: STM32L496ZGT3
+Caption: Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 1 Mbyte of Flash memory, USB OTG, LCD, DFSDM
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 125.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 144 20x20x1.4 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technologyUltra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature range320 nA in VBATmode: supply for RTC and 32 x 32-bit backup registers25 nA Shutdown mode (5 wakeup pins)108 nA Standby mode (5 wakeup pins)426 nA Standby mode with RTC2.57 µA Stop 2 mode, 2.86 µA Stop 2 with RTC91 µA/MHz run mode (LDO mode)37 μA/MHz run mode (at 3.3 V SMPS mode)Batch acquisition mode (BAM)5 µs wakeup from Stop modeBrown out reset (BOR) in all modes except shutdownInterconnect matrixCore: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from flash memory, frequency up to 80 MHz, MPU, 100 DMIPS and DSP instructionsPerformance benchmark1.25 DMIPS/MHz (Drystone 2.1)273.55 Coremark® (3.42 Coremark/MHz at 80 MHz)Energy benchmark279 ULPMark™  CP score80.2 ULPMark™  PP score16 timers: 2x 16-bit advanced motor-control, 2x 32-bit and 5x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timerRTC with HW calendar, alarms and calibrationUp to 136 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 VDedicated Chrom-ART Accelerator for enhanced graphic content creation (DMA2D)8- to 14-bit camera interface up to 32 MHz (black & white) or 10 MHz (color)Encryption hardware accelerator: HASH (SHA-256)MemoriesUp to 1 MB flash, 2 banks read-while-write, proprietary code readout protection320 KB of SRAM including 64 KB with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memoriesDual-flash Quad SPI memory interfaceClock sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25% accuracy)Internal 48 MHz with clock recovery3 PLLs for system clock, USB, audio, ADCLCD 8× 40 or 4× 44 with step-up converterUp to 24 capacitive sensing channels: support touchkey, linear and rotary touch sensors4x digital filters for sigma delta modulatorRich analog peripherals (independent supply)3× 12-bit ADCs 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps2x 12-bit DAC output channels, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators20x communication interfacesUSB OTG 2.0 full-speed, LPM and BCD2x SAIs (serial audio interface)4x I2C FM+(1 Mbit/s), SMBus/PMBus5x U(S)ARTs (ISO 7816, LIN, IrDA, modem)1x LPUART3x SPIs (4x SPIs with the Quad SPI)2x CANs (2.0B Active) and SDMMCSWPMI single wire protocol master I/FIRTIM (Infrared interface)14-channel DMA controllerTrue random number generatorCRC calculation unit, 96-bit unique IDDevelopment support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+                • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature range320 nA in VBATmode: supply for RTC and 32 x 32-bit backup registers25 nA Shutdown mode (5 wakeup pins)108 nA Standby mode (5 wakeup pins)426 nA Standby mode with RTC2.57 µA Stop 2 mode, 2.86 µA Stop 2 with RTC91 µA/MHz run mode (LDO mode)37 μA/MHz run mode (at 3.3 V SMPS mode)Batch acquisition mode (BAM)5 µs wakeup from Stop modeBrown out reset (BOR) in all modes except shutdownInterconnect matrix
+                        • 1.71 V to 3.6 V power supply
+                        • -40 °C to 85/125 °C temperature range
+                        • 320 nA in VBATmode: supply for RTC and 32 x 32-bit backup registers
+                        • 25 nA Shutdown mode (5 wakeup pins)
+                        • 108 nA Standby mode (5 wakeup pins)
+                        • 426 nA Standby mode with RTC
+                        • 2.57 µA Stop 2 mode, 2.86 µA Stop 2 with RTC
+                        • 91 µA/MHz run mode (LDO mode)
+                        • 37 μA/MHz run mode (at 3.3 V SMPS mode)
+                        • Batch acquisition mode (BAM)
+                        • 5 µs wakeup from Stop mode
+                        • Brown out reset (BOR) in all modes except shutdown
+                        • Interconnect matrix
+                • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from flash memory, frequency up to 80 MHz, MPU, 100 DMIPS and DSP instructions
+                • Performance benchmark1.25 DMIPS/MHz (Drystone 2.1)273.55 Coremark® (3.42 Coremark/MHz at 80 MHz)
+                        • 1.25 DMIPS/MHz (Drystone 2.1)
+                        • 273.55 Coremark® (3.42 Coremark/MHz at 80 MHz)
+                • Energy benchmark279 ULPMark™  CP score80.2 ULPMark™  PP score
+                        • 279 ULPMark™  CP score
+                        • 80.2 ULPMark™  PP score
+                • 16 timers: 2x 16-bit advanced motor-control, 2x 32-bit and 5x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timer
+                • RTC with HW calendar, alarms and calibration
+                • Up to 136 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 V
+                • Dedicated Chrom-ART Accelerator for enhanced graphic content creation (DMA2D)
+                • 8- to 14-bit camera interface up to 32 MHz (black & white) or 10 MHz (color)
+                • Encryption hardware accelerator: HASH (SHA-256)
+                • MemoriesUp to 1 MB flash, 2 banks read-while-write, proprietary code readout protection320 KB of SRAM including 64 KB with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memoriesDual-flash Quad SPI memory interface
+                        • Up to 1 MB flash, 2 banks read-while-write, proprietary code readout protection
+                        • 320 KB of SRAM including 64 KB with hardware parity check
+                        • External memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memories
+                        • Dual-flash Quad SPI memory interface
+                • Clock sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25% accuracy)Internal 48 MHz with clock recovery3 PLLs for system clock, USB, audio, ADC
+                        • 4 to 48 MHz crystal oscillator
+                        • 32 kHz crystal oscillator for RTC (LSE)
+                        • Internal 16 MHz factory-trimmed RC (±1%)
+                        • Internal low-power 32 kHz RC (±5%)
+                        • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25% accuracy)
+                        • Internal 48 MHz with clock recovery
+                        • 3 PLLs for system clock, USB, audio, ADC
+                • LCD 8× 40 or 4× 44 with step-up converter
+                • Up to 24 capacitive sensing channels: support touchkey, linear and rotary touch sensors
+                • 4x digital filters for sigma delta modulator
+                • Rich analog peripherals (independent supply)3× 12-bit ADCs 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps2x 12-bit DAC output channels, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators
+                        • 3× 12-bit ADCs 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps
+                        • 2x 12-bit DAC output channels, low-power sample and hold
+                        • 2x operational amplifiers with built-in PGA
+                        • 2x ultra-low-power comparators
+                • 20x communication interfacesUSB OTG 2.0 full-speed, LPM and BCD2x SAIs (serial audio interface)4x I2C FM+(1 Mbit/s), SMBus/PMBus5x U(S)ARTs (ISO 7816, LIN, IrDA, modem)1x LPUART3x SPIs (4x SPIs with the Quad SPI)2x CANs (2.0B Active) and SDMMCSWPMI single wire protocol master I/FIRTIM (Infrared interface)
+                        • USB OTG 2.0 full-speed, LPM and BCD
+                        • 2x SAIs (serial audio interface)
+                        • 4x I2C FM+(1 Mbit/s), SMBus/PMBus
+                        • 5x U(S)ARTs (ISO 7816, LIN, IrDA, modem)
+                        • 1x LPUART
+                        • 3x SPIs (4x SPIs with the Quad SPI)
+                        • 2x CANs (2.0B Active) and SDMMC
+                        • SWPMI single wire protocol master I/F
+                        • IRTIM (Infrared interface)
+                • 14-channel DMA controller
+                • True random number generator
+                • CRC calculation unit, 96-bit unique ID
+                • Development support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+Description: 
+The STM32L496xx devices are ultra-low-power microcontrollers based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 80 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision that supports all Arm® single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32L496xx devices embed high-speed memories (up to 1 Mbyte of flash memory, 320 Kbyte of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), a Quad SPI flash memories interface (available on all packages) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The STM32L496xx devices embed several protection mechanisms for embedded flash memory and SRAM: readout protection, write protection, proprietary code readout protection and Firewall.The devices offer up to three fast 12-bit ADCs (5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timer, two 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and two 16-bit low-power timers. The devices support four digital filters for external sigma delta modulators (DFSDM).In addition, up to 24 capacitive sensing channels are available. The devices also embed an integrated LCD driver 8x40 or 4x44, with internal step-up converter.They also feature standard and advanced communication interfaces, namely four I2Cs, three SPIs, three USARTs, two UARTs and one Low-Power UART, two SAIs, one SDMMC, two CANs, one USB OTG full-speed, one SWPMI (single wire protocol master interface), a camera interface and a DMA2D controller.The STM32L496xx devices embed HASH hardware accelerators.The STM32L496xx operates in the -40 to +85 °C (+105 °C junction), -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V VDD power supply when using internal LDO regulator and a 1.05 to 1.32V VDD12 power supply when using external SMPS supply. A comprehensive set of power-saving modes makes possible the design of low-power applications.Some independent power supplies are supported: analog independent supply input for ADC, DAC, OPAMPs and comparators, 3.3 V dedicated supply input for USB and up to 14 I/Os can be supplied independently down to 1.08 V. A VBAT input makes it possible to backup the RTC and backup registers. Dedicated VDD12 power supplies can be used to bypass the internal LDO regulator when connected to an external SMPS.The STM32L496xx family offers seven packages from 64-pin to 169-pin packages. 

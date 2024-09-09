@@ -1,0 +1,74 @@
+Part Name: STM32F373VBT6
+Caption: Mainstream Mixed signals MCUs Arm Cortex-M4 core with DSP and FPU, 128 KBytes of Flash memory, 72 MHz CPU, MPU, 16-bit ADC comparators
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 100 14x14x1.4 mm
+
+Key features:
+        • Core: ARM® 32-bit Cortex® -M4 CPU (72 MHz max), single-cycle multiplication and HW division, DSP instruction with FPU (floating-point unit) and MPU (memory protection unit)
+        • 1.25 DMIPS/MHz (Dhrystone 2.1)
+        • Memories64 to 256 Kbytes of Flash memory32 Kbytes of SRAM with HW parity check
+                • 64 to 256 Kbytes of Flash memory
+                • 32 Kbytes of SRAM with HW parity check
+        • CRC calculation unit
+        • Reset and power managementVoltage range: 2.0 to 3.6 VPower-on/Power down reset (POR/PDR)Programmable voltage detector (PVD)Low power modes: Sleep, Stop, StandbyVBATsupply for RTC and backup registers
+                • Voltage range: 2.0 to 3.6 V
+                • Power-on/Power down reset (POR/PDR)
+                • Programmable voltage detector (PVD)
+                • Low power modes: Sleep, Stop, Standby
+                • VBATsupply for RTC and backup registers
+        • Clock management4 to 32 MHz crystal oscillator32 kHz oscillator for RTC with calibrationInternal 8 MHz RC with x16 PLL optionInternal 40 kHz oscillator
+                • 4 to 32 MHz crystal oscillator
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 8 MHz RC with x16 PLL option
+                • Internal 40 kHz oscillator
+        • Up to 84 fast I/OsAll mappable on external interrupt vectorsUp to 45 I/Os with 5 V tolerant capability
+                • All mappable on external interrupt vectors
+                • Up to 45 I/Os with 5 V tolerant capability
+        • 12-channel DMA controller
+        • One 12-bit, 1.0 μs ADC (up to 16 channels)Conversion range: 0 to 3.6 VSeparate analog supply from 2.4 up to 3.6
+                • Conversion range: 0 to 3.6 V
+                • Separate analog supply from 2.4 up to 3.6
+        • Three 16-bit Sigma Delta ADCSeparate analog supply from 2.2 to 3.6 V, up to 21 single/ 11 diff channels
+                • Separate analog supply from 2.2 to 3.6 V, up to 21 single/ 11 diff channels
+        • Three 12-bit DAC channels
+        • Two fast rail-to-rail analog comparators with programmable input and output
+        • Up to 24 capacitive sensing channels
+        • 17 timersTwo 32-bit timers and three 16-bit timers with up to 4 IC/OC/PWM or pulse countersTwo 16-bit timers with up to 2 IC/OC/PWM or pulse countersFour 16-bit timers with up to 1 IC/OC/PWM or pulse counterIndependent and system watchdog timersSysTick timer: 24-bit down counterThree 16-bit basic timers to drive the DAC
+                • Two 32-bit timers and three 16-bit timers with up to 4 IC/OC/PWM or pulse counters
+                • Two 16-bit timers with up to 2 IC/OC/PWM or pulse counters
+                • Four 16-bit timers with up to 1 IC/OC/PWM or pulse counter
+                • Independent and system watchdog timers
+                • SysTick timer: 24-bit down counter
+                • Three 16-bit basic timers to drive the DAC
+        • Calendar RTC with Alarm and periodic wakeup from Stop/Standby
+        • Communication interfacesCAN interface (2.0B Active)Two I2Cs supporting Fast Mode Plus (1 Mbit/s) with 20 mA current sink, SMBus/PMBus, wakeup from STOPThree USARTs supporting synchronous mode, modem control, ISO/IEC 7816, LIN, IrDA, auto baud rate, wakeup featureThree SPIs (18 Mbit/s) with 4 to 16 programmable bit frames, muxed I2SHDMI-CEC bus interfaceUSB 2.0 full speed interface
+                • CAN interface (2.0B Active)
+                • Two I2Cs supporting Fast Mode Plus (1 Mbit/s) with 20 mA current sink, SMBus/PMBus, wakeup from STOP
+                • Three USARTs supporting synchronous mode, modem control, ISO/IEC 7816, LIN, IrDA, auto baud rate, wakeup feature
+                • Three SPIs (18 Mbit/s) with 4 to 16 programmable bit frames, muxed I2S
+                • HDMI-CEC bus interface
+                • USB 2.0 full speed interface
+        • Serial wire devices, JTAG, Cortex® -M4 ETM
+        • 96-bit unique ID
+Description: 
+The STM32F373xx family is based on the high-performance ARM® Cortex®-M4 32-bit RISC core operating at a frequency of up to 72 MHz, and embedding a floating point unit (FPU), a memory protection unit (MPU) and an Embedded Trace Macrocell™ (ETM). The family incorporates high-speed embedded memories (up to 256 Kbyte of Flash memory, up to 32 Kbytes of SRAM), and an extensive range of enhanced I/Os and peripherals connected to two APB buses.The STM32F373xx devices offer one fast 12-bit ADC (1 Msps), three 16-bit Sigma delta ADCs, two comparators, two DACs (DAC1 with 2 channels and DAC2 with 1 channel), a low-power RTC, 9 general-purpose 16-bit timers, two general-purpose 32-bit timers, three basic timers.They also feature standard and advanced communication interfaces: two I2Cs, three SPIs, all with muxed I2Ss, three USARTs, CAN and USB.The STM32F373xx family operates in the -40 to +85 °C and -40 to +105 °C temperature ranges from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F373xx family offers devices in five packages ranging from 48 pins to 100 pins. The set of included peripherals changes with the device chosen. 

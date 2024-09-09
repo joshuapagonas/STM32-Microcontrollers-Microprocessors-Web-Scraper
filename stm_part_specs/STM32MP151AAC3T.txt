@@ -1,0 +1,59 @@
+Part Name: STM32MP151AAC3T
+Caption: MPU with Arm Cortex-A7 650 MHz, Arm Cortex-M4 real-time coprocessor, TFT display
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 125.0
+
+Core: Arm Cortex-A7
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TFBGA 361 12x12x1.2 P 0.5 mm
+
+Key features:
+        • Core32-bit Arm® Cortex® -A7L1 32-Kbyte I / 32-Kbyte D256-Kbyte unified level 2 cacheArm® NEON™  and Arm® TrustZone® 32-bit Arm® Cortex® -M4 with FPU/MPUUp to 209 MHz (Up to 703 CoreMark® )
+                • 32-bit Arm® Cortex® -A7L1 32-Kbyte I / 32-Kbyte D256-Kbyte unified level 2 cacheArm® NEON™  and Arm® TrustZone® 
+                        • L1 32-Kbyte I / 32-Kbyte D
+                        • 256-Kbyte unified level 2 cache
+                        • Arm® NEON™  and Arm® TrustZone® 
+                • 32-bit Arm® Cortex® -M4 with FPU/MPUUp to 209 MHz (Up to 703 CoreMark® )
+                        • Up to 209 MHz (Up to 703 CoreMark® )
+        • MemoriesExternal DDR memory up to 1 Gbyteup to LPDDR2/LPDDR3-1066 16/32-bitup to DDR3/DDR3L-1066 16/32-bit708 Kbytes of internal SRAM: 256 Kbytes of AXI SYSRAM + 384 Kbytes of AHB SRAM + 64 Kbytes of AHB SRAM in Backup domain and 4 Kbytes of SRAM in Backup domainDual mode Quad-SPI memory interfaceFlexible external memory controller with up to 16-bit data bus: parallel interface to connect external ICs and SLC NAND memories with up to 8-bit ECC
+                • External DDR memory up to 1 Gbyteup to LPDDR2/LPDDR3-1066 16/32-bitup to DDR3/DDR3L-1066 16/32-bit
+                        • up to LPDDR2/LPDDR3-1066 16/32-bit
+                        • up to DDR3/DDR3L-1066 16/32-bit
+                • 708 Kbytes of internal SRAM: 256 Kbytes of AXI SYSRAM + 384 Kbytes of AHB SRAM + 64 Kbytes of AHB SRAM in Backup domain and 4 Kbytes of SRAM in Backup domain
+                • Dual mode Quad-SPI memory interface
+                • Flexible external memory controller with up to 16-bit data bus: parallel interface to connect external ICs and SLC NAND memories with up to 8-bit ECC
+        • Security/safetyTrustZone® peripherals, active tamperCortex® -M4 resources isolation
+                • TrustZone® peripherals, active tamper
+                • Cortex® -M4 resources isolation
+        • Reset and power management1.71 V to 3.6 V I/Os supply (5 V-tolerant I/Os)POR, PDR, PVD and BOROn-chip LDOs (RETRAM, BKPSRAM, USB 1.8 V, 1.1 V)Backup regulator (~0.9 V)Internal temperature sensorsLow-power modes: Sleep, Stop and StandbyDDR memory retention in Standby modeControls for PMIC companion chip
+                • 1.71 V to 3.6 V I/Os supply (5 V-tolerant I/Os)
+                • POR, PDR, PVD and BOR
+                • On-chip LDOs (RETRAM, BKPSRAM, USB 1.8 V, 1.1 V)
+                • Backup regulator (~0.9 V)
+                • Internal temperature sensors
+                • Low-power modes: Sleep, Stop and Standby
+                • DDR memory retention in Standby mode
+                • Controls for PMIC companion chip
+        • Low-power consumptionTotal current consumption down to 2 µA (Standby mode, no RTC, no LSE, no BKPSRAM, no RETRAM)
+                • Total current consumption down to 2 µA (Standby mode, no RTC, no LSE, no BKPSRAM, no RETRAM)
+        • Clock managementInternal oscillators: 64 MHz HSI oscillator, 4 MHz CSI oscillator, 32 kHz LSI oscillatorExternal oscillators: 8-48 MHz HSE oscill
+                • Internal oscillators: 64 MHz HSI oscillator, 4 MHz CSI oscillator, 32 kHz LSI oscillator
+                • External oscillators: 8-48 MHz HSE oscill
+Description: 
+The STM32MP151A/D devices are based on the high-performance Arm® Cortex®-A7 32-bit RISC core operating at up to 800 MHz. The Cortex-A7 processor includes a 32-Kbyte L1 instruction cache, a 32-Kbyte L1 data cache and a 256-Kbyte level2 cache. The Cortex-A7 processor is a very energy-efficient application processor designed to provide rich performance in high-end wearables, and other low-power embedded and consumer applications. It provides up to 20% more single thread performance than the Cortex-A5 and provides similar performance than the Cortex-A9.The Cortex-A7 incorporates all features of the high-performance Cortex-A15 and Cortex-A17 processors, including virtualization support in hardware, NEON™, and 128-bit AMBA®4 AXI bus interface.The STM32MP151A/D devices also embed a Cortex® -M4 32-bit RISC core operating at up to 209 MHz frequency. Cortex-M4 core features a floating point unit (FPU) single precision which supports Arm® single-precision data-processing instructions and data types. The Cortex® -M4 supports a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32MP151A/D devices provide an external SDRAM interface supporting external memories up to 8-Gbit density (1 Gbyte), 16 or 32-bit LPDDR2/LPDDR3 or DDR3/DDR3L up to 533 MHz.The STM32MP151A/D devices incorporate high-speed embedded memories with 708 Kbytes of Internal SRAM (including 256 Kbytes of AXI SYSRAM, 3 banks of 128 Kbytes each of AHB SRAM, 64 Kbytes of AHB SRAM in backup domain and 4 Kbytes of SRAM in backup domain), as well as an extensive range of enhanced I/Os and peripherals connected to APB buses, AHB buses, a 32-bit multi-AHB bus matrix and a 64-bit multi layer AXI interconnect supporting internal and external memories access.All the devices offer two ADCs, two DACs, a low-power RTC, 12 general-purpose 16-bit timers, two PWM timers for motor control, five low-power timers, a true random number generator (RNG). The devices support six digital filters for external sigma delta modulators (DFSDM). They also feature standard and advanced communication interfaces. 

@@ -1,0 +1,79 @@
+Part Name: STM8L151R8T6
+Caption: Ultra-low-power 8-bit MCU with 64 Kbytes Flash, 16 MHz CPU, integrated EEPROM
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: STM8
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Operating conditionsOperating power supply: 1.65 to 3.6 V (without BOR), 1.8 to 3.6 V (with BOR)Temp. range: -40 to 85, 105 or 125 °C
+                • Operating power supply: 1.65 to 3.6 V (without BOR), 1.8 to 3.6 V (with BOR)
+                • Temp. range: -40 to 85, 105 or 125 °C
+        • Low-power features5 low-power modes: Wait, Low-power run (5.9 μA), Low-power wait (3 μA), Active-halt with full RTC (1.4 μA), Halt (400 nA)Consumption: 200 μA/MHz+330 μAFast wake up from Halt mode (4.7 μs)Ultra low leakage per I/0: 50 nA
+                • 5 low-power modes: Wait, Low-power run (5.9 μA), Low-power wait (3 μA), Active-halt with full RTC (1.4 μA), Halt (400 nA)
+                • Consumption: 200 μA/MHz+330 μA
+                • Fast wake up from Halt mode (4.7 μs)
+                • Ultra low leakage per I/0: 50 nA
+        • Advanced STM8 coreHarvard architecture and 3-stage pipelineMax freq: 16 MHz, 16 CISC MIPS peakUp to 40 external interrupt sources
+                • Harvard architecture and 3-stage pipeline
+                • Max freq: 16 MHz, 16 CISC MIPS peak
+                • Up to 40 external interrupt sources
+        • Reset and supply managementLow-power, ultra safe BOR reset with five programmable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)
+                • Low-power, ultra safe BOR reset with five programmable thresholds
+                • Ultra-low-power POR/PDR
+                • Programmable voltage detector (PVD)
+        • Clock management32 kHz and 1-16 MHz crystal oscillatorsInternal 16 MHz factory-trimmed RC and 38 kHz low consumption RCClock security system
+                • 32 kHz and 1-16 MHz crystal oscillators
+                • Internal 16 MHz factory-trimmed RC and 38 kHz low consumption RC
+                • Clock security system
+        • Low-power RTCBCD calendar with alarm interruptDigital calibration with +/- 0.5ppm accuracyAdvanced anti-tamper detection
+                • BCD calendar with alarm interrupt
+                • Digital calibration with +/- 0.5ppm accuracy
+                • Advanced anti-tamper detection
+        • LCD: 8x40 or 4x44 w/ step-up converter
+        • DMA4 ch. for ADC, DACs, SPIs, I2C, USARTs, Timers, 1 ch. for memory-to-memory
+                • 4 ch. for ADC, DACs, SPIs, I2C, USARTs, Timers, 1 ch. for memory-to-memory
+        • 2x12-bit DAC (dual mode) with output buffer
+        • 12-bit ADC up to 1 Msps/28 channelsTemp. sensor and internal ref. voltage
+                • Temp. sensor and internal ref. voltage
+        • MemoriesUp to 64-Kbytes of Flash memory with up to 2 Kbytes of data EEPROM with ECC and RWWFlexible write/read protection modesUp to 4 Kbytes of RAM
+                • Up to 64-Kbytes of Flash memory with up to 2 Kbytes of data EEPROM with ECC and RWW
+                • Flexible write/read protection modes
+                • Up to 4 Kbytes of RAM
+        • 2 ultra-low-power comparators1 with fixed threshold and 1 rail to railWake up capability
+                • 1 with fixed threshold and 1 rail to rail
+                • Wake up capability
+        • TimersThree 16-bit timers with 2 channels (IC, OC, PWM), quadrature encoderOne 16-bit advanced control timer with 3 channels, supporting motor controlOne 8-bit timer with 7-bit prescalerOne window, one independent watchdogBeeper timer with 1, 2 or 4 kHz frequencies
+                • Three 16-bit timers with 2 channels (IC, OC, PWM), quadrature encoder
+                • One 16-bit advanced control timer with 3 channels, supporting motor control
+                • One 8-bit timer with 7-bit prescaler
+                • One window, one independent watchdog
+                • Beeper timer with 1, 2 or 4 kHz frequencies
+        • Communication interfacesTwo synchronous serial interface (SPI)Fast I2C 400 kHz SMBus and PMBusThree USARTs (ISO 7816 interface + IrDA)
+                • Two synchronous serial interface (SPI)
+                • Fast I2C 400 kHz SMBus and PMBus
+                • Three USARTs (ISO 7816 interface + IrDA)
+        • Up to 67 I/Os, all mappable on interrupt vectors
+        • Up to 16 capacitive sensing channels supporting touchkey, proximity, linear touch and rotary touch sensors
+        • Fast on-chip programming and non-intrusive debugging with SWIM, Bootloader using USART
+        • 96-bit unique ID
+Description: 
+The high-density and medium+ density STM8L15xx6/8 ultra-low-power devices feature an enhanced STM8 CPU core providing increased processing power (up to 16 MIPS at 16 MHz) while maintaining the advantages of a CISC architecture with improved code density, a 24-bit linear addressing space and an optimized architecture for low-power operations.The family includes an integrated debug module with a hardware interface (SWIM) which allows non-intrusive in-application debugging and ultrafast Flash programming.All high-density and medium+ density STM8L15xx6/8 microcontrollers feature embedded data EEPROM and low-power low-voltage single-supply program Flash memory.The devices incorporate an extensive range of enhanced I/Os and peripherals, a 12-bit ADC, two DACs, two comparators, a real-time clock, four 16-bit timers, one 8-bit timer, as well as standard communication interfaces such as two SPIs, an I2C interface, and three USARTs. A 8x40 or 4x44-segment LCD is available on the STM8L152x8 devices. The modular design of the peripheral set allows the same peripherals to be found in different ST microcontroller families including 32-bit families. This makes any transition to a different family very easy, and simplified even more by the use of a common set of development tools. 

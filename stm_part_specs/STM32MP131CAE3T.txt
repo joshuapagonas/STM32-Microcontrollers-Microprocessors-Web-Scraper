@@ -1,0 +1,22 @@
+Part Name: STM32MP131CAE3T
+Caption: 32-bit Arm Cortex-A7 650MHz MPU for Security
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Core: Arm Cortex-A7
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LFBGA 289 14x14x1.7 P 0.8 mm
+
+Key features:

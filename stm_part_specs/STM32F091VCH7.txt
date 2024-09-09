@@ -1,0 +1,71 @@
+Part Name: STM32F091VCH7
+Caption: Mainstream Arm Cortex-M0 Access line MCU with 256 Kbytes of Flash memory, 48 MHz CPU, CAN and CEC functions
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 105.0
+
+Core: Arm Cortex-M0
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFBGA 100 7x7x0.6 P 0.5 mm
+
+Key features:
+        • Core: ARM® 32-bit Cortex® -M0 CPU, frequency up to 48 MHz
+        • Memories128 to 256 Kbytes of Flash memory32 Kbytes of SRAM with HW parity
+                • 128 to 256 Kbytes of Flash memory
+                • 32 Kbytes of SRAM with HW parity
+        • CRC calculation unit
+        • Reset and power managementDigital & I/Os supply: VDD= 2.0 V to 3.6 VAnalog supply: VDDA= VDDto 3.6 VPower-on/Power down reset (POR/PDR)Programmable voltage detector (PVD)Low power modes: Sleep, Stop, StandbyVBATsupply for RTC and backup registers
+                • Digital & I/Os supply: VDD= 2.0 V to 3.6 V
+                • Analog supply: VDDA= VDDto 3.6 V
+                • Power-on/Power down reset (POR/PDR)
+                • Programmable voltage detector (PVD)
+                • Low power modes: Sleep, Stop, Standby
+                • VBATsupply for RTC and backup registers
+        • Clock management4 to 32 MHz crystal oscillator32 kHz oscillator for RTC with calibrationInternal 8 MHz RC with x6 PLL optionInternal 40 kHz RC oscillatorInternal 48 MHz oscillator with automatic trimming based on ext. synchronization
+                • 4 to 32 MHz crystal oscillator
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 8 MHz RC with x6 PLL option
+                • Internal 40 kHz RC oscillator
+                • Internal 48 MHz oscillator with automatic trimming based on ext. synchronization
+        • Up to 88 fast I/OsAll mappable on external interrupt vectorsUp to 69 I/Os with 5V-tolerant capability and 19 with independent supply VDDIO2
+                • All mappable on external interrupt vectors
+                • Up to 69 I/Os with 5V-tolerant capability and 19 with independent supply VDDIO2
+        • 12-channel DMA controller
+        • One 12-bit, 1.0 μs ADC (up to 16 channels)Conversion range: 0 to 3.6 VSeparate analog supply: 2.4 V to 3.6 V
+                • Conversion range: 0 to 3.6 V
+                • Separate analog supply: 2.4 V to 3.6 V
+        • One 12-bit D/A converter (with 2 channels)
+        • Two fast low-power analog comparators with programmable input and output
+        • Up to 24 capacitive sensing channels for touchkey, linear and rotary touch sensors
+        • Calendar RTC with alarm and periodic wakeup from Stop/Standby
+        • 12 timersOne 16-bit advanced-control timer for 6 channel PWM outputOne 32-bit and seven 16-bit timers, with up to 4 IC/OC, OCN, usable for IR control decoding or DAC controlIndependent and system watchdog timersSysTick timer
+                • One 16-bit advanced-control timer for 6 channel PWM output
+                • One 32-bit and seven 16-bit timers, with up to 4 IC/OC, OCN, usable for IR control decoding or DAC control
+                • Independent and system watchdog timers
+                • SysTick timer
+        • Communication interfacesTwo I2C interfaces supporting Fast Mode Plus (1 Mbit/s) with 20 mA current sink, one supporting SMBus/PMBus and wakeupUp to eight USARTs supporting master synchronous SPI and modem control, three with ISO7816 interface, LIN, IrDA, auto baud rate detection and wakeup featureTwo SPIs (18 Mbit/s) with 4 to 16 programmable bit frames, and with I2S interface multiplexedCAN interface
+                • Two I2C interfaces supporting Fast Mode Plus (1 Mbit/s) with 20 mA current sink, one supporting SMBus/PMBus and wakeup
+                • Up to eight USARTs supporting master synchronous SPI and modem control, three with ISO7816 interface, LIN, IrDA, auto baud rate detection and wakeup feature
+                • Two SPIs (18 Mbit/s) with 4 to 16 programmable bit frames, and with I2S interface multiplexed
+                • CAN interface
+        • HDMI CEC wakeup on header reception
+        • Serial wire debug (SWD)
+        • 96-bit unique ID
+        • All packages ECOPACK® 2
+Description: 
+The STM32F091xB/xC microcontrollers incorporate the high-performance ARM®Cortex®-M0 32-bit RISC core operating at up to 48 MHz frequency, high-speed embedded memories (up to 256 Kbytes of Flash memory and 32 Kbytes of SRAM), and an extensive range of enhanced peripherals and I/Os. The device offers standard communication interfaces (two I2Cs, two SPIs/one I2S, one HDMI CEC and up to eight USARTs), one CAN, one 12-bit ADC, one 12-bit DAC with two channels, seven 16-bit timers, one 32-bit timer and an advanced-control PWM timer.The STM32F091xB/xC microcontrollers operate in the -40 to +85 °C and -40 to +105 °C temperature ranges, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving modes allows the design of low-power applications.The STM32F091xB/xC microcontrollers include devices in seven different packages ranging from 48 pins to 100 pins with a die form also available upon request. Depending on the device chosen, different sets of peripherals are included.These features make the STM32F091xB/xC microcontrollers suitable for a wide range of applications such as application control and user interfaces, hand-held equipment, A/V receivers and digital TV, PC peripherals, gaming and GPS platforms, industrial applications, PLCs, inverters, printers, scanners, alarm systems, video intercoms and HVACs. 

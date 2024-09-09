@@ -1,0 +1,68 @@
+Part Name: STM32F101ZFT6
+Caption: Mainstream Access line, Arm Cortex-M3 MCU with 768 Kbytes of Flash memory, 36 MHz CPU
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 144 20x20x1.4 mm
+
+Key features:
+        • Core: ARM® 32-bit Cortex® -M3 CPU with MPU36 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performanceSingle-cycle multiplication and hardware division
+                • 36 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance
+                • Single-cycle multiplication and hardware division
+        • Memories768 Kbytes to 1 Mbyte of Flash memory (dual bank with read-while-write capability)80 Kbytes of SRAMFlexible static memory controller with 4 Chip Select. Supports Compact Flash, SRAM, PSRAM, NOR and NAND memoriesLCD parallel interface, 8080/6800 modes
+                • 768 Kbytes to 1 Mbyte of Flash memory (dual bank with read-while-write capability)
+                • 80 Kbytes of SRAM
+                • Flexible static memory controller with 4 Chip Select. Supports Compact Flash, SRAM, PSRAM, NOR and NAND memories
+                • LCD parallel interface, 8080/6800 modes
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR, and programmable voltage detector (PVD)4-to-16 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RC with calibration capability32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR, and programmable voltage detector (PVD)
+                • 4-to-16 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC with calibration capability
+                • 32 kHz oscillator for RTC with calibration
+        • Low powerSleep, Stop and Standby modesVBATsupply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC and backup registers
+        • 1 x 12-bit, 1 μs A/D converters (up to 16 channels)Conversion range: 0 to 3.6 VTemperature sensor
+                • Conversion range: 0 to 3.6 V
+                • Temperature sensor
+        • 2 × 12-bit D/A converters
+        • DMA12-channel DMA controllerPeripherals supported: timers, ADC, DAC, SPIs, I2Cs and USARTs
+                • 12-channel DMA controller
+                • Peripherals supported: timers, ADC, DAC, SPIs, I2Cs and USARTs
+        • Up to 112 fast I/O ports51/80/112 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 51/80/112 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • Debug modeSerial wire debug (SWD) & JTAG interfacesCortex-M3 Embedded Trace Macrocell™ 
+                • Serial wire debug (SWD) & JTAG interfaces
+                • Cortex-M3 Embedded Trace Macrocell™ 
+        • Up to 15 timersUp to ten 16-bit timers, with up to 4 IC/OC/PWM or pulse counters2 × watchdog timers (Independent and Window)SysTick timer: a 24-bit downcounter2 × 16-bit basic timers to drive the DAC
+                • Up to ten 16-bit timers, with up to 4 IC/OC/PWM or pulse counters
+                • 2 × watchdog timers (Independent and Window)
+                • SysTick timer: a 24-bit downcounter
+                • 2 × 16-bit basic timers to drive the DAC
+        • Up to 10 communication interfacesUp to 2 x I2C interfaces (SM7816 interface, LIN, IrDA capability, modem control)Up to 3 SPIs (18 Mbit/s)
+                • Up to 2 x I2C interfaces (SM7816 interface, LIN, IrDA capability, modem control)
+                • Up to 3 SPIs (18 Mbit/s)
+        • CRC calculation unit, 96-bit unique ID
+        • ECOPACK® packages
+Description: 
+The STM32F101xF and STM32F101xG access line family incorporates the high-performance ARM®Cortex®-M3 32-bit RISC core operating at a 36 MHz frequency, high-speed embedded memories (Flash memory up to 1 Mbyte and SRAM of 80 Kbytes), and an extensive range of enhanced I/Os and peripherals connected to two APB buses. All devices offer one 12-bit ADC, ten general-purpose 16-bit timers, as well as standard and advanced communication interfaces: up to two I2Cs, three SPIs and five USARTs.The STM32F101xx XL-density access line family operates in the –40 to +85 °C temperature range, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.These features make the STM32F101xx XL-density access line microcontroller family suitable for a wide range of applications such as medical and handheld equipment, PC peripherals and gaming, GPS platforms, industrial applications, PLC, printers, scanners alarm systems , power meters, and video intercom. 

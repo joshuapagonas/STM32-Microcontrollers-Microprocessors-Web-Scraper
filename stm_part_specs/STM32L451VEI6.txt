@@ -1,0 +1,84 @@
+Part Name: STM32L451VEI6
+Caption: Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 512 kbytes of Flash memory, DFSDM
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFBGA 100 7x7x0.6 P 0.5 mm
+
+Key features:
+        • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature range145 nA in VBATmode: supply for RTC and 32x32-bit backup registers22 nA Shutdown mode (5 wakeup pins)106 nA Standby mode (5 wakeup pins)375 nA Standby mode with RTC2.05 µA Stop 2 mode, 2.40 µA with RTC84 µA/MHz run modeBatch acquisition mode (BAM)4 µs wakeup from Stop modeBrown out reset (BOR)Interconnect matrix
+                • 1.71 V to 3.6 V power supply
+                • -40 °C to 85/125 °C temperature range
+                • 145 nA in VBATmode: supply for RTC and 32x32-bit backup registers
+                • 22 nA Shutdown mode (5 wakeup pins)
+                • 106 nA Standby mode (5 wakeup pins)
+                • 375 nA Standby mode with RTC
+                • 2.05 µA Stop 2 mode, 2.40 µA with RTC
+                • 84 µA/MHz run mode
+                • Batch acquisition mode (BAM)
+                • 4 µs wakeup from Stop mode
+                • Brown out reset (BOR)
+                • Interconnect matrix
+        • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from Flash memory, frequency up to 80 MHz, MPU, 100DMIPS and DSP instructions
+        • Performance benchmark1.25 DMIPS/MHz (Drystone 2.1)273.55 CoreMark® (3.42 CoreMark/MHz @ 80 MHz)
+                • 1.25 DMIPS/MHz (Drystone 2.1)
+                • 273.55 CoreMark® (3.42 CoreMark/MHz @ 80 MHz)
+        • Energy benchmark335 ULPMark™  CP score104 ULPMark™  PP score
+                • 335 ULPMark™  CP score
+                • 104 ULPMark™  PP score
+        • Clock Sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)Internal 48 MHz with clock recovery2 PLLs for system clock, audio, ADC
+                • 4 to 48 MHz crystal oscillator
+                • 32 kHz crystal oscillator for RTC (LSE)
+                • Internal 16 MHz factory-trimmed RC (±1%)
+                • Internal low-power 32 kHz RC (±5%)
+                • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)
+                • Internal 48 MHz with clock recovery
+                • 2 PLLs for system clock, audio, ADC
+        • Up to 83 fast I/Os, most 5 V-tolerant
+        • RTC with HW calendar, alarms and calibration
+        • Up to 21 capacitive sensing channels: support touchkey, linear and rotary touch sensors
+        • 12x timers: 1x 16-bit advanced motor-control, 1x 32-bit and 3x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timer
+        • MemoriesUp to 512 KB single bank Flash, proprietary code readout protection160 KB of SRAM including 32 KB with hardware parity checkQuad SPI memory interface
+                • Up to 512 KB single bank Flash, proprietary code readout protection
+                • 160 KB of SRAM including 32 KB with hardware parity check
+                • Quad SPI memory interface
+        • Rich analog peripherals (independent supply)1x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps1x 12-bit DAC output channels, low-power sample and hold1x operational amplifier with built-in PGA2x ultra-low-power comparatorsAccurate 2.5 V or 2.048 V reference voltage buffered output
+                • 1x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps
+                • 1x 12-bit DAC output channels, low-power sample and hold
+                • 1x operational amplifier with built-in PGA
+                • 2x ultra-low-power comparators
+                • Accurate 2.5 V or 2.048 V reference voltage buffered output
+        • 16x communication interfaces1x SAI (serial audio interface)4x I2C FM+(1 Mbit/s), SMBus/PMBus3x USARTs (ISO 7816, LIN, IrDA, modem)1x UART (LIN, IrDA, modem)1x LPUART (Stop 2 wake-up)3x SPIs (and 1x Quad SPI)CAN (2.0B Active) and SDMMC interfaceIRTIM (Infrared interface)
+                • 1x SAI (serial audio interface)
+                • 4x I2C FM+(1 Mbit/s), SMBus/PMBus
+                • 3x USARTs (ISO 7816, LIN, IrDA, modem)
+                • 1x UART (LIN, IrDA, modem)
+                • 1x LPUART (Stop 2 wake-up)
+                • 3x SPIs (and 1x Quad SPI)
+                • CAN (2.0B Active) and SDMMC interface
+                • IRTIM (Infrared interface)
+        • 14-channel DMA controller
+        • True random number generator
+        • CRC calculation unit, 96-bit unique ID
+        • Development support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+        • All packages are ECOPACK2® compliant
+Description: 
+The STM32L451xx devices are ultra-low-power microcontrollers based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 80 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision that supports all Arm® single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32L451xx devices embed high-speed memories (Flash memory up to 512 Kbyte, 160 Kbyte of SRAM), a Quad SPI Flash memories interface (available on all packages) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The STM32L451xx devices embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection, proprietary code readout protection and Firewall.The devices offer a fast 12-bit ADC (5 Msps), two comparators, one operational amplifier, one DAC channel, an internal voltage reference buffer, a low-power RTC, one general-purpose 32-bit timer, one 16-bit PWM timer dedicated to motor control, four general-purpose 16-bit timers, and two 16-bit low-power timers.In addition, up to 21 capacitive sensing channels are available.They also feature standard and advanced communication interfaces, namely four I2Cs, three SPIs, three USARTs, one UART and one Low-Power UART, one SAI, one SDMMC, one CAN.The STM32L451xx operates in the -40 to +85 °C (+105 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V power supply. A comprehensive set of power-saving modes makes possible the design of low-power applications.Some independent power supplies are supported: analog independent supply input for ADC, DAC, OPAMP and comparators. A VBAT input makes it possible to backup the RTC and backup registers.The STM32L451xx family offers six packages from 48 to 100-pin packages. 

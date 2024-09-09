@@ -1,0 +1,71 @@
+Part Name: STM32F105VBH6
+Caption: Mainstream Connectivity line, Arm Cortex-M3 MCU with 128 Kbytes of Flash memory,72 MHz CPU, CAN, USB 2.0 OTG
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LFBGA 100 10x10x1.7 P 0.8 mm
+
+Key features:
+        • Core: ARM® 32-bit Cortex® -M3 CPU72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory accessSingle-cycle multiplication and hardware division
+                • 72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+                • Single-cycle multiplication and hardware division
+        • Memories64 to 256 Kbytes of Flash memory64 Kbytes of general-purpose SRAM
+                • 64 to 256 Kbytes of Flash memory
+                • 64 Kbytes of general-purpose SRAM
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR, and programmable voltage detector (PVD)3-to-25 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RC with calibration32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR, and programmable voltage detector (PVD)
+                • 3-to-25 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC with calibration
+                • 32 kHz oscillator for RTC with calibration
+        • Low powerSleep, Stop and Standby modesVBAT supply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBAT supply for RTC and backup registers
+        • 2 × 12-bit, 1 μs A/D converters (16 channels)Conversion range: 0 to 3.6 VSample and hold capabilityTemperature sensorup to 2 MSPS in interleaved mode
+                • Conversion range: 0 to 3.6 V
+                • Sample and hold capability
+                • Temperature sensor
+                • up to 2 MSPS in interleaved mode
+        • 2 × 12-bit D/A converters
+        • DMA: 12-channel DMA controllerSupported peripherals: timers, ADCs, DAC, I2Ss, SPIs, I2Cs and USARTs
+                • Supported peripherals: timers, ADCs, DAC, I2Ss, SPIs, I2Cs and USARTs
+        • Debug modeSerial wire debug (SWD) & JTAG interfacesCortex® -M3 Embedded Trace Macrocell™ 
+                • Serial wire debug (SWD) & JTAG interfaces
+                • Cortex® -M3 Embedded Trace Macrocell™ 
+        • Up to 80 fast I/O ports51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • CRC calculation unit, 96-bit unique ID
+        • Up to 10 timers with pinout remap capabilityUp to four 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input1 × 16-bit motor control PWM timer with dead-time generation and emergency stop2 × watchdog timers (Independent and Window)SysTick timer: a 24-bit downcounter2 × 16-bit basic timers to drive the DAC
+                • Up to four 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+                • 1 × 16-bit motor control PWM timer with dead-time generation and emergency stop
+                • 2 × watchdog timers (Independent and Window)
+                • SysTick timer: a 24-bit downcounter
+                • 2 × 16-bit basic timers to drive the DAC
+        • Up to 14 communication interfaces with pinout remap capabilityUp to 2 × I2C interfaces (SMBus/PMBus)Up to 5 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)Up to 3 SPIs (18 Mbit/s), 2 with a multiplexed I2S interface that offers audio class accuracy via advanced PLL schemes2 × CAN interfaces (2.0B Active) with 512 bytes of dedicated SRAMUSB 2.0 full-speed device/host/OTG controller with on-chip PHY that supports HNP/SRP/ID with 1.25 Kbytes of dedicated SRAM10/100 Ethernet MAC with dedicated DMA and SRAM (4 Kbytes): IEEE1588 hardware support, MII/RMII available on all packages
+                • Up to 2 × I2C interfaces (SMBus/PMBus)
+                • Up to 5 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+                • Up to 3 SPIs (18 Mbit/s), 2 with a multiplexed I2S interface that offers audio class accuracy via advanced PLL schemes
+                • 2 × CAN interfaces (2.0B Active) with 512 bytes of dedicated SRAM
+                • USB 2.0 full-speed device/host/OTG controller with on-chip PHY that supports HNP/SRP/ID with 1.25 Kbytes of dedicated SRAM
+                • 10/100 Ethernet MAC with dedicated DMA and SRAM (4 Kbytes): IEEE1588 hardware support, MII/RMII available on all packages
+Description: 
+The STM32F105xx and STM32F107xx connectivity line family incorporates the high-performance ARM® Cortex®-M3 32-bit RISC core operating at a 72 MHz frequency, high-speed embedded memories (Flash memory up to 256 Kbytes and SRAM 64 Kbytes), and an extensive range of enhanced I/Os and peripherals connected to two APB buses. All devices offer two 12-bit ADCs, four general-purpose 16-bit timers plus a PWM timer, as well as standard and advanced communication interfaces: up to two I2Cs, three SPIs, two I2Ss, five USARTs, an USB OTG FS and two CANs. Ethernet is available on the STM32F107xx only.The STM32F105xx and STM32F107xx connectivity line family operates in the –40 to +105 °C temperature range, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F105xx and STM32F107xx connectivity line family offers devices in three different package types: from 64 pins to 100 pins. Depending on the device chosen, different sets of peripherals are included, the description below gives an overview of the complete range of peripherals proposed in this family.These features make the STM32F105xx and STM32F107xx connectivity line microcontroller family suitable for a wide range of applications such as motor drives and application control, medical and handheld equipment, industrial applications, PLCs, inverters, printers, and scanners, alarm systems, video intercom, HVAC and home audio equipment.Figure 1 shows the general block diagram of the device family. 

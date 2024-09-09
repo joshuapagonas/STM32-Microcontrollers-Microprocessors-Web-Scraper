@@ -1,0 +1,105 @@
+Part Name: STM32L4P5VGY6PTR
+Caption: Ultra-low-power with FPU Arm Cortex-M4 MCU 120 MHz with 1024 kbytes of Flash memory, USB OTG, DFSDM, CHROM-ART
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: WLCSP 100 4.5x4.5x0.6 P 0.4 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature rangeBatch acquisition mode (BAM)150 nA in VBAT mode: supply for RTC and 32x32-bit backup registers22 nA Shutdown mode (5 wakeup pins)42 nA Standby mode (5 wakeup pins)190 nA Standby mode with RTC2.95 μA Stop 2 with RTC110 μA/MHz Run mode (LDO mode)41 μA/MHz Run mode (@ 3.3 V SMPS mode)5 µs wakeup from Stop modeBrownout reset (BOR) in all modes except Shutdown
+                • 1.71 V to 3.6 V power supply
+                • -40 °C to 85/125 °C temperature range
+                • Batch acquisition mode (BAM)
+                • 150 nA in VBAT mode: supply for RTC and 32x32-bit backup registers
+                • 22 nA Shutdown mode (5 wakeup pins)
+                • 42 nA Standby mode (5 wakeup pins)
+                • 190 nA Standby mode with RTC
+                • 2.95 μA Stop 2 with RTC
+                • 110 μA/MHz Run mode (LDO mode)
+                • 41 μA/MHz Run mode (@ 3.3 V SMPS mode)
+                • 5 µs wakeup from Stop mode
+                • Brownout reset (BOR) in all modes except Shutdown
+        • CoreArm® 32-bit Cortex® -M4 CPU with FPU, adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 120 MHz, MPU, 150 DMIPS/1.25 DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+                • Arm® 32-bit Cortex® -M4 CPU with FPU, adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 120 MHz, MPU, 150 DMIPS/1.25 DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+        • Memories1-Mbyte Flash memory, 2 banks read-while-write, proprietary code readout protection320 Kbytes of SRAM including 64 Kbytes with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR, NAND and FRAM memories2 x Octo-SPI memory interfaces
+                • 1-Mbyte Flash memory, 2 banks read-while-write, proprietary code readout protection
+                • 320 Kbytes of SRAM including 64 Kbytes with hardware parity check
+                • External memory interface for static memories supporting SRAM, PSRAM, NOR, NAND and FRAM memories
+                • 2 x Octo-SPI memory interfaces
+        • General-purpose inputs/outputsUp to 136 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 V
+                • Up to 136 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 V
+        • Performance benchmark1.25 DMIPS/MHz (Drystone 2.1)409.20 CoreMark® (3.41 CoreMark/MHz @120 MHz)
+                • 1.25 DMIPS/MHz (Drystone 2.1)
+                • 409.20 CoreMark® (3.41 CoreMark/MHz @120 MHz)
+        • Energy benchmark285 ULPMark™ CP score
+                • 285 ULPMark™ CP score
+        • Up to 24 capacitive sensing channelsSupport touchkey, linear and rotary touch sensors
+                • Support touchkey, linear and rotary touch sensors
+        • Clock management4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)Internal 48 MHz with clock recovery3 PLLs for system clock, USB, audio, ADC
+                • 4 to 48 MHz crystal oscillator
+                • 32 kHz crystal oscillator for RTC (LSE)
+                • Internal 16 MHz factory-trimmed RC (±1%)
+                • Internal low-power 32 kHz RC (±5%)
+                • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)
+                • Internal 48 MHz with clock recovery
+                • 3 PLLs for system clock, USB, audio, ADC
+        • Interconnect matrix1 AHB bus matrix
+                • 1 AHB bus matrix
+        • 14-channel DMA controller
+        • 23 communication peripheralsUSB OTG 2.0 full-speed, LPM and BCD2x SAIs (serial audio interface)4x I2C FM+(1 Mbit/s), SMBus/PMBus6x USARTs (ISO 7816, LIN, IrDA, modem)3x SPIs (5x SPIs with the dual Octo-SPI)CAN (2.0B Active) and 2x SDMMC8- to 14-bit camera interface up to 32 MHz (black and white) or 10 MHz (color)8-/16-bit parallel synchronous data input/output slave interface (PSSI)
+                • USB OTG 2.0 full-speed, LPM and BCD
+                • 2x SAIs (serial audio interface)
+                • 4x I2C FM+(1 Mbit/s), SMBus/PMBus
+                • 6x USARTs (ISO 7816, LIN, IrDA, modem)
+                • 3x SPIs (5x SPIs with the dual Octo-SPI)
+                • CAN (2.0B Active) and 2x SDMMC
+                • 8- to 14-bit camera interface up to 32 MHz (black and white) or 10 MHz (color)
+                • 8-/16-bit parallel synchronous data input/output slave interface (PSSI)
+        • 11 analog peripherals (independent supply)2x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps2x 12-bit DAC, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators2x digital filters for sigma delta modulator1x temperature sensor
+                • 2x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps
+                • 2x 12-bit DAC, low-power sample and hold
+                • 2x operational amplifiers with built-in PGA
+                • 2x ultra-low-power comparators
+                • 2x digital filters for sigma delta modulator
+                • 1x temperature sensor
+        • Advanced graphics featuresChrom-ART Accelerator (DMA2D) for enhanced graphic content creationLCD-TFT controller
+                • Chrom-ART Accelerator (DMA2D) for enhanced graphic content creation
+                • LCD-TFT controller
+        • 16x timers and watchdog2 x 16-bit advanced motor-control2 x 32-bit general purpose timers5 x 16-bit general purpose timers2x 16-bit basic timers2x low-power 16-bit timers (available in Stop mode)2x watchdogs1x SysTick timerRTC with hardware calendar, alarms and calibration
+                • 2 x 16-bit advanced motor-control
+                • 2 x 32-bit general purpose timers
+                • 5 x 16-bit general purpose timers
+                • 2x 16-bit basic timers
+                • 2x low-power 16-bit timers (available in Stop mode)
+                • 2x watchdogs
+                • 1x SysTick timer
+                • RTC with hardware calendar, alarms and calibration
+        • True random generator
+        • CRC calculation unit
+        • HASH (SHA-256) hardware accelerator
+        • Debug modeSerial wire debug (SWD)JTAGEmbedded Trace Macrocell™  (ETM)
+                • Serial wire debug (SWD)
+                • JTAG
+                • Embedded Trace Macrocell™  (ETM)
+        • 96-bit unique ID
+Description: 
+STM32L4P5xx designates a family of ultra-low-power microcontroller devices (part of STM32L4+ Series) based on the high-performance Arm® Cortex®-M4 32-bit RISC core. They operate at a frequency of up to 120 MHz.The Cortex-M4 core features a single-precision floating-point unit (FPU), which supports all the Arm® single-precision data-processing instructions and all the data types. The Cortex-M4 core also implements a full set of DSP (digital signal processing) instructions and a memory protection unit (MPU) that enhances the application’s security.These devices embed high-speed memories (up to 1 Mbyte of Flash memory and 320 Kbytes of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), two OCTOSPI Flash memory interfaces (for devices with packages of 100 pins or more) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.These devices embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection, proprietary code readout protection and a firewall.These devices offer two fast 12-bit ADCs (5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timers, two 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and two 16-bit low-power timers. The devices support two digital filters for external sigma delta modulators (DFSDMs). In addition, up to 24 capacitive sensing channels are available.They also feature standard and advanced communication interfaces such as:- Four I2Cs- Three SPIs- Three USARTs, two UARTs and one low-power UART- Two SAIs- Two SDMMCs- One CAN- One USB OTG full-speed- Camera interface- Synchronous parallel data interface (PSSI)The devices operate in the -40 to +85 °C (+105 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V power supply. A comprehensive set of power-saving modes allows the design of low-power applications.Some independent power supplies are supported such as an analog independent supply input for ADC, DAC, OPAMPs and comparators, a 3.3 V dedicated supply input for USB and up to 14 I/Os, which can be supplied independently down to 1.08 V. A VBAT input allows backup of the RTC and the registers. Dedicated VDD12 power supplies can be used to bypass the internal LDO regulator when connected to an external SMPS.The STM32L4P5xx family offers eight packages from 48-pin to 169-pin. 

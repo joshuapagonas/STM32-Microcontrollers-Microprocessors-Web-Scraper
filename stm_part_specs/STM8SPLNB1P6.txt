@@ -1,0 +1,39 @@
+Part Name: STM8SPLNB1P6
+Caption: DiSEqC slave microcontroller for SaTCR based LNBs and switchers
+Parameters:
+Operating Range: Industrial
+
+Supply Voltage Min Volt: 2.95
+
+Supply Voltage Max Volt: 5.5
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: STM8
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tube
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TSSOP-20
+
+Key features:
+        • Clock, reset and supply managementReduced power consumption,Safe power on/off managementby low voltage detector (LVD),2.95 to 5.5 V operating voltage,Internal 16MHz oscillator.
+                • Reduced power consumption,
+                • Safe power on/off managementby low voltage detector (LVD),
+                • 2.95 to 5.5 V operating voltage,
+                • Internal 16MHz oscillator.
+        • Communication interfaceTwo DiSEqCTM communication interfaces,Four I2C communication interfaces I/O ports.
+                • Two DiSEqCTM communication interfaces,
+                • Four I2C communication interfaces I/O ports.
+        • 4 output pins for control of a legacy matrix.
+Description: 
+The STM8SPLNB1 is an 8-bit microcontroller dedicated to DiSEqC slave operation in SaTCR based LNBs (Low Noise Block) and switchers.It is a complete hardware and firmware solution for system designers who require an implementation overview of the LNB device control according to DiSEqC standard (Digital Satellite Equipment Control). 

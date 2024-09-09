@@ -1,0 +1,68 @@
+Part Name: STM32F205RBT6
+Caption: High-performance Arm Cortex-M3 MCU with 128 Kbytes of Flash memory, 120 MHz CPU, ART Accelerator
+Parameters:
+Supply Voltage Min Volt: 1.8
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Core: Arm® 32-bit Cortex® -M3 CPU (120 MHz max) with Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait state execution performance from Flash memory, MPU, 150 DMIPS/1.25 DMIPS/MHz (Dhrystone 2.1)
+        • MemoriesUp to 1 Mbyte of Flash memory512 bytes of OTP memoryUp to 128 + 4 Kbytes of SRAMFlexible static memory controller that supports Compact Flash, SRAM, PSRAM, NOR and NAND memoriesLCD parallel interface, 8080/6800 modes
+                • Up to 1 Mbyte of Flash memory
+                • 512 bytes of OTP memory
+                • Up to 128 + 4 Kbytes of SRAM
+                • Flexible static memory controller that supports Compact Flash, SRAM, PSRAM, NOR and NAND memories
+                • LCD parallel interface, 8080/6800 modes
+        • Clock, reset and supply managementFrom 1.8 to 3.6 V application supply + I/OsPOR, PDR, PVD and BOR4 to 26 MHz crystal oscillatorInternal 16 MHz factory-trimmed RC32 kHz oscillator for RTC with calibrationInternal 32 kHz RC with calibration
+                • From 1.8 to 3.6 V application supply + I/Os
+                • POR, PDR, PVD and BOR
+                • 4 to 26 MHz crystal oscillator
+                • Internal 16 MHz factory-trimmed RC
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 32 kHz RC with calibration
+        • Low-power modesSleep, Stop and Standby modesVBATsupply for RTC, 20 × 32 bit backup registers, and optional 4 Kbytes backup SRAM
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC, 20 × 32 bit backup registers, and optional 4 Kbytes backup SRAM
+        • 3 × 12-bit, 0.5 µs ADCs with up to 24 channels and up to 6 MSPS in triple interleaved mode
+        • 2 × 12-bit D/A converters
+        • General-purpose DMA: 16-stream controller with centralized FIFOs and burst support
+        • Up to 17 timersUp to twelve 16-bit and two 32-bit timers, up to 120 MHz, each with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+                • Up to twelve 16-bit and two 32-bit timers, up to 120 MHz, each with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+        • Debug mode: Serial wire debug (SWD), JTAG, and Cortex® -M3 Embedded Trace Macrocell™ 
+        • 
+        • Up to 140 I/O ports with interrupt capability:Up to 136 fast I/Os up to 60 MHzUp to 138 5 V-tolerant I/Os
+                • Up to 136 fast I/Os up to 60 MHz
+                • Up to 138 5 V-tolerant I/Os
+        • Up to 15 communication interfacesUp to three I2C interfaces (SMBus/PMBus)Up to four USARTs and two UARTs (7.5 Mbit/s, ISO 7816 interface, LIN, IrDA, modem control)Up to three SPIs (30 Mbit/s), two with muxed I2S to achieve audio class accuracy via audio PLL or external PLL2 × CAN interfaces (2.0B Active)SDIO interface
+                • Up to three I2C interfaces (SMBus/PMBus)
+                • Up to four USARTs and two UARTs (7.5 Mbit/s, ISO 7816 interface, LIN, IrDA, modem control)
+                • Up to three SPIs (30 Mbit/s), two with muxed I2S to achieve audio class accuracy via audio PLL or external PLL
+                • 2 × CAN interfaces (2.0B Active)
+                • SDIO interface
+        • Advanced connectivityUSB 2.0 full-speed device/host/OTG controller with on-chip PHYUSB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+                • USB 2.0 full-speed device/host/OTG controller with on-chip PHY
+                • USB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI
+                • 10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+        • 8- to 14-bit parallel camera interface (48 Mbyte/s max.)
+        • CRC calculation unit
+        • 96-bit unique ID
+Description: 
+The STM32F20x family is based on the high-performance Arm® Cortex®-M3 32-bit RISC core operating at a frequency of up to 120 MHz. The family incorporates high-speed embedded memories (Flash memory up to 1 Mbyte, up to 128 Kbytes of system SRAM), up to 4 Kbytes of backup SRAM, and an extensive range of enhanced I/Os and peripherals connected to two APB buses, three AHB buses and a 32-bit multi-AHB bus matrix.The devices also feature an adaptive real-time memory accelerator (ART Accelerator™) that allows to achieve a performance equivalent to 0 wait state program execution from Flash memory at a CPU frequency up to 120 MHz. This performance has been validated using the CoreMark® benchmark.All devices offer three 12-bit ADCs, two DACs, a low-power RTC, twelve general-purpose 16-bit timers including two PWM timers for motor control, two general-purpose 32-bit timers. a true number random generator (RNG). They also feature standard and advanced communication interfaces. New advanced peripherals include an SDIO, an enhanced flexible static memory control (FSMC) interface (for devices offered in packages of 100 pins and more), and a camera interface for CMOS sensors. The devices also feature standard peripherals. 

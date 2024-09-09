@@ -1,0 +1,96 @@
+Part Name: STM32U073R8I6
+Caption: Ultra-low-power Arm Cortex-M0+ MCU with 64 Kbytes of Flash memory, LCD, USB, 56 MHz CPU
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M0+
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFBGA 64 5x5x0.6 P 0.5 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology.
+        • Ultra-low-power features (ultra-low-power devices)1.71 V to 3.6 V power supply-40 °C to 85/125 °C temperature rangeVBAT mode: 130 nA (with RTC and 9 x 32-bit backup registers)Shutdown mode (6 wake-up pins): 16 nAStandby mode (6 wake-up pins): 160 nA with RTC, 30 nA without RTCStop 2 mode: 825 nA with RTC, 695 nA without RTCRun mode (LDO mode): 52 μA/MHzBatch acquisition mode (BAM)4 μs wake-up from Stop modeBrownout reset (BOR)
+                • 1.71 V to 3.6 V power supply
+                • -40 °C to 85/125 °C temperature range
+                • VBAT mode: 130 nA (with RTC and 9 x 32-bit backup registers)
+                • Shutdown mode (6 wake-up pins): 16 nA
+                • Standby mode (6 wake-up pins): 160 nA with RTC, 30 nA without RTC
+                • Stop 2 mode: 825 nA with RTC, 695 nA without RTC
+                • Run mode (LDO mode): 52 μA/MHz
+                • Batch acquisition mode (BAM)
+                • 4 μs wake-up from Stop mode
+                • Brownout reset (BOR)
+        • Core32-bit Arm® Cortex® -M0+ CPU, frequency up to 56 MHz
+                • 32-bit Arm® Cortex® -M0+ CPU, frequency up to 56 MHz
+        • ART Accelerator1-Kbyte instruction cache allowing 0-wait-state execution from flash memory
+                • 1-Kbyte instruction cache allowing 0-wait-state execution from flash memory
+        • Benchmarks1.13 DMIPS/MHz (Drystone 2.1)134 CoreMark® (2.4 CoreMark/MHz at 56 MHz)407 ULPMark™ -CP143 ULPMark™ -PP19.7 ULPMark™ -CM
+                • 1.13 DMIPS/MHz (Drystone 2.1)
+                • 134 CoreMark® (2.4 CoreMark/MHz at 56 MHz)
+                • 407 ULPMark™ -CP
+                • 143 ULPMark™ -PP
+                • 19.7 ULPMark™ -CM
+        • MemoriesUp to 256-Kbyte single bank flash memory, proprietary code readout protection40-Kbyte SRAM with hardware parity check
+                • Up to 256-Kbyte single bank flash memory, proprietary code readout protection
+                • 40-Kbyte SRAM with hardware parity check
+        • Rich analog peripherals (independent supply)1x 12-bit ADC (0.4 µs conversion time), up to 16-bit with hardware oversampling1x 12-bit DAC output channel, low-power sample and hold1x general-purpose operational amplifier with built-in PGA (variable gain up to 16)2x ultra-low-power comparators
+                • 1x 12-bit ADC (0.4 µs conversion time), up to 16-bit with hardware oversampling
+                • 1x 12-bit DAC output channel, low-power sample and hold
+                • 1x general-purpose operational amplifier with built-in PGA (variable gain up to 16)
+                • 2x ultra-low-power comparators
+        • LCD driver8×48 or 4×52 segments, with step-up converter
+                • 8×48 or 4×52 segments, with step-up converter
+        • General-purpose inputs/outputsUp to 69 fast I/Os, most of them 5 V‑tolerant
+                • Up to 69 fast I/Os, most of them 5 V‑tolerant
+        • 20 communication interfacesUSB 2.0 full-speed crystal-less solution with LPM and BCD7x USARTs/LPUARTs (SPI, ISO 7816, LIN, IrDA, modem)4x I2C interfaces supporting Fast-mode and Fast-mode Plus (up to 1 Mbit/s)3x SPIs, plus 4x USARTs in SPI modeIRTIM (Infrared interface)
+                • USB 2.0 full-speed crystal-less solution with LPM and BCD
+                • 7x USARTs/LPUARTs (SPI, ISO 7816, LIN, IrDA, modem)
+                • 4x I2C interfaces supporting Fast-mode and Fast-mode Plus (up to 1 Mbit/s)
+                • 3x SPIs, plus 4x USARTs in SPI mode
+                • IRTIM (Infrared interface)
+        • SecurityCustomer code protectionRobust read out protection (RDP): 3 protection level states and password-based regression (128-bit PSWD)Hardware protection feature (HDP)Secure bootTrue random number generation, candidate for NIST SP 800-90B certificationCandidate for Arm® PSA level 1 and SESIP level 3 certifications5 passive anti-tamper pins96-bit unique ID
+                • Customer code protection
+                • Robust read out protection (RDP): 3 protection level states and password-based regression (128-bit PSWD)
+                • Hardware protection feature (HDP)
+                • Secure boot
+                • True random number generation, candidate for NIST SP 800-90B certification
+                • Candidate for Arm® PSA level 1 and SESIP level 3 certifications
+                • 5 passive anti-tamper pins
+                • 96-bit unique ID
+        • Clock management4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)Internal 48 MHz with clock recoveryPLL for system clock, USB, ADC
+                • 4 to 48 MHz crystal oscillator
+                • 32 kHz crystal oscillator for RTC (LSE)
+                • Internal 16 MHz factory-trimmed RC (±1%)
+                • Internal low-power 32 kHz RC (±5%)
+                • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)
+                • Internal 48 MHz with clock recovery
+                • PLL for system clock, USB, ADC
+        • 10 timers, RTC, and 2 watchdogs1x 16-bit advanced motor-control, 1x 32-bit and 3x 16-bit general purpose, 2x 16-bit basic, 3x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timerRTC with hardware calendar, alarms and calibration
+                • 1x 16-bit advanced motor-control, 1x 32-bit and 3x 16-bit general purpose, 2x 16-bit basic, 3x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timer
+                • RTC with hardware calendar, alarms and calibration
+        • CRC calculation unit
+        • Up to 21 capacitive sensing channelsSupporting touchkey, linear and rotary touch sensors
+                • Supporting touchkey, linear and rotary touch sensors
+        • 12-channel DMA controllerFlexible mapping (DMAMUX)
+                • Flexible mapping (DMAMUX)
+        • DebugDevelopment support: serial wire debug (SWD)
+                • Development support: serial wire debug (SWD)
+        • All packages are ECOPACK2 compliant.
+Description: 
+The STM32U073x8/B/C devices are ultra-low-power microcontrollers based on the high-performance Arm® Cortex®-M0+ 32-bit RISC core operating at a frequency of up to 56 MHz.The STM32U073x8/B/C devices embed high-speed memories (up to 256-Kbyte flash memory and 40-Kbyte SRAM with hardware parity check), and an extensive range of enhanced I/Os and peripherals connected to APB and AHB buses, and a 32-bit multi-AHB bus matrix.They also embed protection mechanisms for embedded flash memory and SRAM, such as readout protection and write protection.The STM32U073x8/B/C devices offer a 12-bit ADC, a 12-bit DAC, two embedded rail-to-rail analog comparators, one operational amplifier, a low-power RTC, one general-purpose 32-bit timer, one 16-bit PWM timer dedicated to motor control, three general-purpose 16-bit timers, and three 16-bit low-power timersThe devices also embed up to 21 capacitive sensing channels, plus an integrated LCD controller that enables to drive 8x48 or 4x52 segments with internal step-up converter.They also feature standard and advanced communication interfaces, namely four I2Cs, three SPIs, four USARTs and three low-power UARTs, plus one crystal-less USB full-speed device.The STM32U073x8/B/C operate in the -40 to +85 °C (+105 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V VDD power supply using an internal LDO regulator. A comprehensive set of power-saving modes makes possible the design of low-power applications.Independent power supplies are supported: analog independent supply input for ADC, DAC, OPAMP and comparator, as well as VBAT input allowing the backup of the RTC and backup registers.The STM32U073x8/B/C offer eight packages from 32 to 81 pins. 

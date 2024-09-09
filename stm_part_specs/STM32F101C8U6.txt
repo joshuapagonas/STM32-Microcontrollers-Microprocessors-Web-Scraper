@@ -1,0 +1,65 @@
+Part Name: STM32F101C8U6
+Caption: Mainstream Access line, Arm Cortex-M3 MCU with 64 Kbytes of Flash memory, 36 MHz CPU
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFQFPN 48 7x7x0.55 mm
+
+Key features:
+        • Core: ARM® 32-bit Cortex® -M3 CPU36 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory accessSingle-cycle multiplication and hardware division
+                • 36 MHz maximum frequency,1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+                • Single-cycle multiplication and hardware division
+        • Memories64 to 128 Kbytes of Flash memory10 to 16 Kbytes of SRAM
+                • 64 to 128 Kbytes of Flash memory
+                • 10 to 16 Kbytes of SRAM
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR and programmable voltage detector (PVD)4-to-16 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RCPLL for CPU clock32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR and programmable voltage detector (PVD)
+                • 4-to-16 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC
+                • PLL for CPU clock
+                • 32 kHz oscillator for RTC with calibration
+        • Low powerSleep, Stop and Standby modesVBAT supply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBAT supply for RTC and backup registers
+        • Debug modeSerial wire debug (SWD) and JTAG interfaces
+                • Serial wire debug (SWD) and JTAG interfaces
+        • DMA7-channel DMA controllerPeripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+                • 7-channel DMA controller
+                • Peripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+        • 1 × 12-bit, 1 μs A/D converter (up to 16 channels)Conversion range: 0 to 3.6 VTemperature sensor
+                • Conversion range: 0 to 3.6 V
+                • Temperature sensor
+        • Up to 80 fast I/O ports26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • Six timersThree 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter2 watchdog timers (Independent and Window)SysTick timer: 24-bit downcounter
+                • Three 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter
+                • 2 watchdog timers (Independent and Window)
+                • SysTick timer: 24-bit downcounter
+        • Up to 7 communication interfacesUp to 2 x I2C interfaces (SMBus/PMBus)Up to 3 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)Up to 2 SPIs (18 Mbit/s)
+                • Up to 2 x I2C interfaces (SMBus/PMBus)
+                • Up to 3 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+                • Up to 2 SPIs (18 Mbit/s)
+        • CRC calculation unit, 96-bit unique ID
+        • ECOPACK® packages
+Description: 
+The STM32F101xB and STM32F101x8 medium-density access line family incorporates the high-performance ARM®Cortex®-M3 32-bit RISC core operating at a 36 MHz frequency, high-speed embedded memories (Flash memory up to 128 Kbytes and SRAM up to 16 Kbytes), and an extensive range of enhanced peripherals and I/Os connected to two APB buses. All devices offer standard communication interfaces (two I2Cs, two SPIs, and up to three USARTs), one 12-bit ADC and three general-purpose 16-bit timers.The STM32F101xx medium-density access line family operates in the –40 to +85 °C temperature range, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F101xx medium-density access line family includes devices in four different packages ranging from 36 pins to 100 pins. Depending on the device chosen, different sets of peripherals are included, the description below gives an overview of the complete range of peripherals proposed in this family.These features make the STM32F101xx medium-density access line microcontroller family suitable for a wide range of applications such as application control and user interface, medical and handheld equipment, PC peripherals, gaming and GPS platforms, industrial applications, PLCs, inverters, printers, scanners, alarm systems, Video intercoms, and HVACs. 

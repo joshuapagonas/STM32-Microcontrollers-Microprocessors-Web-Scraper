@@ -1,0 +1,83 @@
+Part Name: STM32L151C6T6ATR
+Caption: Ultra-low-power Arm Cortex-M3 MCU with 32 Kbytes of Flash memory, 32 MHz CPU, USB
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 48 7x7x1.4 mm
+
+Key features:
+        • Ultra-low-power platform1.65 V to 3.6 V power supply-40 °C to 105 °C temperature range-40°C to 105°C temperature range0.28 µA Standby mode (3 wakeup pins)1.11 µA Standby mode + RTC0.44 µA Stop mode (16 wakeup lines)1.38 µA Stop mode + RTC10.9 µA Low-power Run mode185 µA/MHz Run mode10 nA ultra-low I/O leakage8 µs wakeup time
+                • 1.65 V to 3.6 V power supply
+                • -40 °C to 105 °C temperature range
+                • -40°C to 105°C temperature range
+                • 0.28 µA Standby mode (3 wakeup pins)
+                • 1.11 µA Standby mode + RTC
+                • 0.44 µA Stop mode (16 wakeup lines)
+                • 1.38 µA Stop mode + RTC
+                • 10.9 µA Low-power Run mode
+                • 185 µA/MHz Run mode
+                • 10 nA ultra-low I/O leakage
+                • 8 µs wakeup time
+        • Core: ARM® Cortex® -M3 32-bit CPUFrom 32 kHz up to 32 MHz max1.25 DMIPS/MHz (Dhrystone 2.1)Memory protection unit
+                • From 32 kHz up to 32 MHz max
+                • 1.25 DMIPS/MHz (Dhrystone 2.1)
+                • Memory protection unit
+        • Reset and supply managementUltra-safe, low-power BOR (brownout reset) with 5 selectable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)
+                • Ultra-safe, low-power BOR (brownout reset) with 5 selectable thresholds
+                • Ultra-low-power POR/PDR
+                • Programmable voltage detector (PVD)
+        • Clock sources1 to 24 MHz crystal oscillator32 kHz oscillator for RTC with calibrationHigh Speed Internal 16 MHz factory-trimmed RC (+/- 1%)Internal low-power 37 kHz RCInternal multispeed low-power 65 kHz to 4.2 MHzPLL for CPU clock and USB (48 MHz)
+                • 1 to 24 MHz crystal oscillator
+                • 32 kHz oscillator for RTC with calibration
+                • High Speed Internal 16 MHz factory-trimmed RC (+/- 1%)
+                • Internal low-power 37 kHz RC
+                • Internal multispeed low-power 65 kHz to 4.2 MHz
+                • PLL for CPU clock and USB (48 MHz)
+        • Pre-programmed bootloaderUSART supported
+                • USART supported
+        • Development supportSerial wire debug supportedJTAG and trace supported
+                • Serial wire debug supported
+                • JTAG and trace supported
+        • Up to 83 fast I/Os (73 I/Os 5V tolerant), all mappable on 16 external interrupt vectors
+        • MemoriesUp to 128 Kbytes Flash memory with ECCUp to 32 Kbytes RAMUp to 4 Kbytes of true EEPROM with ECC80-byte backup register
+                • Up to 128 Kbytes Flash memory with ECC
+                • Up to 32 Kbytes RAM
+                • Up to 4 Kbytes of true EEPROM with ECC
+                • 80-byte backup register
+        • LCD Driver (except STM32L151x6/8/B-A devices) for up to 8x40 segmentsSupport contrast adjustmentSupport blinking modeStep-up converter on board
+                • Support contrast adjustment
+                • Support blinking mode
+                • Step-up converter on board
+        • Rich analog peripherals (down to 1.8 V)12-bit ADC 1 Msps up to 24 channels12-bit DAC 2 channels with output buffers2x ultra-low-power-comparators(window mode and wake up capability)
+                • 12-bit ADC 1 Msps up to 24 channels
+                • 12-bit DAC 2 channels with output buffers
+                • 2x ultra-low-power-comparators(window mode and wake up capability)
+        • DMA controller 7x channels
+        • 8x peripheral communication interfaces1x USB 2.0 (internal 48 MHz PLL)3x USART (ISO 7816, IrDA)2x SPI 16 Mbits/s2x I2C (SMBus/PMBus)
+                • 1x USB 2.0 (internal 48 MHz PLL)
+                • 3x USART (ISO 7816, IrDA)
+                • 2x SPI 16 Mbits/s
+                • 2x I2C (SMBus/PMBus)
+        • 10x timers: 6x 16-bit with up to 4 IC/OC/PWM channels, 2x 16-bit basic timers, 2x watchdog timers (independent and window)
+        • Up to 20 capacitive sensing channels supporting touchkey, linear and rotary touch sensors
+        • CRC calculation unit, 96-bit unique ID
+Description: 
+The ultra-low-power STM32L151x6/8/B-A and STM32L152x6/8/B-A devices incorporate the connectivity power of the universal serial bus (USB) with the high-performance ARM® Cortex®-M3 32-bit RISC core operating at a frequency of 32 MHz (33.3 DMIPS), a memory protection unit (MPU), high-speed embedded memories (Flash memory up to 128 Kbytes and RAM up to 32 Kbytes) and an extensive range of enhanced I/Os and peripherals connected to two APB buses.All the devices offer a 12-bit ADC, 2 DACs and 2 ultra-low-power comparators, six general-purpose 16-bit timers and two basic timers, which can be used as time bases.Moreover, the STM32L151x6/8/B-A and STM32L152x6/8/B-A devices contain standard and advanced communication interfaces: up to two I2Cs and SPIs, three USARTs and a USB. The STM32L151x6/8/B-A and STM32L152x6/8/B-A devices offer up to 20 capacitive sensing channels to simply add touch sensing functionality to any application.They also include a real-time clock with sub-second counting and a set of backup registers that remain powered in Standby mode.Finally, the integrated LCD controller (except STM32L151x6/8/B-A devices) has a built-in LCD voltage generator that allows to drive up to 8 multiplexed LCDs with contrast independent of the supply voltage.The ultra-low-power STM32L151x6/8/B-A and STM32L152x6/8/B-A devices operate from a 1.8 to 3.6 V power supply (down to 1.65 V at power down) with BOR and from a 1.65 to 3.6 V power supply without BOR option. They are available in the -40 to +85 °C and -40 to +105°C temperature ranges. A comprehensive set of power-saving modes allows the design of low-power applications. 

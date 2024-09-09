@@ -1,0 +1,72 @@
+Part Name: STM32F100VDT7B
+Caption: Mainstream Value line, Arm Cortex-M3 MCU with 384 Kbytes of Flash memory, 24 MHz CPU, motor control and CEC functions
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 105.0
+
+Core: Arm Cortex-M3
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 100 14x14x1.4 mm
+
+Key features:
+        • Core: Arm®  32-bit Cortex® -M3 CPU24 MHz maximum frequency, 1.25 DMIPS /MHz (Dhrystone 2.1) performanceSingle-cycle multiplication and hardware division
+                • 24 MHz maximum frequency, 1.25 DMIPS /MHz (Dhrystone 2.1) performance
+                • Single-cycle multiplication and hardware division
+        • Memories256 to 512 Kbytes of Flash memory24 to 32 Kbytes of SRAMFlexible static memory controller with 4 Chip Selects. Supports SRAM, PSRAM and NOR memoriesLCD parallel interface, 8080/6800 modes
+                • 256 to 512 Kbytes of Flash memory
+                • 24 to 32 Kbytes of SRAM
+                • Flexible static memory controller with 4 Chip Selects. Supports SRAM, PSRAM and NOR memories
+                • LCD parallel interface, 8080/6800 modes
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR and programmable voltage detector (PVD)4-to-24 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RCPLL for CPU clock32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR and programmable voltage detector (PVD)
+                • 4-to-24 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC
+                • PLL for CPU clock
+                • 32 kHz oscillator for RTC with calibration
+        • Low powerSleep, Stop and Standby modesVBATsupply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC and backup registers
+        • Serial wire debug (SWD) and JTAG I/F
+        • DMA12-channel DMA controllerPeripherals supported: timers, ADC, SPIs, I2Cs, USARTs and DACs
+                • 12-channel DMA controller
+                • Peripherals supported: timers, ADC, SPIs, I2Cs, USARTs and DACs
+        • 1 × 12-bit, 1.2 μs A/D converter (up to 16 ch.)Conversion range: 0 to 3.6 VTemperature sensor
+                • Conversion range: 0 to 3.6 V
+                • Temperature sensor
+        • 2 × 12-bit D/A converters
+        • Up to 112 fast I/O ports51/80/112 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 51/80/112 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • Up to 16 timersUp to seven 16-bit timers, each with up to 4 IC/OC/PWM or pulse counterOne 16-bit, 6-channel advanced-control timer: up to 6 channels for PWM output, dead time generation and emergency stopOne 16-bit timer, with 2 IC/OC, 1 OCN/PWM, dead-time generation and emergency stopTwo 16-bit timers, each with IC/OC/OCN/PWM, dead-time generation and emergency stopTwo watchdog timersSysTick timer: 24-bit downcounterTwo 16-bit basic timers to drive the DAC
+                • Up to seven 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter
+                • One 16-bit, 6-channel advanced-control timer: up to 6 channels for PWM output, dead time generation and emergency stop
+                • One 16-bit timer, with 2 IC/OC, 1 OCN/PWM, dead-time generation and emergency stop
+                • Two 16-bit timers, each with IC/OC/OCN/PWM, dead-time generation and emergency stop
+                • Two watchdog timers
+                • SysTick timer: 24-bit downcounter
+                • Two 16-bit basic timers to drive the DAC
+        • Up to 11 communications interfacesUp to two I2C interfaces (SMBus/PMBus)Up to 3 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)Up to 2 UARTsUp to 3 SPIs (12 Mbit/s)Consumer electronics control (CEC) I/F
+                • Up to two I2C interfaces (SMBus/PMBus)
+                • Up to 3 USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+                • Up to 2 UARTs
+                • Up to 3 SPIs (12 Mbit/s)
+                • Consumer electronics control (CEC) I/F
+        • CRC calculation unit, 96-bit unique ID
+Description: 
+The STM32F100xx value line family incorporates the high-performance Arm® Cortex®-M3 32-bit RISC core operating at a 24 MHz frequency, high-speed embedded memories (Flash memory up to 512 Kbytes and SRAM up to 32 Kbytes), a flexible static memory control (FSMC) interface (for devices offered in packages of 100 pins and more) and an extensive range of enhanced peripherals and I/Os connected to two APB buses. All devices offer standard communication interfaces (up to two I2Cs, three SPIs, one HDMI CEC, up to three USARTs and 2 UARTS), one 12-bit ADC, two 12-bit DACs, up to 9 general-purpose 16-bit timers and an advanced-control PWM timer.The STM32F100xx high-density value line family operates in the –40 to +85 °C and –40 to +105 °C temperature ranges, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F100xx value line family includes devices in three different packages ranging from 64 pins to 144 pins. Depending on the device chosen, different sets of peripherals are included, the description below gives an overview of the complete range of peripherals proposed in this family.These features make the STM32F100xx value line microcontroller family suitable for a wide range of applications such as motor drives, application control, medical and handheld equipment, PC and gaming peripherals, GPS platforms, industrial applications, PLCs, inverters, printers, scanners, alarm systems, video intercoms, and HVACs. 

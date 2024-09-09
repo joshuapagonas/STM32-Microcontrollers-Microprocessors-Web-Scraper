@@ -1,0 +1,66 @@
+Part Name: STM32F102R8T6
+Caption: Mainstream USB Access line, Arm Cortex-M3 MCU with 64 Kbytes of Flash memory, 48 MHz CPU, USB FS
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Core: Arm® 32-bit Cortex® -M3CPU48 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 WS memory accessSingle-cycle multiplication and hardware division
+                • 48 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 WS memory access
+                • Single-cycle multiplication and hardware division
+        • Memories64 or 128 Kbytes of Flash memory10 or 16 Kbytes of SRAM
+                • 64 or 128 Kbytes of Flash memory
+                • 10 or 16 Kbytes of SRAM
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR and programmable voltage detector (PVD)4-to-16 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RCPLL for CPU clock32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR and programmable voltage detector (PVD)
+                • 4-to-16 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC
+                • PLL for CPU clock
+                • 32 kHz oscillator for RTC with calibration
+        • Low powerSleep, Stop and Standby modesVBATsupply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC and backup registers
+        • Debug modeSerial wire debug (SWD) and JTAG interfaces
+                • Serial wire debug (SWD) and JTAG interfaces
+        • DMA7-channel DMA controllerPeripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+                • 7-channel DMA controller
+                • Peripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+        • 1 × 12-bit, 1.2 µs A/D converter (up to 16 channels)Conversion range: 0 to 3.6 VTemperature sensor
+                • Conversion range: 0 to 3.6 V
+                • Temperature sensor
+        • Up to 51 fast I/O ports37/51 I/Os all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 37/51 I/Os all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • Up to six timersThree 16-bit timers, each with up to four IC/OC/PWM or pulse counterTwo watchdog timers (Independent and Window)SysTick timer: 24-bit downcounter
+                • Three 16-bit timers, each with up to four IC/OC/PWM or pulse counter
+                • Two watchdog timers (Independent and Window)
+                • SysTick timer: 24-bit downcounter
+        • Up to eight communication interfacesUp to two I2C interfaces (SMBus/PMBus)Up to three USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)Up to two SPIs (12 Mbit/s)One USB 2.0 full speed interface
+                • Up to two I2C interfaces (SMBus/PMBus)
+                • Up to three USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+                • Up to two SPIs (12 Mbit/s)
+                • One USB 2.0 full speed interface
+        • CRC calculation unit, 96-bit unique ID
+        • ECOPACK packages
+Description: 
+The STM32F102xx medium-density USB access line incorporates the high-performance Arm® Cortex®-M3 32-bit RISC core operating at a 48 MHz frequency, high-speed embedded memories (Flash memory of 64 or 128 Kbytes and SRAM of 10 or 16 Kbytes), and an extensive range of enhanced peripherals and I/Os connected to two APB buses. All devices offer standard communication interfaces (two I2Cs, two SPIs, one USB and three USARTs), one 12-bit ADC and three general-purpose 16-bit timers.The STM32F102xx family operates in the –40 to +85 °C temperature range, from a 2.0 to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F102xx medium-density USB access line is delivered in the LQFP48 7 × 7 mm and LQFP64 10 × 10 mm packages.The STM32F102xx medium-density USB access line microcontrollers are suitable for a wide range of applications. 

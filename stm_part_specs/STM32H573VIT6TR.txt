@@ -1,0 +1,104 @@
+Part Name: STM32H573VIT6TR
+Caption: High-performance, Arm Cortex-M33 with TrustZone, MCU with 2-Mbyte Flash, 640-Kbyte RAM, 250 MHz CPU
+Parameters:
+Supply Voltage Min Volt: 1.62
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M33
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 100 14x14x1.4 mm
+
+Key features:
+        • CoreArm® Cortex® -M33 CPU with TrustZone® , FPU, frequency up to 250 MHz, MPU, 375 DMIPS (Dhrystone 2.1)
+                • Arm® Cortex® -M33 CPU with TrustZone® , FPU, frequency up to 250 MHz, MPU, 375 DMIPS (Dhrystone 2.1)
+        • ART Accelerator8-Kbyte instruction cache allowing 0-wait-state execution from flash and external memories4-Kbyte data cache for external memories
+                • 8-Kbyte instruction cache allowing 0-wait-state execution from flash and external memories
+                • 4-Kbyte data cache for external memories
+        • Benchmarks1.5 DMIPS/MHz (Drystone 2.1)1023 CoreMark® (4.092 CoreMark® /MHz)
+                • 1.5 DMIPS/MHz (Drystone 2.1)
+                • 1023 CoreMark® (4.092 CoreMark® /MHz)
+        • MemoriesUp to 2 Mbytes of embedded flash memory with ECC, 2 banks read-while-writeUp to 48-Kbyte per bank with high-cycling capability (100 K cycles) for DATA flash1-Kbyte OTP (one-time programmable)640 Kbytes of SRAM (64-Kbyte SRAM2 with ECC and 320-Kbyte SRAM3 with flexible ECC)4 Kbytes of backup SRAM available in the lowest power modesFlexible external memory controller with up to 16-bit data bus: SRAM, PSRAM, FRAM, SDRAM/LPSDR SDRAM, NOR/NAND memoriesOne Octo-SPI memory interface with on-the-fly decryption and support for serial PSRAM/NAND/NOR, Hyper RAM/flash frame formatsTwo SD/SDIO/MMC interfaces
+                • Up to 2 Mbytes of embedded flash memory with ECC, 2 banks read-while-write
+                • Up to 48-Kbyte per bank with high-cycling capability (100 K cycles) for DATA flash
+                • 1-Kbyte OTP (one-time programmable)
+                • 640 Kbytes of SRAM (64-Kbyte SRAM2 with ECC and 320-Kbyte SRAM3 with flexible ECC)
+                • 4 Kbytes of backup SRAM available in the lowest power modes
+                • Flexible external memory controller with up to 16-bit data bus: SRAM, PSRAM, FRAM, SDRAM/LPSDR SDRAM, NOR/NAND memories
+                • One Octo-SPI memory interface with on-the-fly decryption and support for serial PSRAM/NAND/NOR, Hyper RAM/flash frame formats
+                • Two SD/SDIO/MMC interfaces
+        • Clock managementInternal oscillators: 64 MHz HSI, 48 MHz HSI48, 4 MHz CSI, 32 kHz LSI
+                • Internal oscillators: 64 MHz HSI, 48 MHz HSI48, 4 MHz CSI, 32 kHz LSI
+        • General-purpose inputs/outputsUp to 139 fast I/Os with interrupt capability (most 5 V tolerant)Up to 10 I/Os with independent supply down to 1.08 V
+                • Up to 139 fast I/Os with interrupt capability (most 5 V tolerant)
+                • Up to 10 I/Os with independent supply down to 1.08 V
+        • Low-power consumptionSleep, Stop and Standby modesVBATsupply for RTC, 32x 32-bit backup registers
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC, 32x 32-bit backup registers
+        • SecurityArm® TrustZone® with Armv8-M mainline security extensionUp to eight configurable SAU regionsTrustZone® aware and securable peripheralsFlexible life-cycle scheme with secure debug authenticationPreconfigured immutable root of trust (ST-iROT)SFI (secure firmware installation)Secure data storage with hardware unique key (HUK)Secure firmware upgrade support with TF-MTwo AES coprocessors including one with DPA resistancePublic key accelerator, DPA resistantOn-the-fly decryption of Octo-SPI external memoriesHASH hardware acceleratorTrue random number generator, NIST SP800-90B compliant96-bit unique IDActive tampers
+                • Arm® TrustZone® with Armv8-M mainline security extension
+                • Up to eight configurable SAU regions
+                • TrustZone® aware and securable peripherals
+                • Flexible life-cycle scheme with secure debug authentication
+                • Preconfigured immutable root of trust (ST-iROT)
+                • SFI (secure firmware installation)
+                • Secure data storage with hardware unique key (HUK)
+                • Secure firmware upgrade support with TF-M
+                • Two AES coprocessors including one with DPA resistance
+                • Public key accelerator, DPA resistant
+                • On-the-fly decryption of Octo-SPI external memories
+                • HASH hardware accelerator
+                • True random number generator, NIST SP800-90B compliant
+                • 96-bit unique ID
+                • Active tampers
+        • 2x DMA controllers to offload the CPUTwo dual-port DMAs with FIFO
+                • Two dual-port DMAs with FIFO
+        • Mathematical accelerationCORDIC for trigonometric functions accelerationFMAC (filter mathematical accelerator)
+                • CORDIC for trigonometric functions acceleration
+                • FMAC (filter mathematical accelerator)
+        • Reset and supply management1.71 V to 3.6 V application supply and I/OPOR, PDR, PVD and BOREmbedded regulator (LDO) or SMPS step-down converter regulator with configurable scalable output to supply the digital circuitry
+                • 1.71 V to 3.6 V application supply and I/O
+                • POR, PDR, PVD and BOR
+                • Embedded regulator (LDO) or SMPS step-down converter regulator with configurable scalable output to supply the digital circuitry
+        • Up to 24 timers18x 16-bit (including x6 low-power 16-bit timer available is Stop mode)Two 32-bit timers with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder inputTwo watchdogsTwo SysTick timer
+                • 18x 16-bit (including x6 low-power 16-bit timer available is Stop mode)
+                • Two 32-bit timers with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+                • Two watchdogs
+                • Two SysTick timer
+        • Up to 34x communication interfacesUp to four I2C FM+ interfaces (SMBus/PMBus)One I3C interfaceUp to 12 U(S)ARTS (ISO7816 interface, LIN, IrDA, modem control) and 1x LP UARTUp to six SPIs including three muxed with full-duplex I2S for audio class accuracy via internal audio PLL or external clock and up to five additional SPI from five USART when configured in Synchronous mode (one additional SPI with OctoSPI)Two SAITwo FD-CANOne 8- to 14- bit camera interfaceOne 16-bit parallel slave synchronous-interfaceOne HDMI-CECOne Ethernel MAC interface with DMA controllerOne USB 2.0 full-speed host and deviceOne USB Type-C® / USB power-delivery r3.1
+                • Up to four I2C FM+ interfaces (SMBus/PMBus)
+                • One I3C interface
+                • Up to 12 U(S)ARTS (ISO7816 interface, LIN, IrDA, modem control) and 1x LP UART
+                • Up to six SPIs including three muxed with full-duplex I2S for audio class accuracy via internal audio PLL or external clock and up to five additional SPI from five USART when configured in Synchronous mode (one additional SPI with OctoSPI)
+                • Two SAI
+                • Two FD-CAN
+                • One 8- to 14- bit camera interface
+                • One 16-bit parallel slave synchronous-interface
+                • One HDMI-CEC
+                • One Ethernel MAC interface with DMA controller
+                • One USB 2.0 full-speed host and device
+                • One USB Type-C® / USB power-delivery r3.1
+        • AnalogTwo 12-bit ADC with up to 5 MSPS in 12-bitTwo 12-bit D/A converters
+                • Two 12-bit ADC with up to 5 MSPS in 12-bit
+                • Two 12-bit D/A converters
+        • Digital temperature sensor
+        • DebugAuthenticated debug and flexible device life cycleSerial wire-debug (SWD), JTAG, Embedded Trace Microcell™  (ETM)
+                • Authenticated debug and flexible device life cycle
+                • Serial wire-debug (SWD), JTAG, Embedded Trace Microcell™  (ETM)
+        • ECOPACK2 compliant packages
+Description: 
+The STM32H573xx devices are a high-performance microcontrollers family (STM32H5 Series) based on the high-performance Arm® Cortex®-M33 32-bit RISC core. They operate at a frequency of up to 250 MHz.The Cortex®-M33 core features a single-precision floating-point unit (FPU), that supports all the Arm® single-precision data-processing instructions and all the data types.The Cortex®-M33 core also implements a full set of DSP (digital signal processing) instructions and a memory protection unit (MPU) that enhances the application security.The devices embed high-speed memories (2 Mbytes of dual bank flash memory and 640 Kbytes of SRAM), a flexible external memory controller (FMC) (for devices with packages of 100 pins and more), one Octo-SPI memory interface (at least one Quad-SPI available on all packages) and an extensive range of enhanced I/Os and peripherals connected to three APB buses, three AHB buses and a 32-bit multi-AHB bus matrix.The devices offer security foundation compliant with the trusted-based security architecture (TBSA) requirements from Arm®. It embeds the necessary security features to implement a secure boot, secure data storage and secure firmware update. Besides these capabilities, the devices incorporate a secure firmware installation feature, that allows the customer to secure the provisioning of the code during its production. A flexible life cycle is managed thanks to multiple levels of protection and secure debug authentication. Firmware hardware isolation is supported thanks to securable peripherals, memories and I/Os, and privilege configuration of peripherals and memories.The devices feature several protection mechanisms for embedded flash memory and SRAM: readout protection, write protection, secure and hide protection areas.The devices embed several peripherals reinforcing security: a fast AES coprocessor, a secure AES coprocessor with DPA resistance and hardware unique key that can be shared by hardware with fast AES, a public key accelerator (PKA), DPA resistant an on-the-fly decryption engine for Octo-SPI external memories, a HASH hardware accelerator, and a true random number generatorThe devices offer active tamper detection and protection against transient and environmental perturbation attacks, thanks to several internal monitoring generating secret data erase in case of attack. This helps to fit the PCI requirements for point of sales applications.The devices offer two fast 12-bit ADC, two DAC channels, an internal voltage reference buffer, a low-power RTC, two 32-bit general-purpose timers, two 16-bit PWM timers dedicated to motor control, eight 16-bit general-purpose timers, two 16-bit basic timers and six 16-bit low-power timers.The devices also feature standard and advanced communication interfaces such as: four I2Cs, one I3C, six SPIs, three I2Ss, six USARTs, six UARTs and one low-power UART, two SAIs, one digital camera interface (DCMI), up to two SDMMC, two FDCAN, one USB full-speed, one USB Type-C™ /USB Power Delivery controller.The devices operate in the - 40 to + 85 °C (+ 130 °C junction) and - 40 to + 125 °C (+ 130 °C junction) temperature ranges from a 1.71 to 3.6 V power supply.A comprehensive set of power-saving modes allow the design of low-power applications.Some independent power supplies are supported like an analog independent supply input for ADC, DACs, a 3.3 V dedicated supply input for USB and a dedicated supply input for some GPIOs and SDMMC. A VBAT input is available for connecting a backup battery in order to preserve the RTC functionality and to backup 32x 32-bit registers and 4-Kbyte SRAM.The devices offer eight packages from 64-pin to 176-pin.All packages are available with two options LDO or SMPS supply for the VCORE (except for LQFP64 and VFQFPN68 packages which are not available in SMPS and WLCSP80 which is not available in LDO). 

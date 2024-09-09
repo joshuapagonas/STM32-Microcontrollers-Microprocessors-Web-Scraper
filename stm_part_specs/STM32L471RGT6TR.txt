@@ -1,0 +1,75 @@
+Part Name: STM32L471RGT6TR
+Caption: Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 1 Mbyte of Flash memory, DFSDM
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/105/125 °C temperature range300 nA in VBAT mode: supply for RTC and 32x32-bit backup registers30 nA Shutdown mode (5 wakeup pins)120 nA Standby mode (5 wakeup pins)420 nA Standby mode with RTC1.1 μA Stop 2 mode, 1.4 μA Stop 2 with RTC100 μA/MHz run modeBatch acquisition mode (BAM)4 μs wakeup from Stop modeBrown out reset (BOR) in all modes except shutdownInterconnect matrix
+                • 1.71 V to 3.6 V power supply
+                • -40 °C to 85/105/125 °C temperature range
+                • 300 nA in VBAT mode: supply for RTC and 32x32-bit backup registers
+                • 30 nA Shutdown mode (5 wakeup pins)
+                • 120 nA Standby mode (5 wakeup pins)
+                • 420 nA Standby mode with RTC
+                • 1.1 μA Stop 2 mode, 1.4 μA Stop 2 with RTC
+                • 100 μA/MHz run mode
+                • Batch acquisition mode (BAM)
+                • 4 μs wakeup from Stop mode
+                • Brown out reset (BOR) in all modes except shutdown
+                • Interconnect matrix
+        • Core: ARM®  32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from Flash memory, frequency up to 80 MHz, MPU, 100DMIPS/1.25DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+        • Clock Sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)3 PLLs for system clock, audio, ADC
+                • 4 to 48 MHz crystal oscillator
+                • 32 kHz crystal oscillator for RTC (LSE)
+                • Internal 16 MHz factory-trimmed RC (±1%)
+                • Internal low-power 32 kHz RC (±5%)
+                • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)
+                • 3 PLLs for system clock, audio, ADC
+        • RTC with HW calendar, alarms and calibration
+        • Up to 24 capacitive sensing channels: support touchkey, linear and rotary touch sensors
+        • 16x timers: 2 x 16-bit advanced motor-control, 2 x 32-bit and 5 x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timer
+        • Up to 114 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 V
+        • MemoriesUp to 1 MB Flash, 2 banks read-while-write, proprietary code readout protectionUp to 128 KB of SRAM including 32 KB with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memoriesQuad SPI memory interface
+                • Up to 1 MB Flash, 2 banks read-while-write, proprietary code readout protection
+                • Up to 128 KB of SRAM including 32 KB with hardware parity check
+                • External memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memories
+                • Quad SPI memory interface
+        • 4x digital filters for sigma delta modulator
+        • Rich analog peripherals (independent supply)3× 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 μA/Msps2x 12-bit DAC, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators
+                • 3× 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 μA/Msps
+                • 2x 12-bit DAC, low-power sample and hold
+                • 2x operational amplifiers with built-in PGA
+                • 2x ultra-low-power comparators
+        • 17x communication interfaces2x SAIs (serial audio interface)3x I2C FM+(1 Mbit/s), SMBus/PMBus6x USARTs (ISO 7816, LIN, IrDA, modem)3x SPIs (4x SPIs with the Quad SPI)CAN (2.0B Active) and SDMMC interfaceSWPMI single wire protocol master I/F
+                • 2x SAIs (serial audio interface)
+                • 3x I2C FM+(1 Mbit/s), SMBus/PMBus
+                • 6x USARTs (ISO 7816, LIN, IrDA, modem)
+                • 3x SPIs (4x SPIs with the Quad SPI)
+                • CAN (2.0B Active) and SDMMC interface
+                • SWPMI single wire protocol master I/F
+        • 14-channel DMA controller
+        • True random number generator
+        • CRC calculation unit, 96-bit unique ID
+        • Development support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+Description: 
+The STM32L471xx devices are the ultra-low-power microcontrollers based on the high-performance ARM® Cortex®-M4 32-bit RISC core operating at a frequency of up to 80 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision which supports all ARM single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32L471xx devices embed high-speed memories (Flash memory up to 1 Mbyte, up to 128 Kbyte of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), a Quad SPI flash memories interface (available on all packages) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The STM32L471xx devices embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection, proprietary code readout protection and Firewall.The devices offer up to three fast 12-bit ADCs (5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timer, two 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and two 16-bit low-power timers. The devices support four digital filters for external sigma delta modulators (DFSDM).In addition, up to 24 capacitive sensing channels are available.They also feature standard and advanced communication interfaces. 

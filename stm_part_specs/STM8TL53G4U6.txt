@@ -1,0 +1,70 @@
+Part Name: STM8TL53G4U6
+Caption: 8-bit, ultra-low-power, touch-sensing MCUs with 16-Kbyte Flash and proximity detection
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFQFPN 28 4x4x0.55 mm
+
+Key features:
+        • Operating conditionsOperating power supply: 1.65 V to 3.6 VTemperature range: –40 °C to 85 °C
+                • Operating power supply: 1.65 V to 3.6 V
+                • Temperature range: –40 °C to 85 °C
+        • Low power features4 low power modes: Wait, Active-halt with AWU (1 μA), Active-halt with ProxSense™  (10 μA with scan every 200 ms),Halt (0.4 μA)Dynamic power consumption: 150 μA/MHzFast wakeup from Halt mode: 4.7 μsUltra-low leakage per I/O: 50 nA
+                • 4 low power modes: Wait, Active-halt with AWU (1 μA), Active-halt with ProxSense™  (10 μA with scan every 200 ms),Halt (0.4 μA)
+                • Dynamic power consumption: 150 μA/MHz
+                • Fast wakeup from Halt mode: 4.7 μs
+                • Ultra-low leakage per I/O: 50 nA
+        • Advanced STM8 CoreHarvard architecture with 3-stage pipelineMax freq.16 MHz,16 CISC MIPS peak
+                • Harvard architecture with 3-stage pipeline
+                • Max freq.16 MHz,16 CISC MIPS peak
+        • MemoriesUp to 16 Kbyte of Flash program including up to 2 Kbyte of data EEPROMError correction code (ECC)Flexible write and read protection modesIn-application and in-circuit programmingData EEPROM capability4 Kbyte of static RAM
+                • Up to 16 Kbyte of Flash program including up to 2 Kbyte of data EEPROM
+                • Error correction code (ECC)
+                • Flexible write and read protection modes
+                • In-application and in-circuit programming
+                • Data EEPROM capability
+                • 4 Kbyte of static RAM
+        • Clock managementInternal 16 MHz factory-trimmed RCInternal 38 kHz low consumption RC driving both the IWDG and the AWU
+                • Internal 16 MHz factory-trimmed RC
+                • Internal 38 kHz low consumption RC driving both the IWDG and the AWU
+        • Reset and supply managementUltra-low-power, ultra safe power-on reset/ power-down reset
+                • Ultra-low-power, ultra safe power-on reset/ power-down reset
+        • Interrupt managementNested interrupt controller with software priority controlUp to 22 external interrupt sources
+                • Nested interrupt controller with software priority control
+                • Up to 22 external interrupt sources
+        • I/OsUp to 23 with 22 mappable on external interrupt vectorsI/Os with programmable input pull-ups, high sink/source capability
+                • Up to 23 with 22 mappable on external interrupt vectors
+                • I/Os with programmable input pull-ups, high sink/source capability
+        • ProxSense™  patented acquisition technology with up to 300 touch sensing channels (20 receiver/transmitter channels and 15 transmitter channels) supporting projected capacitive acquisition method suitable for proximity detection.
+        • TimersTwo 16-bit general purpose timers (TIM2 and TIM3) with up and down counter and two channels (used as IC, OC, PWM)One 8-bit timer (TIM4) with 7-bit prescalerIndependent watchdogWindow watchdogAuto-wakeup unitBeeper timer with 1, 2 or 4 kHz frequencies
+                • Two 16-bit general purpose timers (TIM2 and TIM3) with up and down counter and two channels (used as IC, OC, PWM)
+                • One 8-bit timer (TIM4) with 7-bit prescaler
+                • Independent watchdog
+                • Window watchdog
+                • Auto-wakeup unit
+                • Beeper timer with 1, 2 or 4 kHz frequencies
+        • Communication interfacesSPI synchronous serial interfaceFast I2C Multimaster/slave 400 kHzUSART with fractional baud rate generator
+                • SPI synchronous serial interface
+                • Fast I2C Multimaster/slave 400 kHz
+                • USART with fractional baud rate generator
+        • Development supportHardware single wire interface module (SWIM)In-circuit emulation (ICE)
+                • Hardware single wire interface module (SWIM)
+                • In-circuit emulation (ICE)
+Description: 
+The STM8TL52x4 and STM8TL53x4 devices feature the enhanced STM8 CPU core providing increased processing power (up to 16 MIPS at 16 MHz) while maintaining the advantages of a CISC architecture with improved code density, a 24-bit linear addressing space and an optimized architecture for low power operations. It uses a ProxSense charge transfer capacitive acquisition method that is capable of near range proximity detection.The family includes an integrated debug module with a hardware interface (SWIM) which allows non-intrusive in-application debugging and ultrafast Flash programming. All STM8TL52x4 and STM8TL53x4 microcontrollers feature low-power low-voltage single-supply program Flash memory.The STM8TL52x4 and STM8TL53x4 devices are based on a generic set of state-of-the-art peripherals. The modular design of the peripheral set allows the same peripherals to be found in different ST microcontroller families including 32-bit families. This makes any transition to a different family very easy, and simplified even more by the use of a common set of development tools. 

@@ -1,0 +1,88 @@
+Part Name: STM32L476RGT6
+Caption: Ultra-low-power with FPU Arm Cortex-M4 MCU 80 MHz with 1 Mbyte of Flash memory, LCD, USB OTG, DFSDM
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technologyUltra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/105/125 °C temperature range300 nA in VBATmode: supply for RTC and 32x32-bit backup registers30 nA Shutdown mode (5 wakeup pins)120 nA Standby mode (5 wakeup pins)420 nA Standby mode with RTC1.1 µA Stop 2 mode, 1.4 µA with RTC100 µA/MHz run mode (LDO Mode)39 μA/MHz run mode (@3.3 V SMPS Mode)Batch acquisition mode (BAM)4 µs wakeup from Stop modeBrown out reset (BOR)Interconnect matrixCore: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from flash memory, frequency up to 80 MHz, MPU, 100DMIPS and DSP instructionsPerformance benchmark1.25 DMIPS/MHz (Drystone 2.1)273.55 CoreMark® (3.42 CoreMark/MHz @ 80 MHz)Energy benchmark294 ULPMark™  CP score106 ULPMark™  PP scoreClock Sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)3 PLLs for system clock, USB, audio, ADCUp to 114 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 VRTC with HW calendar, alarms and calibrationLCD 8× 40 or 4× 44 with step-up converterUp to 24 capacitive sensing channels: support touchkey, linear and rotary touch sensors16x timers: 2x 16-bit advanced motor-control, 2x 32-bit and 5x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timerMemoriesUp to 1 MB flash, 2 banks read-while-write, proprietary code readout protectionUp to 128 KB of SRAM including 32 KB with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memoriesQuad SPI memory interface4x digital filters for sigma delta modulatorRich analog peripherals (independent supply)3x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps2x 12-bit DAC output channels, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators20x communication interfacesUSB OTG 2.0 full-speed, LPM and BCD2x SAIs (serial audio interface)3x I2C FM+(1 Mbit/s), SMBus/PMBus5x USARTs (ISO 7816, LIN, IrDA, modem)1x LPUART (Stop 2 wake-up)3x SPIs (and 1x Quad SPI)CAN (2.0B Active) and SDMMC interfaceSWPMI single wire protocol master I/FIRTIM (Infrared interface)14-channel DMA controllerTrue random number generatorCRC calculation unit, 96-bit unique IDDevelopment support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ All packages are ECOPACK2 compliant
+                • Ultra-low-power with FlexPowerControl1.71 V to 3.6 V power supply-40 °C to 85/105/125 °C temperature range300 nA in VBATmode: supply for RTC and 32x32-bit backup registers30 nA Shutdown mode (5 wakeup pins)120 nA Standby mode (5 wakeup pins)420 nA Standby mode with RTC1.1 µA Stop 2 mode, 1.4 µA with RTC100 µA/MHz run mode (LDO Mode)39 μA/MHz run mode (@3.3 V SMPS Mode)Batch acquisition mode (BAM)4 µs wakeup from Stop modeBrown out reset (BOR)Interconnect matrix
+                        • 1.71 V to 3.6 V power supply
+                        • -40 °C to 85/105/125 °C temperature range
+                        • 300 nA in VBATmode: supply for RTC and 32x32-bit backup registers
+                        • 30 nA Shutdown mode (5 wakeup pins)
+                        • 120 nA Standby mode (5 wakeup pins)
+                        • 420 nA Standby mode with RTC
+                        • 1.1 µA Stop 2 mode, 1.4 µA with RTC
+                        • 100 µA/MHz run mode (LDO Mode)
+                        • 39 μA/MHz run mode (@3.3 V SMPS Mode)
+                        • Batch acquisition mode (BAM)
+                        • 4 µs wakeup from Stop mode
+                        • Brown out reset (BOR)
+                        • Interconnect matrix
+                • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait-state execution from flash memory, frequency up to 80 MHz, MPU, 100DMIPS and DSP instructions
+                • Performance benchmark1.25 DMIPS/MHz (Drystone 2.1)273.55 CoreMark® (3.42 CoreMark/MHz @ 80 MHz)
+                        • 1.25 DMIPS/MHz (Drystone 2.1)
+                        • 273.55 CoreMark® (3.42 CoreMark/MHz @ 80 MHz)
+                • Energy benchmark294 ULPMark™  CP score106 ULPMark™  PP score
+                        • 294 ULPMark™  CP score
+                        • 106 ULPMark™  PP score
+                • Clock Sources4 to 48 MHz crystal oscillator32 kHz crystal oscillator for RTC (LSE)Internal 16 MHz factory-trimmed RC (±1%)Internal low-power 32 kHz RC (±5%)Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)3 PLLs for system clock, USB, audio, ADC
+                        • 4 to 48 MHz crystal oscillator
+                        • 32 kHz crystal oscillator for RTC (LSE)
+                        • Internal 16 MHz factory-trimmed RC (±1%)
+                        • Internal low-power 32 kHz RC (±5%)
+                        • Internal multispeed 100 kHz to 48 MHz oscillator, auto-trimmed by LSE (better than ±0.25 % accuracy)
+                        • 3 PLLs for system clock, USB, audio, ADC
+                • Up to 114 fast I/Os, most 5 V-tolerant, up to 14 I/Os with independent supply down to 1.08 V
+                • RTC with HW calendar, alarms and calibration
+                • LCD 8× 40 or 4× 44 with step-up converter
+                • Up to 24 capacitive sensing channels: support touchkey, linear and rotary touch sensors
+                • 16x timers: 2x 16-bit advanced motor-control, 2x 32-bit and 5x 16-bit general purpose, 2x 16-bit basic, 2x low-power 16-bit timers (available in Stop mode), 2x watchdogs, SysTick timer
+                • MemoriesUp to 1 MB flash, 2 banks read-while-write, proprietary code readout protectionUp to 128 KB of SRAM including 32 KB with hardware parity checkExternal memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memoriesQuad SPI memory interface
+                        • Up to 1 MB flash, 2 banks read-while-write, proprietary code readout protection
+                        • Up to 128 KB of SRAM including 32 KB with hardware parity check
+                        • External memory interface for static memories supporting SRAM, PSRAM, NOR and NAND memories
+                        • Quad SPI memory interface
+                • 4x digital filters for sigma delta modulator
+                • Rich analog peripherals (independent supply)3x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps2x 12-bit DAC output channels, low-power sample and hold2x operational amplifiers with built-in PGA2x ultra-low-power comparators
+                        • 3x 12-bit ADC 5 Msps, up to 16-bit with hardware oversampling, 200 µA/Msps
+                        • 2x 12-bit DAC output channels, low-power sample and hold
+                        • 2x operational amplifiers with built-in PGA
+                        • 2x ultra-low-power comparators
+                • 20x communication interfacesUSB OTG 2.0 full-speed, LPM and BCD2x SAIs (serial audio interface)3x I2C FM+(1 Mbit/s), SMBus/PMBus5x USARTs (ISO 7816, LIN, IrDA, modem)1x LPUART (Stop 2 wake-up)3x SPIs (and 1x Quad SPI)CAN (2.0B Active) and SDMMC interfaceSWPMI single wire protocol master I/FIRTIM (Infrared interface)
+                        • USB OTG 2.0 full-speed, LPM and BCD
+                        • 2x SAIs (serial audio interface)
+                        • 3x I2C FM+(1 Mbit/s), SMBus/PMBus
+                        • 5x USARTs (ISO 7816, LIN, IrDA, modem)
+                        • 1x LPUART (Stop 2 wake-up)
+                        • 3x SPIs (and 1x Quad SPI)
+                        • CAN (2.0B Active) and SDMMC interface
+                        • SWPMI single wire protocol master I/F
+                        • IRTIM (Infrared interface)
+                • 14-channel DMA controller
+                • True random number generator
+                • CRC calculation unit, 96-bit unique ID
+                • Development support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+                • All packages are ECOPACK2 compliant
+Description: 
+The STM32L476xx devices are ultra-low-power microcontrollers based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 80 MHz. The Cortex-M4 core features a Floating point unit (FPU) single precision that supports all Arm® single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32L476xx devices embed high-speed memories (flash memory up to 1 Mbyte, up to 128 Kbyte of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), a Quad SPI flash memories interface (available on all packages) and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The STM32L476xx devices embed several protection mechanisms for embedded flash memory and SRAM: readout protection, write protection, proprietary code readout protection and Firewall.The devices offer up to three fast 12-bit ADCs (5 Msps), two comparators, two operational amplifiers, two DAC channels, an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timer, two 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and two 16-bit low-power timers. The devices support four digital filters for external sigma delta modulators (DFSDM).In addition, up to 24 capacitive sensing channels are available. The devices also embed an integrated LCD driver 8x40 or 4x44, with internal step-up converter.They also feature standard and advanced communication interfaces, namely three I2Cs, three SPIs, three USARTs, two UARTs and one Low-Power UART, two SAIs, one SDMMC, one CAN, one USB OTG full-speed, one SWPMI (single wire protocol master interface).The STM32L476xx operates in the -40 to +85 °C (+105 °C junction), -40 to +105 °C (+125 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V VDD power supply when using internal LDO regulator and a 1.05 to 1.32V VDD12 power supply when using external SMPS supply. A comprehensive set of power-saving modes makes possible the design of low-power applications.Some independent power supplies are supported: analog independent supply input for ADC, DAC, OPAMPs and comparators, 3.3 V dedicated supply input for USB and up to 14 I/Os can be supplied independently down to 1.08 V. A VBAT input makes it possible to backup the RTC and backup registers. Dedicated VDD12 power supplies can be used to bypass the internal LDO regulator when connected to an external SMPS.The STM32L476xx family offers seven packages from 64-pin to 144-pin packages. 

@@ -1,0 +1,75 @@
+Part Name: STM32F746NGH6TR
+Caption: High-performance and DSP with FPU, Arm Cortex-M7 MCU with 1 Mbyte of Flash memory, 216 MHz CPU, Art Accelerator, L1 cache, SDRAM, TFT
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M7
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TFBGA 216 13x13x1.2 P 0.8 mm
+
+Key features:
+        • Core: ARM®  32-bit Cortex® -M7 CPU with FPU, adaptive real-time accelerator (ART Accelerator™ ) and L1-cache: 4KB data cache and 4KB instruction cache, allowing 0-wait state execution from embedded Flash memory and external memories, frequency up to 216 MHz, MPU, 462 DMIPS/2.14 DMIPS/MHz (Dhrystone 2.1), and DSP instructions.
+        • MemoriesUp to 1MB of Flash memory1024 bytes of OTP memorySRAM: 320KB (including 64KB of data TCM RAM for critical real-time data) + 16KB of instruction TCM RAM (for critical real-time routines) + 4KB of backup SRAM (available in the lowest power modes)Flexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND memories
+                • Up to 1MB of Flash memory
+                • 1024 bytes of OTP memory
+                • SRAM: 320KB (including 64KB of data TCM RAM for critical real-time data) + 16KB of instruction TCM RAM (for critical real-time routines) + 4KB of backup SRAM (available in the lowest power modes)
+                • Flexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND memories
+        • Dual mode Quad-SPI
+        • LCD parallel interface, 8080/6800 modes
+        • LCD-TFT controller up to XGA resolution with dedicated Chrom-ART Accelerator™  for enhanced graphic content creation (DMA2D)
+        • Clock, reset and supply management1.7 V to 3.6 V application supply and I/OsPOR, PDR, PVD and BORDedicated USB power4-to-26 MHz crystal oscillatorInternal 16 MHz factory-trimmed RC (1% accuracy)32 kHz oscillator for RTC with calibrationInternal 32 kHz RC with calibration
+                • 1.7 V to 3.6 V application supply and I/Os
+                • POR, PDR, PVD and BOR
+                • Dedicated USB power
+                • 4-to-26 MHz crystal oscillator
+                • Internal 16 MHz factory-trimmed RC (1% accuracy)
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 32 kHz RC with calibration
+        • Low-powerSleep, Stop and Standby modesVBATsupply for RTC, 32×32 bit backup registers + 4KB backup SRAM
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC, 32×32 bit backup registers + 4KB backup SRAM
+        • 3×12-bit, 2.4 MSPS ADC: up to 24 channels and 7.2 MSPS in triple interleaved mode
+        • 2×12-bit D/A converters
+        • Up to 18 timers: up to thirteen 16-bit (1x low- power 16-bit timer available in Stop mode) and two 32-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input. All 15 timers running up to 216 MHz. 2x watchdogs, SysTick timer
+        • General-purpose DMA: 16-stream DMA controller with FIFOs and burst support
+        • Debug modeSWD & JTAG interfacesCortex® -M7 Trace Macrocell™ 
+                • SWD & JTAG interfaces
+                • Cortex® -M7 Trace Macrocell™ 
+        • Up to 168 I/O ports with interrupt capabilityUp to 164 fast I/Os up to 108 MHzUp to 166 5 V-tolerant I/Os
+                • Up to 164 fast I/Os up to 108 MHz
+                • Up to 166 5 V-tolerant I/Os
+        • Up to 25 communication interfacesUp to 4× I2C interfaces (SMBus/PMBus)Up to 4 USARTs/4 UARTs (27 Mbit/s, ISO7816 interface, LIN, IrDA, modem control)Up to 6 SPIs (up to 50 Mbit/s), 3 with muxed simplex I2S for audio class accuracy via internal audio PLL or external clock2 x SAIs (serial audio interface)2 × CANs (2.0B active) and SDMMC interfaceSPDIFRX interfaceHDMI-CEC
+                • Up to 4× I2C interfaces (SMBus/PMBus)
+                • Up to 4 USARTs/4 UARTs (27 Mbit/s, ISO7816 interface, LIN, IrDA, modem control)
+                • Up to 6 SPIs (up to 50 Mbit/s), 3 with muxed simplex I2S for audio class accuracy via internal audio PLL or external clock
+                • 2 x SAIs (serial audio interface)
+                • 2 × CANs (2.0B active) and SDMMC interface
+                • SPDIFRX interface
+                • HDMI-CEC
+        • Advanced connectivityUSB 2.0 full-speed device/host/OTG controller with on-chip PHYUSB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+                • USB 2.0 full-speed device/host/OTG controller with on-chip PHY
+                • USB 2.0 high-speed/full-speed device/host/OTG controller with dedicated DMA, on-chip full-speed PHY and ULPI
+                • 10/100 Ethernet MAC with dedicated DMA: supports IEEE 1588v2 hardware, MII/RMII
+        • 8- to 14-bit parallel camera interface up to 54 Mbyte/s
+        • True random number generator
+        • CRC calculation unit
+        • RTC: subsecond accuracy, hardware calendar
+        • 96-bit unique ID
+Description: 
+The STM32F745xx and STM32F746xx devices are based on the high-performance ARM®Cortex®-M7 32-bit RISC core operating at up to 216 MHz frequency. The Cortex®-M7 core features a single floating point unit (SFPU) precision which supports all ARM®single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances the application security.The STM32F745xx and STM32F746xx devices incorporate high-speed embedded memories with a Flash memory up to 1 Mbyte, 320 Kbytes of SRAM (including 64 Kbytes of Data TCM RAM for critical real-time data), 16 Kbytes of instruction TCM RAM (for critical real-time routines), 4 Kbytes of backup SRAM available in the lowest power modes, and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses, a 32-bit multi-AHB bus matrix and a multi layer AXI interconnect supporting internal and external memories access.All the devices offer three 12-bit ADCs, two DACs, a low-power RTC, thirteen general-purpose 16-bit timers including two PWM timers for motor control and one low-power timer available in Stop mode, two general-purpose 32-bit timers, a true random number generator (RNG). They also feature standard and advanced communication interfaces. 

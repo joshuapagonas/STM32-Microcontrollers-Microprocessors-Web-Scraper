@@ -1,0 +1,54 @@
+Part Name: STM32H742VGH6
+Caption: High-performance and DSP with DP-FPU, Arm Cortex-M7 MCU with 1MBytes of Flash memory, 692KB RAM, 480 MHz CPU, L1 cache, external memory interface, subset of peripherals
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M7
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: TFBGA 100 8x8x1.2 P 0.8 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Core32-bit Arm® Cortex® -M7 core with double-precision FPU and L1 cache: 16 Kbytes of data and 16 Kbytes of instruction cache; frequency up to 480 MHz, MPU, 1027 DMIPS/ 2.14 DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+                • 32-bit Arm® Cortex® -M7 core with double-precision FPU and L1 cache: 16 Kbytes of data and 16 Kbytes of instruction cache; frequency up to 480 MHz, MPU, 1027 DMIPS/ 2.14 DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+        • MemoriesUp to 2 Mbytes of Flash memory with read-while-write supportUp to 1 Mbyte of RAM: 192 Kbytes of TCM RAM (inc. 64 Kbytes of ITCM RAM + 128 Kbytes of DTCM RAM for time critical routines), Up to 864 Kbytes of user SRAM, and 4 Kbytes of SRAM in Backup domainDual mode Quad-SPI memory interface running up to 133 MHzFlexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND Flash memory clocked up to 100 MHz in Synchronous modeCRC calculation unit
+                • Up to 2 Mbytes of Flash memory with read-while-write support
+                • Up to 1 Mbyte of RAM: 192 Kbytes of TCM RAM (inc. 64 Kbytes of ITCM RAM + 128 Kbytes of DTCM RAM for time critical routines), Up to 864 Kbytes of user SRAM, and 4 Kbytes of SRAM in Backup domain
+                • Dual mode Quad-SPI memory interface running up to 133 MHz
+                • Flexible external memory controller with up to 32-bit data bus: SRAM, PSRAM, SDRAM/LPSDR SDRAM, NOR/NAND Flash memory clocked up to 100 MHz in Synchronous mode
+                • CRC calculation unit
+        • SecurityROP, PC-ROP, active tamper
+                • ROP, PC-ROP, active tamper
+        • General-purpose input/outputsUp to 168 I/O ports with interrupt capability
+                • Up to 168 I/O ports with interrupt capability
+        • Reset and power management3 separate power domains which can be independently clock-gated or switched off:D1: high-performance capabilitiesD2: communication peripherals and timersD3: reset/clock control/power management1.62 to 3.6 V application supply and I/OsPOR, PDR, PVD and BORDedicated USB power embedding a 3.3 V internal regulator to supply the internal PHYsEmbedded regulator (LDO) with configurable scalable output to supply the digital circuitryVoltage scaling in Run and Stop mode (6 configurable ranges)Backup regulator (~0.9 V)Voltage reference for analog peripheral/VREF+Low-power modes: Sleep
+                • 3 separate power domains which can be independently clock-gated or switched off:D1: high-performance capabilitiesD2: communication peripherals and timersD3: reset/clock control/power management
+                        • D1: high-performance capabilities
+                        • D2: communication peripherals and timers
+                        • D3: reset/clock control/power management
+                • 1.62 to 3.6 V application supply and I/Os
+                • POR, PDR, PVD and BOR
+                • Dedicated USB power embedding a 3.3 V internal regulator to supply the internal PHYs
+                • Embedded regulator (LDO) with configurable scalable output to supply the digital circuitry
+                • Voltage scaling in Run and Stop mode (6 configurable ranges)
+                • Backup regulator (~0.9 V)
+                • Voltage reference for analog peripheral/VREF+
+                • Low-power modes: Sleep
+Description: 
+STM32H742xI/G and STM32H743xI/G devices are based on the high-performance Arm® Cortex®-M7 32-bit RISC core operating at up to 480 MHz. The Cortex® -M7 core features a floating point unit (FPU) which supports Arm® double-precision (IEEE 754 compliant) and single-precision data-processing instructions and data types. STM32H742xI/G and STM32H743xI/G devices support a full set of DSP instructions and a memory protection unit (MPU) to enhance application security.STM32H742xI/G and STM32H743xI/G devices incorporate high-speed embedded memories with a dual-bank Flash memory of up to 2 Mbytes, up to 1 Mbyte of RAM (including 192 Kbytes of TCM RAM, up to 864 Kbytes of user SRAM and 4 Kbytes of backup SRAM), as well as an extensive range of enhanced I/Os and peripherals connected to APB buses, AHB buses, 2x32-bit multi-AHB bus matrix and a multi layer AXI interconnect supporting internal and external memory access.All the devices offer three ADCs, two DACs, two ultra-low power comparators, a low-power RTC, a high-resolution timer, 12 general-purpose 16-bit timers, two PWM timers for motor control, five low-power timers, a true random number generator (RNG). The devices support four digital filters for external sigma-delta modulators (DFSDM). They also feature standard and advanced communication interfaces. 

@@ -1,0 +1,69 @@
+Part Name: STM32F401VCT7
+Caption: High-performance access line, Arm Cortex-M4 core with DSP and FPU, 256 Kbytes of Flash memory, 84 MHz CPU, ART Accelerator
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 105.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 100 14x14x1.4 mm
+
+Key features:
+        • Dynamic efficiency line with BAM (batch acquisition mode)1.7 V to 3.6 V power supply-40 °C to 85/105/125 °C temperature range
+                • 1.7 V to 3.6 V power supply
+                • -40 °C to 85/105/125 °C temperature range
+        • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator™ ) allowing 0-wait state execution from Flash memory, frequency up to 84 MHz, memory protection unit, 105 DMIPS/1.25 DMIPS/MHz (Dhrystone 2.1), and DSP instructions
+        • MemoriesUp to 256 Kbytes of Flash memory512 bytes of OTP memoryUp to 64 Kbytes of SRAM
+                • Up to 256 Kbytes of Flash memory
+                • 512 bytes of OTP memory
+                • Up to 64 Kbytes of SRAM
+        • Clock, reset and supply management1.7 V to 3.6 V application supply and I/OsPOR, PDR, PVD and BOR4-to-26 MHz crystal oscillatorInternal 16 MHz factory-trimmed RC32 kHz oscillator for RTC with calibrationInternal 32 kHz RC with calibration
+                • 1.7 V to 3.6 V application supply and I/Os
+                • POR, PDR, PVD and BOR
+                • 4-to-26 MHz crystal oscillator
+                • Internal 16 MHz factory-trimmed RC
+                • 32 kHz oscillator for RTC with calibration
+                • Internal 32 kHz RC with calibration
+        • Power consumptionRun: 128 μA/MHz (peripheral off)Stop (Flash in Stop mode, fast wakeup time): 42 μA typ @ 25 °C;65 μA max @25 °CStop (Flash in Deep power down mode, slow wakeup time): down to 10 μA typ@ 25 °C; 28 μA max @25 °CStandby: 2.4 μA @25 °C / 1.7 V without RTC; 12 μA @85 °C @1.7 VVBATsupply for RTC: 1 μA @25 °C
+                • Run: 128 μA/MHz (peripheral off)
+                • Stop (Flash in Stop mode, fast wakeup time): 42 μA typ @ 25 °C;65 μA max @25 °C
+                • Stop (Flash in Deep power down mode, slow wakeup time): down to 10 μA typ@ 25 °C; 28 μA max @25 °C
+                • Standby: 2.4 μA @25 °C / 1.7 V without RTC; 12 μA @85 °C @1.7 V
+                • VBATsupply for RTC: 1 μA @25 °C
+        • 1×12-bit, 2.4 MSPS A/D converter: up to 16 channels
+        • General-purpose DMA: 16-stream DMA controllers with FIFOs and burst support
+        • Up to 11 timers: up to six 16-bit, two 32-bit timers up to 84 MHz, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input, two watchdog timers (independent and window) and a SysTick timer
+        • Debug modeSerial wire debug (SWD) & JTAG interfacesCortex® -M4 Embedded Trace Macrocell™ 
+                • Serial wire debug (SWD) & JTAG interfaces
+                • Cortex® -M4 Embedded Trace Macrocell™ 
+        • Up to 81 I/O ports with interrupt capabilityAll IO ports 5 V tolerantUp to 78 fast I/Os up to 42 MHz
+                • All IO ports 5 V tolerant
+                • Up to 78 fast I/Os up to 42 MHz
+        • Up to 11 communication interfacesUp to 3 × I2C interfaces (1Mbit/s, SMBus/PMBus)Up to 3 USARTs (2 x 10.5 Mbit/s, 1 x 5.25 Mbit/s), ISO 7816 interface, LIN, IrDA, modem control)Up to 4 SPIs (up to 42 Mbits/s at fCPU= 84 MHz), SPI2 and SPI3 with muxed full-duplex I2S to achieve audio class accuracy via internal audio PLL or external clockSDIO interface
+                • Up to 3 × I2C interfaces (1Mbit/s, SMBus/PMBus)
+                • Up to 3 USARTs (2 x 10.5 Mbit/s, 1 x 5.25 Mbit/s), ISO 7816 interface, LIN, IrDA, modem control)
+                • Up to 4 SPIs (up to 42 Mbits/s at fCPU= 84 MHz), SPI2 and SPI3 with muxed full-duplex I2S to achieve audio class accuracy via internal audio PLL or external clock
+                • SDIO interface
+        • Advanced connectivityUSB 2.0 full-speed device/host/OTG controller with on-chip PHY
+                • USB 2.0 full-speed device/host/OTG controller with on-chip PHY
+        • CRC calculation unit
+        • 96-bit unique ID
+        • RTC: subsecond accuracy, hardware calendar
+        • All packages are ECOPACK2
+Description: 
+The STM32F401xB/STM32F401xC devices are based on the high-performance Arm® Cortex® -M4 32-bit RISC core operating at a frequency of up to 84 MHz. The Cortex®-M4 core features a Floating point unit (FPU) single precision which supports all Arm single-precision data-processing instructions and data types. It also implements a full set of DSP instructions and a memory protection unit (MPU) which enhances application security.The STM32F401xB/STM32F401xC incorporate high-speed embedded memories (up to 256 Kbytes of Flash memory, up to 64 Kbytes of SRAM), and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.All devices offer one 12-bit ADC, a low-power RTC, six general-purpose 16-bit timers including one PWM timer for motor control, two general-purpose 32-bit timers. They also feature standard and advanced communication interfaces.The STM32F401xB/STM32F401xC operate in the - 40 to + 125 °C temperature range from a 1.7 (PDR OFF) to 3.6 V power supply. A comprehensive set of power-saving mode allows the design of low-power applications.These features make the STM32F401xB/STM32F401xC microcontrollers suitable for a wide range of applications. 

@@ -1,0 +1,119 @@
+Part Name: STM32WB05TZF6TR
+Caption: Ultra-low-power, Arm Cortex-M0+ MCU 64 MHz with 192 Kbytes of Flash memory, 24 Kbytes of RAM, Bluetooth LE 5.4
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M0+
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: WLCSP MSL1
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Bluetooth® Low Energy system-on-chip supporting Bluetooth 5.4 specifications2 Mbps data rateLong range (Coded PHY)Advertising extensionsChannel selection algorithm #2GATT cachingDirection finding (AoA/AoD)LE ping procedurePeriodic advertising and periodic advertising sync transferPeriodic advertising with responseAdvertising coding selectionEncrypted advertisingLE L2CAP connection-oriented channelLE power control and path loss monitoringLE channel classificationEnhanced ATT (EATT)Connection subratingBroadcast isochronous streams (BIS)Connection isochronous streams (CIS)
+                • 2 Mbps data rate
+                • Long range (Coded PHY)
+                • Advertising extensions
+                • Channel selection algorithm #2
+                • GATT caching
+                • Direction finding (AoA/AoD)
+                • LE ping procedure
+                • Periodic advertising and periodic advertising sync transfer
+                • Periodic advertising with response
+                • Advertising coding selection
+                • Encrypted advertising
+                • LE L2CAP connection-oriented channel
+                • LE power control and path loss monitoring
+                • LE channel classification
+                • Enhanced ATT (EATT)
+                • Connection subrating
+                • Broadcast isochronous streams (BIS)
+                • Connection isochronous streams (CIS)
+        • RadioRX sensitivity level: -97 dBm @ 1 Mbps, -104 dBm @ 125 kbps (long range)Programmable output power up to +8 dBm (at antenna connector)Data rate supported: 2 Mbps, 1 Mbps, 500 kbps and 125 kbps128 physical connectionsIntegrated balunSupport for external PA and LNABlueNRG core coprocessor (DMA based) for Bluetooth Low Energy timing critical operation2.4 GHz proprietary radio driverSuitable for systems requiring compliance with the following radio frequency regulations: ETSI EN 300 328, EN 300 440, FCC CFR47 part 15, ARIB STD-T66Available integrated passive device (IPD) companion chip for optimized matching and filtering
+                • RX sensitivity level: -97 dBm @ 1 Mbps, -104 dBm @ 125 kbps (long range)
+                • Programmable output power up to +8 dBm (at antenna connector)
+                • Data rate supported: 2 Mbps, 1 Mbps, 500 kbps and 125 kbps
+                • 128 physical connections
+                • Integrated balun
+                • Support for external PA and LNA
+                • BlueNRG core coprocessor (DMA based) for Bluetooth Low Energy timing critical operation
+                • 2.4 GHz proprietary radio driver
+                • Suitable for systems requiring compliance with the following radio frequency regulations: ETSI EN 300 328, EN 300 440, FCC CFR47 part 15, ARIB STD-T66
+                • Available integrated passive device (IPD) companion chip for optimized matching and filtering
+        • Ultra-low power radio performance8 nA in Shutdown mode (1.8 V)0.8 µA in Deepstop mode (with external LSE and Bluetooth LE wakeup sources, 1.8 V)1.0 µA in Deepstop mode (with internal LSI and Bluetooth LE wakeup sources, 1.8 V)4.3 mA peak current in TX (@ 0 dBm, 3.3 V)3.4 mA peak current in RX (@ sensitivity level, 3.3 V)
+                • 8 nA in Shutdown mode (1.8 V)
+                • 0.8 µA in Deepstop mode (with external LSE and Bluetooth LE wakeup sources, 1.8 V)
+                • 1.0 µA in Deepstop mode (with internal LSI and Bluetooth LE wakeup sources, 1.8 V)
+                • 4.3 mA peak current in TX (@ 0 dBm, 3.3 V)
+                • 3.4 mA peak current in RX (@ sensitivity level, 3.3 V)
+        • High performance and ultra-low power Arm® Cortex® -M0+ 32-bit, running up to 64 MHz
+        • Dynamic current consumption: 14 µA/MHz
+        • Operating supply voltage: from 1.7 to 3.6 V
+        • -40 ºC to 105 ºC temperature range
+        • Supply and reset managementHigh efficiency embedded SMPS step-down converter with intelligent bypass modeUltra-low power power-on-reset (POR) and power-down-reset (PDR)Programmable voltage detector (PVD)
+                • High efficiency embedded SMPS step-down converter with intelligent bypass mode
+                • Ultra-low power power-on-reset (POR) and power-down-reset (PDR)
+                • Programmable voltage detector (PVD)
+        • Clock sources64 MHz PLLFail safe 32 MHz crystal oscillator with integrated trimming capacitors32 kHz crystal oscillatorInternal low-power 32 kHz RO
+                • 64 MHz PLL
+                • Fail safe 32 MHz crystal oscillator with integrated trimming capacitors
+                • 32 kHz crystal oscillator
+                • Internal low-power 32 kHz RO
+        • On-chip non-volatile flash memory of 192 Kbytes
+        • On-chip RAM of 24 Kbytes + 4 Kbytes PKA RAM
+        • One-time-programmable (OTP) memory area of 1 Kbytes
+        • Embedded UART bootloader
+        • Ultra-low power modes with or without timer and RAM retention
+        • Quadrature decoder
+        • Enhanced security mechanisms such as:Flash read/write protectionSWD disablingSecure bootloader
+                • Flash read/write protection
+                • SWD disabling
+                • Secure bootloader
+        • Security featuresTrue random number generator (RNG)Hardware encryption AES maximum 128-bit security co-processorHW public key accelerator (PKA)Cryptographic algorithms: RSA, Diffie-Helman, ECC over GF(p)CRC calculation unit64-bit unique ID
+                • True random number generator (RNG)
+                • Hardware encryption AES maximum 128-bit security co-processor
+                • HW public key accelerator (PKA)
+                • Cryptographic algorithms: RSA, Diffie-Helman, ECC over GF(p)
+                • CRC calculation unit
+                • 64-bit unique ID
+        • System peripherals1x DMA controller with 8 channels supporting ADC, SPI-I2S, I2C, USART, LPUART, TIMERS1x SPI with I2S interface multiplexed1x I2C (SMBus/PMBus)1x LPUART (low power)1x USART (ISO 7816 smartcard mode, IrDA, SPI Master and Modbus)1x independent WDG1x real-time clock (RTC)1x independent SysTick1x 16-bits, four channel general purpose timer2x 16-bits, two channel general purpose timerInfrared interface
+                • 1x DMA controller with 8 channels supporting ADC, SPI-I2S, I2C, USART, LPUART, TIMERS
+                • 1x SPI with I2S interface multiplexed
+                • 1x I2C (SMBus/PMBus)
+                • 1x LPUART (low power)
+                • 1x USART (ISO 7816 smartcard mode, IrDA, SPI Master and Modbus)
+                • 1x independent WDG
+                • 1x real-time clock (RTC)
+                • 1x independent SysTick
+                • 1x 16-bits, four channel general purpose timer
+                • 2x 16-bits, two channel general purpose timer
+                • Infrared interface
+        • Up to 20 fast I/OsAll of them with wakeup capabilityAll of them retain state in low-powerAll of them 5 V tolerant
+                • All of them with wakeup capability
+                • All of them retain state in low-power
+                • All of them 5 V tolerant
+        • Analog peripherals12-bit ADC with 8 input channels, up to 16 bits with down samplerBattery monitoringAnalog watchdog
+                • 12-bit ADC with 8 input channels, up to 16 bits with down sampler
+                • Battery monitoring
+                • Analog watchdog
+        • Development supportSerial wire debug (SWD)4 breakpoints and 2 watchpoints
+                • Serial wire debug (SWD)
+                • 4 breakpoints and 2 watchpoints
+        • All packages are ECOPACK2 compliant
+Description: 
+The STM32WB05xZ is an ultra-low power programmable Bluetooth® Low Energy wireless SoC solution. It embeds STMicroelectronics’s state-of-the-art 2.4 GHz radio IPs, optimized for ultra-low-power consumption and excellent radio performance, for unparalleled battery lifetime. It is compliant with Bluetooth Low Energy SIG core specification version 5.4 addressing point-to-point connectivity and Bluetooth Mesh networking and allows large-scale device networks to be established in a reliable way. The STM32WB05xZ is also suitable for 2.4 GHz proprietary radio wireless communication to address ultra-low latency applications.The STM32WB05xZ embeds a Arm® Cortex®-M0+ microcontroller that can operate up to 64 MHz and also the BlueNRG core co-processor (DMA based) for Bluetooth Low Energy timing critical operations.In addition, the STM32WB05xZ provides enhanced security hardware support by dedicated hardware functions:True random number generator (RNG), encryption AES maximum 128-bit security co-processor, public key accelerator (PKA), CRC calculation unit, 64-bit unique ID, flash memory read and write protection.The public key acceleration (PKA) supports the modular arithmetic including exponentiation with maximum modulo size of 3136 bits and the elliptic curves over prime field scalar multiplication, ECDSA signature, ECDSA verification with maximum modulo size of 521 bits CRC calculation unit.The STM32WB05xZ can be configured to support standalone or network processor applications. In the first configuration, the STM32WB05xZ operates as a single device in the application for managing both the application code and the Bluetooth Low Energy stack.The STM32WB05xZ embeds high-speed and flexible memory types:Flash memory of 192 Kbytes, RAM memory of 24 Kbytes, one-time-programmable (OTP) memory area of 1 Kbyte, ROM memory of 7 Kbytes (ST reserved area).Direct data transfer between memory and peripherals and from memory-to-memory is supported by eight DMA channels with a full flexible channel mapping by the DMAMUX peripheral.The STM32WB05xZ embeds a 12-bit ADC, allowing measurements of up to eight external sources and up to three internal sources, including battery monitoring and a temperature sensor.The STM32WB05xZ has a low-power RTC and three general purpose 16-bit timers.The STM32WB05xZ features standard and advanced communication interfaces:1x SPI/I2S, 1x LPUART, 1x USART supporting ISO 7816 (smartcard mode), IrDA and Modbus mode, 1x I2C supporting SMBus/PMBus.The STM32WB05xZ operates in the -40 to +105 °C temperature range from a 1.7 V to 3.6 V power supply. A comprehensive set of power-saving modes enables the design of low-power applications.The STM32WB05xZ integrates a high efficiency SMPS step-down converter and an integrated PDR circuitry with a fixed threshold that generates a device reset when the VDD drops under 1.65 V.The STM32WB05xZ comes in different package versions supporting up to:20 I/Os for the VFQFPN32 package. 20 I/Os for the WLCSP36 package. 

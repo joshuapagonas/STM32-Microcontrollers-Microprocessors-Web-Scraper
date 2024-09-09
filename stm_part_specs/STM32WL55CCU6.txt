@@ -1,0 +1,59 @@
+Part Name: STM32WL55CCU6
+Caption: Sub-GHz Wireless Microcontrollers. Dual-core Arm Cortex-M4/M0+ @48 MHz with 256 Kbytes of Flash memory, 64 Kbytes of SRAM. LoRa, (G)FSK, (G)MSK, BPSK modulations. AES 256-bit. Multiprotocol System-on-Chip.
+Parameters:
+Supply Voltage Min Volt: 1.8
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Operating Voltage Min Volt: 1.8
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M4
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFQFPN 48 7x7x0.55 mm
+
+Key features:
+        • RadioFrequency range: 150 MHz to 960 MHzModulation: LoRa® , (G)FSK, (G)MSK and BPSKRX sensitivity: –123 dBm for 2-FSK(at 1.2 Kbit/s), –148 dBm for LoRa® (at 10.4 kHz, spreading factor 12)Transmitter high output power, programmable up to +22 dBmTransmitter low output power, programmable up to +15 dBmCompliant with the following radio frequency regulations such as ETSI EN 300 220, EN 300 113, EN 301 166, FCC CFR 47 Part 15, 24, 90, 101 and the Japanese ARIB STD-T30, T-67, T-108Compatible with standardized or proprietary protocols such as LoRaWAN® , Sigfox™ , W-MBus and more (fully open wireless system-on-chip)
+                • Frequency range: 150 MHz to 960 MHz
+                • Modulation: LoRa® , (G)FSK, (G)MSK and BPSK
+                • RX sensitivity: –123 dBm for 2-FSK(at 1.2 Kbit/s), –148 dBm for LoRa® (at 10.4 kHz, spreading factor 12)
+                • Transmitter high output power, programmable up to +22 dBm
+                • Transmitter low output power, programmable up to +15 dBm
+                • Compliant with the following radio frequency regulations such as ETSI EN 300 220, EN 300 113, EN 301 166, FCC CFR 47 Part 15, 24, 90, 101 and the Japanese ARIB STD-T30, T-67, T-108
+                • Compatible with standardized or proprietary protocols such as LoRaWAN® , Sigfox™ , W-MBus and more (fully open wireless system-on-chip)
+        • Ultra-low-power platform1.8 V to 3.6 V power supply–40 °C to +105 °C temperature rangeShutdown mode: 31 nA (VDD= 3 V)Standby (+ RTC) mode:360 nA (VDD= 3 V)Stop2 (+ RTC) mode: 1.07 µA (VDD= 3 V)Active-mode MCU: < 72 µA/MHz (CoreMark® )Active-mode RX: 4.82 mAActive-mode TX: 15 mA at 10 dBm and 87 mA at 20 dBm (LoRa® 125 kHz)
+                • 1.8 V to 3.6 V power supply
+                • –40 °C to +105 °C temperature range
+                • Shutdown mode: 31 nA (VDD= 3 V)
+                • Standby (+ RTC) mode:360 nA (VDD= 3 V)
+                • Stop2 (+ RTC) mode: 1.07 µA (VDD= 3 V)
+                • Active-mode MCU: < 72 µA/MHz (CoreMark® )
+                • Active-mode RX: 4.82 mA
+                • Active-mode TX: 15 mA at 10 dBm and 87 mA at 20 dBm (LoRa® 125 kHz)
+        • Core32-bit Arm® Cortex® -M4 CPUAdaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 48 MHz, MPU and DSP instructions1.25 DMIPS/MHz (Dhrystone 2.1)32-bit Arm® Cortex® -M0+ CPUFrequency up to 48 MHz, MPU0.95 DMIPS/MHz (Dhrystone 2.1)
+                • 32-bit Arm® Cortex® -M4 CPUAdaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 48 MHz, MPU and DSP instructions1.25 DMIPS/MHz (Dhrystone 2.1)
+                        • Adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 48 MHz, MPU and DSP instructions
+                        • 1.25 DMIPS/MHz (Dhrystone 2.1)
+                • 32-bit Arm® Cortex® -M0+ CPUFrequency up to 48 MHz, MPU0.95 DMIPS/MHz (Dhrystone 2.1)
+                        • Frequency up to 48 MHz, MPU
+                        • 0.95 DMIPS/MHz (Dhrystone 2.1)
+        • Security and identificationHardware encryption AES 256-bitTrue random number generator (RNG)
+                • Hardware encryption AES 256-bit
+                • True random number generator (RNG)
+Description: 
+The STM32WL55/54xx long-range wireless and ultra-low-power devices embed a powerful and ultra-low-power LPWAN-compliant radio solution, enabling the following modulations: LoRa®, (G)FSK, (G)MSK, and BPSK.The LoRa® modulation is available in STM32WLx5xx only.These devices are designed to be extremely low-power and are based on the high-performance Arm® Cortex®-M4 32-bit RISC core operating at a frequency of up to 48 MHz. This core implements a full set of DSP instructions. It is complemented by an Arm® Cortex®-M0+ microcontroller. Both cores implement an independent memory protection unit (MPU) that enhances the application security.The devices embed high-speed memories (256-Kbyte Flash memory, 64-Kbyte SRAM), and an extensive range of enhanced I/Os and peripherals.The devices also embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection and proprietary code readout protection.In addition, the STM32WL55/54xx devices support the following secure services running on Arm® Cortex-M0+: unique boot entry capable, secure sub-GHz MAC layer, secure firmware update, secure firmware install and storage and management of secure keys.These devices offer a 12-bit ADC, a 12-bit DAC low-power sample-and-hold, two ultra-low-power comparators associated with a high-accuracy reference voltage generator.The devices embed a low-power RTC with a 32-bit sub-second wakeup counter, one 16-bit single-channel timer, two 16-bit four-channel timers (supporting motor control), one 32-bit four-channel timer and three 16-bit ultra-low-power timers.These devices also embed two DMA controllers (7 channels each) allowing any transfer combination between memory (Flash memory, SRAM1 and SRAM2) and peripheral, using the DMAMUX1 for flexible DMA channel mapping.The devices also feature the standard and advanced communication interfaces listed below: 

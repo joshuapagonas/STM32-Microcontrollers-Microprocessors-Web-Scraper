@@ -1,0 +1,22 @@
+Part Name: STM32MP157FAA1T
+Caption: MPU with Arm Dual Cortex-A7 800 MHz, Arm Cortex-M4 real-time coprocessor, 3D GPU, TFT/MIPI DSI displays, FD-CAN, Secure boot and Cryptography
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Core: Arm Cortex-A7
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LFBGA 448 18x18x1.7 P 0.8 mm
+
+Key features:

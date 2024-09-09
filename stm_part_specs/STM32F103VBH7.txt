@@ -1,0 +1,69 @@
+Part Name: STM32F103VBH7
+Caption: Mainstream Performance line, Arm Cortex-M3 MCU with 128 Kbytes of Flash memory, 72 MHz CPU, motor control, USB and CAN
+Parameters:
+Supply Voltage Min Volt: 2.0
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 105.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LFBGA 100 10x10x1.7 P 0.8 mm
+
+Key features:
+        • Arm® 32-bit Cortex® -M3 CPU core72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory accessSingle-cycle multiplication and hardware division
+                • 72 MHz maximum frequency, 1.25 DMIPS/MHz (Dhrystone 2.1) performance at 0 wait state memory access
+                • Single-cycle multiplication and hardware division
+        • Memories64 or 128 Kbytes of Flash memory20 Kbytes of SRAM
+                • 64 or 128 Kbytes of Flash memory
+                • 20 Kbytes of SRAM
+        • Clock, reset and supply management2.0 to 3.6 V application supply and I/OsPOR, PDR, and programmable voltage detector (PVD)4 to 16 MHz crystal oscillatorInternal 8 MHz factory-trimmed RCInternal 40 kHz RCPLL for CPU clock32 kHz oscillator for RTC with calibration
+                • 2.0 to 3.6 V application supply and I/Os
+                • POR, PDR, and programmable voltage detector (PVD)
+                • 4 to 16 MHz crystal oscillator
+                • Internal 8 MHz factory-trimmed RC
+                • Internal 40 kHz RC
+                • PLL for CPU clock
+                • 32 kHz oscillator for RTC with calibration
+        • Low-powerSleep, Stop and Standby modesVBATsupply for RTC and backup registers
+                • Sleep, Stop and Standby modes
+                • VBATsupply for RTC and backup registers
+        • 2x 12-bit, 1 µs A/D converters (up to 16 channels)Conversion range: 0 to 3.6 VDual-sample and hold capabilityTemperature sensor
+                • Conversion range: 0 to 3.6 V
+                • Dual-sample and hold capability
+                • Temperature sensor
+        • DMA7-channel DMA controllerPeripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+                • 7-channel DMA controller
+                • Peripherals supported: timers, ADC, SPIs, I2Cs and USARTs
+        • Up to 80 fast I/O ports26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+                • 26/37/51/80 I/Os, all mappable on 16 external interrupt vectors and almost all 5 V-tolerant
+        • Debug mode:Serial wire debug (SWD) and JTAG interfaces
+                • Serial wire debug (SWD) and JTAG interfaces
+        • Seven timersThree 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input16-bit, motor control PWM timer with dead-time generation and emergency stopTwo watchdog timers (independent and window)SysTick timer 24-bit downcounter
+                • Three 16-bit timers, each with up to 4 IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+                • 16-bit, motor control PWM timer with dead-time generation and emergency stop
+                • Two watchdog timers (independent and window)
+                • SysTick timer 24-bit downcounter
+        • Up to nine communication interfacesUp to two I2C interfaces (SMBus/PMBus® )Up to three USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)Up to two SPIs (18 Mbit/s)CAN interface (2.0B Active)USB 2.0 full-speed interface
+                • Up to two I2C interfaces (SMBus/PMBus® )
+                • Up to three USARTs (ISO 7816 interface, LIN, IrDA capability, modem control)
+                • Up to two SPIs (18 Mbit/s)
+                • CAN interface (2.0B Active)
+                • USB 2.0 full-speed interface
+        • CRC calculation unit, 96-bit unique ID
+        • Packages are ECOPACK® 
+Description: 
+The STM32F103xx medium-density performance line family incorporates the high-performance Arm® Cortex®-M3 32-bit RISC core operating at a 72 MHz frequency, high-speed embedded memories (Flash memory up to 128 Kbytes and SRAM up to 20 Kbytes), and an extensive range of enhanced I/Os and peripherals connected to two APB buses. All devices offer two 12-bit ADCs, three general purpose 16-bit timers plus one PWM timer, as well as standard and advanced communication interfaces: up to two I2Cs and SPIs, three USARTs, an USB and a CAN.The devices operate from a 2.0 to 3.6 V power supply. They are available in both the –40 to +85°C temperature range and the –40 to +105 °C extended temperature range. A comprehensive set of power-saving mode allows the design of low-power applications.The STM32F103xx medium-density performance line family includes devices in six different package types: from 36 pins to 100 pins. Depending on the device chosen, different sets of peripherals are included, the description below gives an overview of the complete range of peripherals proposed in this family.These features make the STM32F103xx medium-density performance line microcontroller family suitable for a wide range of applications such as motor drives, application control, medical and handheld equipment, PC and gaming peripherals, GPS platforms, industrial applications, PLCs, inverters, printers, scanners, alarm systems, video intercoms, and HVACs. 

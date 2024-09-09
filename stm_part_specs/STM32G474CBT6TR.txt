@@ -1,0 +1,87 @@
+Part Name: STM32G474CBT6TR
+Caption: Mainstream Arm Cortex-M4 MCU 170 MHz with 128 Kbytes of Flash memory, Math Accelerator, HR Timer, High Analog level integration
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M4
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 48 7x7x1.4 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technologyCore: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 170 MHz with 213 DMIPS, MPU, DSP instructionsOperating conditions:VDD, VDDAvoltage range: 1.71 V to 3.6 VMathematical hardware acceleratorsCORDIC for trigonometric functions accelerationFMAC: filter mathematical acceleratorMemories512 Kbytes of Flash memory with ECC support, two banks read-while-write, proprietary code readout protection (PCROP), securable memory area, 1 Kbyte OTP96 Kbytes of SRAM, with hardware parity check implemented on the first 32 KbytesRoutine booster: 32 Kbytes of SRAM on instruction and data bus, with hardware parity check (CCM SRAM)External memory interface for static memories FSMC supporting SRAM, PSRAM, NOR and NAND memoriesQuad-SPI memory interfaceReset and supply managementPower-on/power-down reset (POR/PDR/BOR)Programmable voltage detector (PVD)Low-power modes: sleep, stop, standby and shutdownVBATsupply for RTC and backup registersClock management4 to 48 MHz crystal oscillator32 kHz oscillator with calibrationInternal 16 MHz RC with PLL option (± 1%)Internal 32 kHz RC oscillator (± 5%)Up to 107 fast I/OsAll mappable on external interrupt vectorsSeveral I/Os with 5 V tolerant capabilityInterconnect matrix16-channel DMA controller5 x 12-bit ADCs 0.25 µs, up to 42 channels. Resolution up to 16-bit with hardware oversampling, 0 to 3.6 V conversion range7 x 12-bit DAC channels3 x buffered external channels 1 MSPS4 x unbuffered internal channels 15 MSPS7 x ultra-fast rail-to-rail analog comparators6 x operational amplifiers that can be used in PGA mode, all terminals accessibleInternal voltage reference buffer (VREFBUF) supporting three output voltages (2.048 V, 2.5 V, 2.9 V)17 timers:HRTIM (Hi-Resolution and complex waveform builder): 6 x16-bit counters, 184 ps resolution, 12 PWM2 x 32-bit timer and 2 x 16-bit timers with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input3 x 16-bit 8-channel advanced motor control timers, with up to 8 x PWM channels, dead time generation and emergency stop1 x 16-bit timer with 2 x IC/OCs, one OCN/PWM, dead time generation and emergency stop2 x 16-bit timers with IC/OC/OCN/PWM, dead time generation and emergency stop2 x watchdog timers (independent, window)1 x SysTick timer: 24-bit downcounter2 x 16-bit basic timers1 x low-power timerCalendar RTC with alarm, periodic wakeup from stop/standbyCommunication interfaces3 x FDCAN controller supporting flexible data rate4 x I2C Fast mode plus (1 Mbit/s) with 20 mA current sink, SMBus/PMBus, wakeup from stop5 x USART/UARTs (ISO 7816 interface, LIN, IrDA, modem control)1 x  LPUART4 x  SPIs, 4 to 16 programmable bit frames, 2 x with multiplexed half duplex I2S interface1 x SAI (serial audio interface)USB 2.0 full-speed interface with LPM and BCD supportIRTIM (infrared interface)USB Type-C™  /USB power delivery controller (UCPD)True random number generator (RNG)CRC calculation unit, 96-bit unique IDDevelopment support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+                • Core: Arm® 32-bit Cortex® -M4 CPU with FPU, Adaptive real-time accelerator (ART Accelerator) allowing 0-wait-state execution from Flash memory, frequency up to 170 MHz with 213 DMIPS, MPU, DSP instructions
+                • Operating conditions:VDD, VDDAvoltage range: 1.71 V to 3.6 V
+                        • VDD, VDDAvoltage range: 1.71 V to 3.6 V
+                • Mathematical hardware acceleratorsCORDIC for trigonometric functions accelerationFMAC: filter mathematical accelerator
+                        • CORDIC for trigonometric functions acceleration
+                        • FMAC: filter mathematical accelerator
+                • Memories512 Kbytes of Flash memory with ECC support, two banks read-while-write, proprietary code readout protection (PCROP), securable memory area, 1 Kbyte OTP96 Kbytes of SRAM, with hardware parity check implemented on the first 32 KbytesRoutine booster: 32 Kbytes of SRAM on instruction and data bus, with hardware parity check (CCM SRAM)External memory interface for static memories FSMC supporting SRAM, PSRAM, NOR and NAND memoriesQuad-SPI memory interface
+                        • 512 Kbytes of Flash memory with ECC support, two banks read-while-write, proprietary code readout protection (PCROP), securable memory area, 1 Kbyte OTP
+                        • 96 Kbytes of SRAM, with hardware parity check implemented on the first 32 Kbytes
+                        • Routine booster: 32 Kbytes of SRAM on instruction and data bus, with hardware parity check (CCM SRAM)
+                        • External memory interface for static memories FSMC supporting SRAM, PSRAM, NOR and NAND memories
+                        • Quad-SPI memory interface
+                • Reset and supply managementPower-on/power-down reset (POR/PDR/BOR)Programmable voltage detector (PVD)Low-power modes: sleep, stop, standby and shutdownVBATsupply for RTC and backup registers
+                        • Power-on/power-down reset (POR/PDR/BOR)
+                        • Programmable voltage detector (PVD)
+                        • Low-power modes: sleep, stop, standby and shutdown
+                        • VBATsupply for RTC and backup registers
+                • Clock management4 to 48 MHz crystal oscillator32 kHz oscillator with calibrationInternal 16 MHz RC with PLL option (± 1%)Internal 32 kHz RC oscillator (± 5%)
+                        • 4 to 48 MHz crystal oscillator
+                        • 32 kHz oscillator with calibration
+                        • Internal 16 MHz RC with PLL option (± 1%)
+                        • Internal 32 kHz RC oscillator (± 5%)
+                • Up to 107 fast I/OsAll mappable on external interrupt vectorsSeveral I/Os with 5 V tolerant capability
+                        • All mappable on external interrupt vectors
+                        • Several I/Os with 5 V tolerant capability
+                • Interconnect matrix
+                • 16-channel DMA controller
+                • 5 x 12-bit ADCs 0.25 µs, up to 42 channels. Resolution up to 16-bit with hardware oversampling, 0 to 3.6 V conversion range
+                • 7 x 12-bit DAC channels3 x buffered external channels 1 MSPS4 x unbuffered internal channels 15 MSPS
+                        • 3 x buffered external channels 1 MSPS
+                        • 4 x unbuffered internal channels 15 MSPS
+                • 7 x ultra-fast rail-to-rail analog comparators
+                • 6 x operational amplifiers that can be used in PGA mode, all terminals accessible
+                • Internal voltage reference buffer (VREFBUF) supporting three output voltages (2.048 V, 2.5 V, 2.9 V)
+                • 17 timers:HRTIM (Hi-Resolution and complex waveform builder): 6 x16-bit counters, 184 ps resolution, 12 PWM2 x 32-bit timer and 2 x 16-bit timers with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input3 x 16-bit 8-channel advanced motor control timers, with up to 8 x PWM channels, dead time generation and emergency stop1 x 16-bit timer with 2 x IC/OCs, one OCN/PWM, dead time generation and emergency stop2 x 16-bit timers with IC/OC/OCN/PWM, dead time generation and emergency stop2 x watchdog timers (independent, window)1 x SysTick timer: 24-bit downcounter2 x 16-bit basic timers1 x low-power timer
+                        • HRTIM (Hi-Resolution and complex waveform builder): 6 x16-bit counters, 184 ps resolution, 12 PWM
+                        • 2 x 32-bit timer and 2 x 16-bit timers with up to four IC/OC/PWM or pulse counter and quadrature (incremental) encoder input
+                        • 3 x 16-bit 8-channel advanced motor control timers, with up to 8 x PWM channels, dead time generation and emergency stop
+                        • 1 x 16-bit timer with 2 x IC/OCs, one OCN/PWM, dead time generation and emergency stop
+                        • 2 x 16-bit timers with IC/OC/OCN/PWM, dead time generation and emergency stop
+                        • 2 x watchdog timers (independent, window)
+                        • 1 x SysTick timer: 24-bit downcounter
+                        • 2 x 16-bit basic timers
+                        • 1 x low-power timer
+                • Calendar RTC with alarm, periodic wakeup from stop/standby
+                • Communication interfaces3 x FDCAN controller supporting flexible data rate4 x I2C Fast mode plus (1 Mbit/s) with 20 mA current sink, SMBus/PMBus, wakeup from stop5 x USART/UARTs (ISO 7816 interface, LIN, IrDA, modem control)1 x  LPUART4 x  SPIs, 4 to 16 programmable bit frames, 2 x with multiplexed half duplex I2S interface1 x SAI (serial audio interface)USB 2.0 full-speed interface with LPM and BCD supportIRTIM (infrared interface)USB Type-C™  /USB power delivery controller (UCPD)
+                        • 3 x FDCAN controller supporting flexible data rate
+                        • 4 x I2C Fast mode plus (1 Mbit/s) with 20 mA current sink, SMBus/PMBus, wakeup from stop
+                        • 5 x USART/UARTs (ISO 7816 interface, LIN, IrDA, modem control)
+                        • 1 x  LPUART
+                        • 4 x  SPIs, 4 to 16 programmable bit frames, 2 x with multiplexed half duplex I2S interface
+                        • 1 x SAI (serial audio interface)
+                        • USB 2.0 full-speed interface with LPM and BCD support
+                        • IRTIM (infrared interface)
+                        • USB Type-C™  /USB power delivery controller (UCPD)
+                • True random number generator (RNG)
+                • CRC calculation unit, 96-bit unique ID
+                • Development support: serial wire debug (SWD), JTAG, Embedded Trace Macrocell™ 
+Description: 
+The STM32G474xB/xC/xE devices are based on the high-performance Arm® Cortex®-M4 32-bit RISC core. They operate at a frequency of up to 170 MHz.The Cortex-M4 core features a single-precision floating-point unit (FPU), which supports all the Arm single-precision data-processing instructions and all the data types. It also implements a full set of DSP (digital signal processing) instructions and a memory protection unit (MPU) which enhances the application’s security.These devices embed high-speed memories (up to 512 Kbytes of Flash memory, and 128 Kbytes of SRAM), a flexible external memory controller (FSMC) for static memories (for devices with packages of 100 pins and more), a Quad-SPI Flash memory interface, and an extensive range of enhanced I/Os and peripherals connected to two APB buses, two AHB buses and a 32-bit multi-AHB bus matrix.The devices also embed several protection mechanisms for embedded Flash memory and SRAM: readout protection, write protection, securable memory area and proprietary code readout protection.The devices embed peripherals allowing mathematical/arithmetic function acceleration (CORDIC for trigonometric functions and FMAC unit for filter functions).They offer five fast 12-bit ADCs (4 Msps), seven comparators, six operational amplifiers, seven DAC channels (3 external and 4 internal), an internal voltage reference buffer, a low-power RTC, two general-purpose 32-bit timers, three 16-bit PWM timers dedicated to motor control, seven general-purpose 16-bit timers, and one 16-bit low-power timer, and high resolution timer with 184 ps resolution.They also feature standard and advanced communication interfaces such as:- Four I2Cs- Four SPIs multiplexed with two half duplex I2Ss- Three USARTs, two UARTs and one low-power UART.- Three FDCANs- One SAI- USB device- UCPDThe devices operate in the -40 to +85 °C (+105 °C junction) and -40 to +125 °C (+130 °C junction) temperature ranges from a 1.71 to 3.6 V power supply. A comprehensive set of power-saving modes allows the design of low-power applications.Some independent power supplies are supported including an analog independent supply input for ADC, DAC, OPAMPs and comparators. A VBAT input allows backup of the RTC and the registers.The STM32G474xB/xC/xE family offers 9 packages from 48-pin to 128-pin. 

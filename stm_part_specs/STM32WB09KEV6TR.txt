@@ -1,0 +1,126 @@
+Part Name: STM32WB09KEV6TR
+Caption: Ultra-low-power, Arm Cortex-M0+ MCU 64 MHz with 512 Kbytes of Flash memory, 64 Kbytes of RAM,  Bluetooth LE 5.4
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Operating Voltage Min Volt: 2.0
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M0+
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: VFQFPN 32 5x5x1.0 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Bluetooth® Low Energy system-on-chip supporting Bluetooth® 5.4 specifications2 Mbit/s data rateLong range (Coded PHY)Advertising extensionsChannel selection algorithm #2GATT cachingDirection finding - angle of arrival (AoA)/ angle of departure (AoD)Simultaneous connectionsConcurrent link-layer rolesLow Energy data packet length extensionLow Energy ping procedurePeriodic advertising and periodic advertising sync transferPeriodic advertising with responseAdvertising coding selectionEncrypted advertisingLow Energy L2CAP connection-oriented channelLow Energy power control and path loss monitoringLow Energy channel classificationEnhanced ATT (EATT)Connection subratingBroadcast isochronous streams (BIS)Connection isochronous streams (CIS)
+                • 2 Mbit/s data rate
+                • Long range (Coded PHY)
+                • Advertising extensions
+                • Channel selection algorithm #2
+                • GATT caching
+                • Direction finding - angle of arrival (AoA)/ angle of departure (AoD)
+                • Simultaneous connections
+                • Concurrent link-layer roles
+                • Low Energy data packet length extension
+                • Low Energy ping procedure
+                • Periodic advertising and periodic advertising sync transfer
+                • Periodic advertising with response
+                • Advertising coding selection
+                • Encrypted advertising
+                • Low Energy L2CAP connection-oriented channel
+                • Low Energy power control and path loss monitoring
+                • Low Energy channel classification
+                • Enhanced ATT (EATT)
+                • Connection subrating
+                • Broadcast isochronous streams (BIS)
+                • Connection isochronous streams (CIS)
+        • RadioRX sensitivity level: -97 dBm @ 1 Mbit/s, -104 dBm @ 125 Kbit/s (long range)Programmable output power up to +8 dBm (at antenna connector)128 physical connectionsData rate supported: 2 Mbit/s, 1 Mbit/s, 500 Kbit/s and 125 Kbit/sIntegrated balunSupport for external PA and LNABlueNRG core coprocessor (DMA based) for Bluetooth® Low Energy time critical operations2.4 GHz proprietary radio driverSuitable for systems requiring compliance with the following radio frequency regulations: ETSI EN 300 328, EN 300 440, FCC CFR47 part 15, ARIB STD-T66Available integrated passive device (IPD) companion chip for optimized matching and filtering
+                • RX sensitivity level: -97 dBm @ 1 Mbit/s, -104 dBm @ 125 Kbit/s (long range)
+                • Programmable output power up to +8 dBm (at antenna connector)
+                • 128 physical connections
+                • Data rate supported: 2 Mbit/s, 1 Mbit/s, 500 Kbit/s and 125 Kbit/s
+                • Integrated balun
+                • Support for external PA and LNA
+                • BlueNRG core coprocessor (DMA based) for Bluetooth® Low Energy time critical operations
+                • 2.4 GHz proprietary radio driver
+                • Suitable for systems requiring compliance with the following radio frequency regulations: ETSI EN 300 328, EN 300 440, FCC CFR47 part 15, ARIB STD-T66
+                • Available integrated passive device (IPD) companion chip for optimized matching and filtering
+        • Ultra-low power radio performance12 nA in Shutdown mode (1.8 V)0.9 μA in Deepstop mode (with external LSE, radio wakeup source and RAM retained, 1.8 V)1.2 μA in Deepstop mode (with internal LSI, radio wakeup source and RAM retained, 1.8 V)4.9 mA peak current in TX (@0 dBm, 3.3 V)3.6 mA peak current in RX (@ sensitivity level, 3.3 V)
+                • 12 nA in Shutdown mode (1.8 V)
+                • 0.9 μA in Deepstop mode (with external LSE, radio wakeup source and RAM retained, 1.8 V)
+                • 1.2 μA in Deepstop mode (with internal LSI, radio wakeup source and RAM retained, 1.8 V)
+                • 4.9 mA peak current in TX (@0 dBm, 3.3 V)
+                • 3.6 mA peak current in RX (@ sensitivity level, 3.3 V)
+        • High performance and ultra-low power 32-bit Arm® Cortex® -M0+ , running up to 64 MHz
+        • Dynamic current consumption: 14.47 µA/MHz
+        • Operating supply voltage: from 1.7 to 3.6 V
+        • -40 ºC to 105 ºC temperature range
+        • Supply and reset managementHigh efficiency embedded SMPS step-down converter with intelligent bypass modeUltra-low power power-on-reset (POR) and power-down-reset (PDR)Programmable voltage detector (PVD)
+                • High efficiency embedded SMPS step-down converter with intelligent bypass mode
+                • Ultra-low power power-on-reset (POR) and power-down-reset (PDR)
+                • Programmable voltage detector (PVD)
+        • Clock sources64 MHz PLLFail safe 32 MHz crystal oscillator with integrated trimming capacitors32 kHz crystal oscillatorInternal low-power 32 kHz RO
+                • 64 MHz PLL
+                • Fail safe 32 MHz crystal oscillator with integrated trimming capacitors
+                • 32 kHz crystal oscillator
+                • Internal low-power 32 kHz RO
+        • On-chip non-volatile flash memory of 512 Kbytes with page protection against R/W
+        • On-chip RAM of 64 Kbytes and 4 Kbytes PKA RAM
+        • One-time-programmable (OTP) memory area of 1 Kbytes
+        • Embedded UART bootloader
+        • Ultra-low power modes with or without timer and RAM retention
+        • Quadrature decoder
+        • Enhanced security mechanisms such as:Flash read/write protectionSWD disablingSecure bootloader
+                • Flash read/write protection
+                • SWD disabling
+                • Secure bootloader
+        • Security featuresTrue random number generator (TRNG) compliant with NIST special publication 800-90BHardware encryption AES maximum 128-bit security co-processorHardware public key accelerator (PKA)Cryptographic algorithms: RSA, Diffie-Helman, ECC over GF(p)CRC calculation unit64-bit unique ID
+                • True random number generator (TRNG) compliant with NIST special publication 800-90B
+                • Hardware encryption AES maximum 128-bit security co-processor
+                • Hardware public key accelerator (PKA)
+                • Cryptographic algorithms: RSA, Diffie-Helman, ECC over GF(p)
+                • CRC calculation unit
+                • 64-bit unique ID
+        • System peripherals1x DMA controller with 8 channels supporting ADC, SPI, I2C, USART, LPUART, Timers1x SPI with I2S interface multiplexed1x I2C (SMBus/PMBus)1x LPUART (low power)1x USART (ISO 7816 smartcard mode, IrDA, SPI master and modbus)1x independent WDG1x real time clock (RTC)1x independent SysTick1x 16-bit, four channels general purpose timer2x 16-bit, two channels general purpose timerInfrared interface
+                • 1x DMA controller with 8 channels supporting ADC, SPI, I2C, USART, LPUART, Timers
+                • 1x SPI with I2S interface multiplexed
+                • 1x I2C (SMBus/PMBus)
+                • 1x LPUART (low power)
+                • 1x USART (ISO 7816 smartcard mode, IrDA, SPI master and modbus)
+                • 1x independent WDG
+                • 1x real time clock (RTC)
+                • 1x independent SysTick
+                • 1x 16-bit, four channels general purpose timer
+                • 2x 16-bit, two channels general purpose timer
+                • Infrared interface
+        • Up to 20 fast I/Osall of them with wakeup capabilityall of them retain state in low-power modeall of them 5 V tolerant
+                • all of them with wakeup capability
+                • all of them retain state in low-power mode
+                • all of them 5 V tolerant
+        • Analog peripherals12-bit ADC with 8 input channels, up to 16 bits with a down samplerBattery monitoringAnalog watchdog
+                • 12-bit ADC with 8 input channels, up to 16 bits with a down sampler
+                • Battery monitoring
+                • Analog watchdog
+        • Development supportSerial wire debug (SWD)4 breakpoints and two watchpoints
+                • Serial wire debug (SWD)
+                • 4 breakpoints and two watchpoints
+        • All packages are ECOPACK2 compliant
+Description: 
+The STM32WB09xE is an ultra-low power programmable Bluetooth® Low Energy wireless SoC solution. It embeds STMicroelectronics’ state-of-art 2.4 GHz RF radio peripherals, optimized for ultra-low-power consumption and excellent radio performance, for unparalleled battery lifetime.It is compliant with Bluetooth® Low Energy SIG core specification version 5.4 addressing point-to-point connectivity and Bluetooth® Mesh networking and allows large-scale device networks to be established in a reliable way. The STM32WB09xE is also suitable for 2.4 GHz proprietary radio wireless communication to address ultra-low latency applications.The STM32WB09xE embeds an Arm® Cortex®-M0+ microprocessor that can operate up to 64 MHz and also the radio core coprocessor (DMA based) for Bluetooth® Low Energy timing critical operations.In addition, the STM32WB09xE provides enhanced security hardware support by dedicated hardware functions: true random number generator (TRNG) supporting NIST special publication 800-90B, security c0-processor for 128-bit AES encryption, CRC calculation unit, 64-bit unique ID, flash memory read and write protection, and a public key accelerator (PKA).The PKA supports: modular arithmetic including exponentiation with maximum modulo size of 3136 bits, elliptic curves over prime field scalar multiplication, ECDSA signature, ECDSA verification with maximum modulo size of 521 bits CRC calculation unit, security level allowing constant time operations.The STM32WB09xE can be configured to support standalone or network processor applications. In the first configuration, the STM32WB09xE operates as a single device running the application code and the Bluetooth® Low Energy stack.The STM32WB09xE embeds the following high-speed memory types: 512-Kbyte flash memory, 64-Kbyte RAM, 1-Kbyte one-time-programmable (OTP) memory area, and 7-Kbyte ROM (ST reserved area).Direct data transfer between memory and peripherals and from memory-to-memory is supported by eight DMA channels with a full flexible channel mapping by the DMAMUX peripheral.The STM32WB09xE embeds a 12-bit ADC, allowing measurements of up to eight external sources and up to three internal sources, including battery monitoring and a temperature sensor.The STM32WB09xE has a low-power RTC and one advanced 16-bit timer.The STM32WB09xE features standard and advanced communication interfaces: 1x SPI-I2, LPUART, 1x USART supporting ISO 7816 (SmartCard mode), IrDA and Modbus mode, 2x I2C supporting SMBus/PMBus.The STM32WB09xE operates in the -40 to +105 °C (+125 °C junction) temperature range from a 1.7 V to 3.6 V power supply. A comprehensive set of power-saving modes enables the design of low-power applications.The STM32WB09xE integrates a high efficiency SMPS step-down converter and an integrated PDR circuitry with a fixed threshold that generates a device reset when the VDD drops under 1.65 V.The STM32WB09xE is available in two package types: VFQFPN32 and WLCSP36. Both versions support up to 20 I/Os. 

@@ -1,0 +1,71 @@
+Part Name: STM32WB05TNF6TR
+Caption: Ultra-low-power, 2.4 GHz network processor, Bluetooth LE 5.4 certified
+Parameters:
+Supply Voltage Min Volt: 1.7
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: WLCSP MSL1
+
+Key features:
+        • Includes ST state-of-the-art patented technology.
+        • Bluetooth® Low Energy network coprocessor supporting the Bluetooth 5.4 specifications2 Mbps data rateLong range (Coded PHY)Advertising extensionsDirection finding (AoA/AoD)LE ping procedurePeriodic advertising and periodic advertising sync transfer
+                • 2 Mbps data rate
+                • Long range (Coded PHY)
+                • Advertising extensions
+                • Direction finding (AoA/AoD)
+                • LE ping procedure
+                • Periodic advertising and periodic advertising sync transfer
+        • RadioRX sensitivity level: -97 dBm @ 1 Mbps, -104 dBm @ 125 kbps (long range)Programmable output power up to +8 dBm (at antenna connector)Data rate supported: 2 Mbps, 1 Mbps, 500 kbps and 125 kbpsIntegrated balunSupport for external PA and LNAAvailable integrated passive device (IPD) companion chip for optimized matching and filtering
+                • RX sensitivity level: -97 dBm @ 1 Mbps, -104 dBm @ 125 kbps (long range)
+                • Programmable output power up to +8 dBm (at antenna connector)
+                • Data rate supported: 2 Mbps, 1 Mbps, 500 kbps and 125 kbps
+                • Integrated balun
+                • Support for external PA and LNA
+                • Available integrated passive device (IPD) companion chip for optimized matching and filtering
+        • Ultra-low-power radio performance8 nA in Shutdown mode (1.8 V)0.8 µA in Deepstop mode (with external LSE and Bluetooth LE wake-up sources, 1.8 V)1.0 µA in Deepstop mode (with internal LSI and Bluetooth LE wake-up sources, 1.8 V)4.3 mA peak current in TX (@ 0 dBm, 3.3 V)3.4 mA peak current in RX (@ sensitivity level, 3.3 V)
+                • 8 nA in Shutdown mode (1.8 V)
+                • 0.8 µA in Deepstop mode (with external LSE and Bluetooth LE wake-up sources, 1.8 V)
+                • 1.0 µA in Deepstop mode (with internal LSI and Bluetooth LE wake-up sources, 1.8 V)
+                • 4.3 mA peak current in TX (@ 0 dBm, 3.3 V)
+                • 3.4 mA peak current in RX (@ sensitivity level, 3.3 V)
+        • High performance and ultra-low-power Arm® Cortex® -M0+ 32-bit, running up to 64 MHz
+        • Dynamic current consumption: 14 µA/MHz
+        • Operating supply voltage: from 1.7 to 3.6 V
+        • -40 ºC to 105 ºC temperature range
+        • Supply and reset managementHigh efficiency embedded SMPS step-down converter with intelligent bypass modeUltra-low-power power-on-reset (POR) and power-down-reset (PDR)Programmable voltage detector (PVD)
+                • High efficiency embedded SMPS step-down converter with intelligent bypass mode
+                • Ultra-low-power power-on-reset (POR) and power-down-reset (PDR)
+                • Programmable voltage detector (PVD)
+        • Clock sources64 MHz PLLFail safe 32 MHz crystal oscillator with integrated trimming capacitors32 kHz crystal oscillatorInternal low-power 32 kHz RO
+                • 64 MHz PLL
+                • Fail safe 32 MHz crystal oscillator with integrated trimming capacitors
+                • 32 kHz crystal oscillator
+                • Internal low-power 32 kHz RO
+        • System peripherals1x DMA controller with 8 channels supporting SPI-I2S, USART1x SPI1x USART
+                • 1x DMA controller with 8 channels supporting SPI-I2S, USART
+                • 1x SPI
+                • 1x USART
+        • Up to 20 fast I/OsAll of them with wake-up capabilityAll of them retain state in low-powerAll of them 5 V tolerant
+                • All of them with wake-up capability
+                • All of them retain state in low-power
+                • All of them 5 V tolerant
+        • Development supportSerial wire debug (SWD)
+                • Serial wire debug (SWD)
+        • All packages are ECOPACK2 compliant.
+Description: 
+The STM32WB05xN is an ultra-low-power Bluetooth® Low Energy wireless network coprocessor addressing standard Bluetooth® LE protocol. Interface with external micro controller can be achieved through SPI and USART. It embeds STMicroelectronics’s state-of-the-art 2.4 GHz radio IPs, optimized for ultra-low-power consumption and excellent radio performance, for unparalleled battery lifetime. It is compliant with Bluetooth Low Energy SIG core specification version 5.4.The STM32WB05xN embeds a Arm® Cortex®-M0+ microcontroller that can operate up to 64 MHz and also the BlueNRG core co-processor (DMA based) for Bluetooth Low Energy timing critical operations.The STM32WB05xN features standard and advanced communication interfaces:The STM32WB05xN operates in the -40 to +105 °C temperature range from a 1.7 V to 3.6 V power supply. A comprehensive set of power-saving modes enables the design of low-power applications.The STM32WB05xN integrates a high efficiency SMPS step-down converter and an integrated PDR circuitry with a fixed threshold that generates a device reset when the VDD drops under 1.65 V.The STM32WB05xN comes in different package versions supporting up to: 

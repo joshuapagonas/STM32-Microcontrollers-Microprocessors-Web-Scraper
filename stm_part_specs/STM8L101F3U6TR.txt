@@ -1,0 +1,67 @@
+Part Name: STM8L101F3U6TR
+Caption: Ultra-low-power 8-bit MCU with 8 Kbytes Flash, 16 MHz CPU, up to 2-Kbyte of EEPROM
+Parameters:
+Supply Voltage Min Volt: 1.65
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: STM8
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFQFPN 20 3x3x0.6 mm
+
+Key features:
+        • Main microcontroller featuresSupply voltage range 1.65 V to 3.6 VLow power consumption (Halt: 0.3 µA, Active-halt: 0.8 µA, Dynamic Run: 150 µA/MHz)STM8 Core with up to 16 CISC MIPS throughputTemp. range: -40 to 85 °C and 125 °C
+                • Supply voltage range 1.65 V to 3.6 V
+                • Low power consumption (Halt: 0.3 µA, Active-halt: 0.8 µA, Dynamic Run: 150 µA/MHz)
+                • STM8 Core with up to 16 CISC MIPS throughput
+                • Temp. range: -40 to 85 °C and 125 °C
+        • MemoriesUp to 8 Kbytes of Flash program including up to 2 Kbytes of data EEPROMError correction code (ECC)Flexible write and read protection modesIn-application and in-circuit programmingData EEPROM capability1.5 Kbytes of static RAM
+                • Up to 8 Kbytes of Flash program including up to 2 Kbytes of data EEPROM
+                • Error correction code (ECC)
+                • Flexible write and read protection modes
+                • In-application and in-circuit programming
+                • Data EEPROM capability
+                • 1.5 Kbytes of static RAM
+        • Clock managementInternal 16 MHz RC with fast wakeup time (typ. 4 µs)Internal low consumption 38 kHz RC driving both the IWDG and the AWU
+                • Internal 16 MHz RC with fast wakeup time (typ. 4 µs)
+                • Internal low consumption 38 kHz RC driving both the IWDG and the AWU
+        • Reset and supply managementUltra-low power POR/PDRThree low-power modes: Wait, Active-halt, Halt
+                • Ultra-low power POR/PDR
+                • Three low-power modes: Wait, Active-halt, Halt
+        • Interrupt managementNested interrupt controller with software priority controlUp to 29 external interrupt sources
+                • Nested interrupt controller with software priority control
+                • Up to 29 external interrupt sources
+        • I/OsUp to 30 I/Os, all mappable on external interrupt vectorsI/Os with programmable input pull-ups, high sink/source capability and one LED driver infrared output
+                • Up to 30 I/Os, all mappable on external interrupt vectors
+                • I/Os with programmable input pull-ups, high sink/source capability and one LED driver infrared output
+        • PeripheralsTwo 16-bit general purpose timers (TIM2 and TIM3) with up and down counter and 2 channels (used as IC, OC, PWM)One 8-bit timer (TIM4) with 7-bit prescalerInfrared remote control (IR)Independent watchdogAuto-wakeup unitBeeper timer with 1, 2 or 4 kHz frequenciesSPI synchronous serial interfaceFast I2C Multimaster/slave 400 kHzUSART with fractional baud rate generator2 comparators with 4 inputs each
+                • Two 16-bit general purpose timers (TIM2 and TIM3) with up and down counter and 2 channels (used as IC, OC, PWM)
+                • One 8-bit timer (TIM4) with 7-bit prescaler
+                • Infrared remote control (IR)
+                • Independent watchdog
+                • Auto-wakeup unit
+                • Beeper timer with 1, 2 or 4 kHz frequencies
+                • SPI synchronous serial interface
+                • Fast I2C Multimaster/slave 400 kHz
+                • USART with fractional baud rate generator
+                • 2 comparators with 4 inputs each
+        • Development supportHardware single wire interface module (SWIM) for fast on-chip programming and non intrusive debuggingIn-circuit emulation (ICE)
+                • Hardware single wire interface module (SWIM) for fast on-chip programming and non intrusive debugging
+                • In-circuit emulation (ICE)
+        • 96-bit unique ID
+Description: 
+The STM8L101x1 STM8L101x2 STM8L101x3 low-power family features the enhanced STM8 CPU core providing increased processing power (up to 16 MIPS at 16 MHz) while maintaining the advantages of a CISC architecture with improved code density, a 24-bit linear addressing space and an optimized architecture for low power operations.The family includes an integrated debug module with a hardware interface (SWIM) which allows non-intrusive in-application debugging and ultrafast Flash programming.All STM8L101xx microcontrollers feature low power low-voltage single-supply program Flash memory. The 8-Kbyte devices embed data EEPROM.The STM8L101xx low power family is based on a generic set of state-of-the-art peripherals. The modular design of the peripheral set allows the same peripherals to be found in different ST microcontroller families including 32-bit families. This makes any transition to a different family very easy, and simplified even more by the use of a common set of development tools.All STM8L low power products are based on the same architecture with the same memory mapping and a coherent pinout. 

@@ -1,0 +1,22 @@
+Part Name: STM32H7S7Z8J6
+Caption: High-Performance Arm Cortex-M7 MCU, 600MHz, 64KB Bootflash, 620KB SRAM, with DSP, cache, USB HS PHY, NeoChrom GPU, TFT-LCD
+Parameters:
+Supply Voltage Min Volt: 1.62
+
+Supply Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M7
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFBGA 144 10x10x0.6 P 0.8 mm
+
+Key features:

@@ -1,0 +1,64 @@
+Part Name: STM8AF6266TDX
+Caption: Automotive 8-bit MCU with 32 Kbytes Flash, LIN, 16 MHz CPU, integrated EEPROM
+Parameters:
+Supply Voltage Min Volt: 3.0
+
+Supply Voltage Max Volt: 5.5
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 150.0
+
+ECCN US: EAR99
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Automotive
+
+Package Name: LQFP 32 7x7x1.4 mm
+
+Key features:
+        • AEC-Q10x qualified
+        • CoreMax fCPU: 16 MHzAdvanced STM8A core with Harvard architecture and 3-stage pipelineAverage 1.6 cycles/instruction resulting in 10 MIPS at 16 MHz fCPUfor industry standard benchmark
+                • Max fCPU: 16 MHz
+                • Advanced STM8A core with Harvard architecture and 3-stage pipeline
+                • Average 1.6 cycles/instruction resulting in 10 MIPS at 16 MHz fCPUfor industry standard benchmark
+        • MemoriesFlash Program memory: 16 to 32 Kbyte Flash; data retention 20 years at 55 °C after 1 kcycleData memory: 0.5 to 1 Kbyte true data EEPROM; endurance 300 kcycleRAM: 2 Kbyte
+                • Flash Program memory: 16 to 32 Kbyte Flash; data retention 20 years at 55 °C after 1 kcycle
+                • Data memory: 0.5 to 1 Kbyte true data EEPROM; endurance 300 kcycle
+                • RAM: 2 Kbyte
+        • Clock managementLow-power crystal resonator oscillator with external clock inputInternal, user-trimmable 16 MHz RC and low-power 128 kHz RC oscillatorsClock security system with clock monitor
+                • Low-power crystal resonator oscillator with external clock input
+                • Internal, user-trimmable 16 MHz RC and low-power 128 kHz RC oscillators
+                • Clock security system with clock monitor
+        • Reset and supply managementWait/auto-wakeup/Halt low-power modes with user definable clock gatingLow consumption power-on and power-down reset
+                • Wait/auto-wakeup/Halt low-power modes with user definable clock gating
+                • Low consumption power-on and power-down reset
+        • Interrupt managementNested interrupt controller with 32 vectorsUp to 34 external interrupts on 5 vectors
+                • Nested interrupt controller with 32 vectors
+                • Up to 34 external interrupts on 5 vectors
+        • TimersUp to 2 general purpose 16-bit PWM timers with up to 3 CAPCOM channels each (IC, OC or PWM)Advanced control timer: 16-bit, 4 CAPCOM channels, 3 complementary outputs, dead-time insertion and flexible synchronization8-bit AR basic timer with 8-bit prescalerAuto-wakeup timerWindow and independent watchdog timers
+                • Up to 2 general purpose 16-bit PWM timers with up to 3 CAPCOM channels each (IC, OC or PWM)
+                • Advanced control timer: 16-bit, 4 CAPCOM channels, 3 complementary outputs, dead-time insertion and flexible synchronization
+                • 8-bit AR basic timer with 8-bit prescaler
+                • Auto-wakeup timer
+                • Window and independent watchdog timers
+        • Communication interfacesLINUARTLIN 2.2 compliant, master/slave modes with automatic resynchronizationSPI interface up to 8 Mbit/s or fMASTER/2I2C interface up to 400 Kbit/s
+                • LINUART
+                • LIN 2.2 compliant, master/slave modes with automatic resynchronization
+                • SPI interface up to 8 Mbit/s or fMASTER/2
+                • I2C interface up to 400 Kbit/s
+        • Analog-to-digital converter (ADC)10-bit accuracy, 2LSB TUE accuracy, 2LSB TUE linearity ADC and up to 10 multiplexed channels with individual data bufferAnalog watchdog, scan and continuous sampling mode
+                • 10-bit accuracy, 2LSB TUE accuracy, 2LSB TUE linearity ADC and up to 10 multiplexed channels with individual data buffer
+                • Analog watchdog, scan and continuous sampling mode
+        • I/OsUp to 38 user pins including 10 HS I/OsHighly robust I/O design, immune against current injection
+                • Up to 38 user pins including 10 HS I/Os
+                • Highly robust I/O design, immune against current injection
+        • Operating temperature up to 150 °C
+        • Qualification conforms to AEC-Q100 rev G
+Description: 
+The STM8AF6246, STM8AF6248, STM8AF6266 and STM8AF6268 automotive 8-bit microcontrollers offer from 16 to 32 Kbyte of Flash program memory and integrated true data EEPROM. They are referred to as medium density STM8A devices in STM8S series and STM8AF series 8-bit microcontrollers reference manual (RM0016).All devices of the STM8A product line provide the following benefits: reduced system cost, performance and robustness, short development cycles, and product longevity.The system cost is reduced thanks to an integrated true data EEPROM for up to 300 k write/erase cycles and a high system integration level with internal clock oscillators, watchdog, and brown-out reset.Device performance is ensured by a clock frequency of up to 16 MHz CPU and enhanced characteristics which include robust I/O, independent watchdogs (with a separate clock source), and a clock security system.Short development cycles are guaranteed due to application scalability across a common family product architecture with compatible pinout, memory map and modular peripherals. Full documentation is offered with a wide choice of development tools.Product longevity is ensured in the STM8A family thanks to their advanced core which is made in a state-of-the art technology for automotive applications with 3.3 V to 5 V operating supply.All STM8A and ST7 microcontrollers are supported by the same tools including STVD/STVP development environment, the STice emulator and a low-cost, third party in-circuit debugging tool. 

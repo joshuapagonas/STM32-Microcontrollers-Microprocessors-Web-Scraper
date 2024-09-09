@@ -1,0 +1,63 @@
+Part Name: STM32WL5MOCH6TR
+Caption: Multiprotocol LPWAN dual-core module 32-bit Arm Cortex-M4/M0+ LoRa,(G)FSK, (G)MSK, BPSK
+Parameters:
+Supply Voltage Min Volt: 1.8
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Operating Voltage Min Volt: 1.8
+
+Operating Voltage Max Volt: 3.6
+
+Core: Arm Cortex-M4
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: SIP LGA 92 10x10x1.608 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology.
+        • Integration of STM32WL55JC:Dual-core Arm® Cortex® -M0 and Arm® Cortex® -M4 CPUART Accelerator with a speed of up to 48 MHz256-Kbyte flash memory64- Kbyte SRAM with sub-GHz radio transceiverEmbedded 32 MHz radio TCXO and 32 kHz RTC crystalsAll RF components for transmission and reception matching network, including default antenna filterSTSAFE-A110 footprintMetal shield coating
+                • Dual-core Arm® Cortex® -M0 and Arm® Cortex® -M4 CPU
+                • ART Accelerator with a speed of up to 48 MHz
+                • 256-Kbyte flash memory
+                • 64- Kbyte SRAM with sub-GHz radio transceiver
+                • Embedded 32 MHz radio TCXO and 32 kHz RTC crystals
+                • All RF components for transmission and reception matching network, including default antenna filter
+                • STSAFE-A110 footprint
+                • Metal shield coating
+        • Supporting:Frequencies from 864 MHz to 928 MHzCompatible with standardized or proprietary protocols such as LoRaWAN® , Sigfox™ , or W- MBus (fully open wireless system-on-chip mioty).Compliant with radio frequency regulations such as ETSI EN 300 220, FCC CFR 47 Part 15, and Japanese ARIB STD- T-108:FCC ID: YCP-32WL5MOCH01IC: 8976A-32WL5MOCH01If other power or modulation settings than the type documented in the FCC and ISED-Canada filings are used, a class 2 permissive change must be filed with FCC and ISED.Rx sensitivity: –123 dBm for 2-FSK (at 1.2 Kbit/s), –148 dBm for LoRa® (at 10.4 kHz, spreading factor 12)Transmitter high output power, programmable up to +22 dBmTransmitter low output power, programmable up to +15 dBm37 GPIOs
+                • Frequencies from 864 MHz to 928 MHz
+                • Compatible with standardized or proprietary protocols such as LoRaWAN® , Sigfox™ , or W- MBus (fully open wireless system-on-chip mioty).
+                • Compliant with radio frequency regulations such as ETSI EN 300 220, FCC CFR 47 Part 15, and Japanese ARIB STD- T-108:FCC ID: YCP-32WL5MOCH01IC: 8976A-32WL5MOCH01If other power or modulation settings than the type documented in the FCC and ISED-Canada filings are used, a class 2 permissive change must be filed with FCC and ISED.
+                        • FCC ID: YCP-32WL5MOCH01
+                        • IC: 8976A-32WL5MOCH01
+                        • If other power or modulation settings than the type documented in the FCC and ISED-Canada filings are used, a class 2 permissive change must be filed with FCC and ISED.
+                • Rx sensitivity: –123 dBm for 2-FSK (at 1.2 Kbit/s), –148 dBm for LoRa® (at 10.4 kHz, spreading factor 12)
+                • Transmitter high output power, programmable up to +22 dBm
+                • Transmitter low output power, programmable up to +15 dBm
+                • 37 GPIOs
+        • Hardware configurations (2-layer PCB compatible)Transmitter high-output power programmable up to 22 dBmTransmitter low-output power programmable up to 15 dBmTransmitter high- or low-output power capable with external switch control
+                • Transmitter high-output power programmable up to 22 dBm
+                • Transmitter low-output power programmable up to 15 dBm
+                • Transmitter high- or low-output power capable with external switch control
+        • Ultra-low-power platform1.8 V to 3.6 V VDDvoltage range-40°C to 85°C temperature rangeEmbedded SMPS
+                • 1.8 V to 3.6 V VDDvoltage range
+                • -40°C to 85°C temperature range
+                • Embedded SMPS
+        • 10x10 small form factor
+        • All packages are ECOPACK2 compliant
+Description: 
+The STM32WL5MOC long-range wireless and ultralow-power certified module embeds a powerful and ultralow-power LPWAN-compliant radio solution, enabling the following modulations: LoRa®, (G)FSK, (G)MSK, and BPSK. The STM32WL5MOC does not require any RF expertise. It is the best way to speed up any development, and to reduce associated costs. This module is completely protocol stack royalty-free. 

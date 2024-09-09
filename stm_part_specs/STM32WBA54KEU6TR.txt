@@ -1,0 +1,105 @@
+Part Name: STM32WBA54KEU6TR
+Caption: Wireless Arm Cortex-M33 Trust Zone MCU 100 MHz with 512 Kbytes of Flash memory, Bluetooth LE 5.4, 802.15.4, ZigBee
+Parameters:
+Supply Voltage Min Volt: 1.71
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M33
+
+ECCN US: 5A992.c
+
+ECCN EU: NEC
+
+Packing Type: Tape And Reel
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: UFQFPN 32 5x5x0.55 mm
+
+Key features:
+        • Includes ST state-of-the-art patented technology
+        • Ultra-low power radio2.4 GHz radioRF transceiver supporting Bluetooth® Low Energy specification 5.4, IEEE 802.15.4-2015 PHY and MAC, supporting Thread, Matter and Zigbee® Proprietary protocolsRX sensitivity: -96 dBm (Bluetooth® Low Energy at 1 Mbps), -97.5 dBm (IEEE 802.15.4 at 250 kbps)Programmable output power, +10 dBm with 1 dB stepsSupport for external PAIsochronous channel (Auracast/Unicast), AOA/AOD, long rangePacket traffic arbitrationIntegrated balun to reduce BOMSingle crystal operationSuitable for systems requiring compliance with radio frequency regulations ETSI EN 300 328, EN 300 440, FCC CFR47 Part 15 and ARIB STD-T66
+                • 2.4 GHz radio
+                • RF transceiver supporting Bluetooth® Low Energy specification 5.4, IEEE 802.15.4-2015 PHY and MAC, supporting Thread, Matter and Zigbee® 
+                • Proprietary protocols
+                • RX sensitivity: -96 dBm (Bluetooth® Low Energy at 1 Mbps), -97.5 dBm (IEEE 802.15.4 at 250 kbps)
+                • Programmable output power, +10 dBm with 1 dB steps
+                • Support for external PA
+                • Isochronous channel (Auracast/Unicast), AOA/AOD, long range
+                • Packet traffic arbitration
+                • Integrated balun to reduce BOM
+                • Single crystal operation
+                • Suitable for systems requiring compliance with radio frequency regulations ETSI EN 300 328, EN 300 440, FCC CFR47 Part 15 and ARIB STD-T66
+        • Operating conditions:1.71 to 3.6 V power supply- 40 °C to 85/105 °C temperature range
+                • 1.71 to 3.6 V power supply
+                • - 40 °C to 85/105 °C temperature range
+        • Ultra-low power platform with FlexPowerControlAutonomous peripherals with DMA, functional down to Stop 1 mode160 nA Standby mode (16 wake-up pins)0.9 µA Standby mode with 64 KB SRAM6.5 µA Stop mode with 64 KB SRAM23 µA/MHz Run mode at 3.3 VRadio: Rx 4.4 mA / Tx at 0 dBm 5.2 mAEmbedded regulator LDO and SMPS step-down converter supporting switch on-the-fly and voltage scaling
+                • Autonomous peripherals with DMA, functional down to Stop 1 mode
+                • 160 nA Standby mode (16 wake-up pins)
+                • 0.9 µA Standby mode with 64 KB SRAM
+                • 6.5 µA Stop mode with 64 KB SRAM
+                • 23 µA/MHz Run mode at 3.3 V
+                • Radio: Rx 4.4 mA / Tx at 0 dBm 5.2 mA
+                • Embedded regulator LDO and SMPS step-down converter supporting switch on-the-fly and voltage scaling
+        • Core: Arm® 32-bit Cortex® -M33 CPU with TrustZone® , MPU, DSP, and FPU running at up to 100 MHz
+        • ART Accelerator: 8-Kbyte instruction cache allowing 0-wait-state execution from flash memory (frequency up to 100 MHz, 150 DMIPS)
+        • Benchmarks1.5 DMIPS/MHz (Drystone 2.1)410 CoreMark® (4.10 CoreMark/MHz)
+                • 1.5 DMIPS/MHz (Drystone 2.1)
+                • 410 CoreMark® (4.10 CoreMark/MHz)
+        • Real time clock (RTC) with hardware calendar, alarms, and calibration
+        • Clock sources32 MHz crystal oscillator32 kHz crystal oscillator (LSE)Internal low-power 32 kHz (±5%) RCInternal low frequency 32 kHz RC (500 ppm/ °C)Internal 16 MHz factory trimmed RC (±1%)PLL for system clock, audio and ADC
+                • 32 MHz crystal oscillator
+                • 32 kHz crystal oscillator (LSE)
+                • Internal low-power 32 kHz (±5%) RC
+                • Internal low frequency 32 kHz RC (500 ppm/ °C)
+                • Internal 16 MHz factory trimmed RC (±1%)
+                • PLL for system clock, audio and ADC
+        • Memories1 MB flash memory with ECC, including 256 Kbytes with 100k cycles128 KB SRAM, including 64 KB with parity check512-byte (32 rows) OTP
+                • 1 MB flash memory with ECC, including 256 Kbytes with 100k cycles
+                • 128 KB SRAM, including 64 KB with parity check
+                • 512-byte (32 rows) OTP
+        • Rich analog peripherals (independent supply)12-bit ADC 2.5 Msps, up to 16-bit with hardware oversamplingTwo ultra-low power comparators
+                • 12-bit ADC 2.5 Msps, up to 16-bit with hardware oversampling
+                • Two ultra-low power comparators
+        • Communication peripheralsOne SAI (serial audio interface)Three UARTs (ISO 7816, IrDA, modem)Two SPIsTwo I2C Fm+ (1 Mbit/s), SMBus/PMBus® 
+                • One SAI (serial audio interface)
+                • Three UARTs (ISO 7816, IrDA, modem)
+                • Two SPIs
+                • Two I2C Fm+ (1 Mbit/s), SMBus/PMBus® 
+        • System peripheralsTouch sensing controller, up to 20 sensors, supporting touch key, linear, and rotary touch sensorsOne 16-bit, advanced motor control timerThree 16-bit timersOne 32-bit timerTwo low-power 16-bit timers (available in Stop mode)Two Systick timersTwo watchdogs8-channel DMA controller, functional in Stop mode
+                • Touch sensing controller, up to 20 sensors, supporting touch key, linear, and rotary touch sensors
+                • One 16-bit, advanced motor control timer
+                • Three 16-bit timers
+                • One 32-bit timer
+                • Two low-power 16-bit timers (available in Stop mode)
+                • Two Systick timers
+                • Two watchdogs
+                • 8-channel DMA controller, functional in Stop mode
+        • Security and cryptographyArm® TrustZone® and securable I/Os, memories, and peripheralsFlexible life cycle scheme with RDP and password protected debugRoot of trust thanks to unique boot entry and secure hide protection area (HDP)SFI (secure firmware installation) thanks to embedded RSS (root secure services)Secure data storage with root hardware unique key (RHUK)Secure firmware upgrade support with TF-MTwo AES co-processors, including one with DPA resistancePublic key accelerator, DPA resistantHASH hardware acceleratorTrue random number generator, NIST SP800-90B compliant96-bit unique IDActive tampersCRC calculation unit
+                • Arm® TrustZone® and securable I/Os, memories, and peripherals
+                • Flexible life cycle scheme with RDP and password protected debug
+                • Root of trust thanks to unique boot entry and secure hide protection area (HDP)
+                • SFI (secure firmware installation) thanks to embedded RSS (root secure services)
+                • Secure data storage with root hardware unique key (RHUK)
+                • Secure firmware upgrade support with TF-M
+                • Two AES co-processors, including one with DPA resistance
+                • Public key accelerator, DPA resistant
+                • HASH hardware accelerator
+                • True random number generator, NIST SP800-90B compliant
+                • 96-bit unique ID
+                • Active tampers
+                • CRC calculation unit
+        • General purpose input/output:Up to 35 I/Os (most of them 5 V-tolerant) with interrupt capability
+                • Up to 35 I/Os (most of them 5 V-tolerant) with interrupt capability
+        • Development supportSerial wire debug (SWD), JTAG
+                • Serial wire debug (SWD), JTAG
+        • ECOPACK2 compliant packages
+Description: 
+The STM32WBA5xxx multiprotocol wireless and ultra-low power devices embed a powerful and ultra-low power radio compliant with the Bluetooth® SIG Low Energy specification 5.4. They operate at a frequency of up to 100 MHz.The devices integrate a 2.4 GHz RADIO supporting Bluetooth Low Energy, and make possible to use proprietary protocols.The STM32WBA5xxx are based on a high-performance Arm Cortex-M33 32-bit RISC core, featuring a single-precision floating-point unit (FPU), supporting all the Arm single-precision data-processing instructions and all the data types. This core also implements a full set of DSP (digital signal processing) instructions and a memory protection unit (MPU) that enhances the application security.The devices embed high-speed memories (up to 1 Mbyte of flash memory and up to 128 Kbytes of SRAM), an extensive range of enhanced I/Os and peripherals connected to AHB and APB buses on the 32-bit multi-AHB bus matrix.The devices offer security foundation compliant with the TBSA (trusted-based security architecture) requirements from Arm. It embeds the necessary security features to implement a secure boot, secure data storage, and secure firmware update. Besides these capabilities, the devices incorporate a secure firmware installation feature that allows the customer to secure the provisioning of the code during its production. A flexible life cycle is managed thanks to multiple levels readout protection and debug unlock with password.Firmware hardware isolation is supported thanks to securable peripherals, memories and I/Os, and privilege configuration of peripherals and memories.Several protection mechanisms are available for embedded flash memory and SRAM: readout protection, write protection, secure, and hide protection areas.The devices embed several peripherals reinforcing security: a fast AES coprocessor, a secure AES coprocessor with DPA resistance and hardware unique key that can be shared by hardware with fast AES, a PKA (public key accelerator) with DPA resistance, a HASH hardware accelerator, and a true random number generator.Active tamper detection and protection against transient perturbation attacks, is achieved thanks to several internal monitoring generating secret data erase in case of attack. This helps to fit the PCI requirements for point of sales applications.Hardware semaphores enable the synchronization between software processes.The devices offer one 12-bit ADC (2.5 Msps), two comparators, a low-power RTC, one 32-bit general-purpose timer, one 16-bit PWM timer for motor control, three 16-bit general-purpose timers, and two 16-bit low-power timers. They also feature standard and advanced communication interfaces, namely two I2Cs, two SPIs, one SAI, two USARTs, and one low-power UART. The feature set is product-dependent.The STM32WBA5xxx operate in the -40 °C to 105 °C (120 °C junction) temperature range from a 1.71 to 3.6 V power supply.The design of low-power applications is enabled by a comprehensive set of power-saving modes.Many peripherals (including radio, communication, analog, and timer peripherals) can be functional and autonomous in Stop mode with direct memory access thanks to BAM (background autonomous mode) support.Some independent power supplies are supported, like an analog independent supply input for ADC and comparators, and radio dedicated supply inputs for the 2.4 GHz RADIO.The STM32WBA5xxx devices offer three packages, up to 59 pins, with or without SMPS. 

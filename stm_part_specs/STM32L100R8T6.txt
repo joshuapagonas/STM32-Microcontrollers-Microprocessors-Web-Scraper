@@ -1,0 +1,82 @@
+Part Name: STM32L100R8T6
+Caption: Ultra-low-power 32-bit Value Line Arm Cortex-M3 MCU with 64 Kbytes of Flash memory, 32 MHz CPU, LCD, USB
+Parameters:
+Supply Voltage Min Volt: 1.8
+
+Supply Voltage Max Volt: 3.6
+
+Operating Temp Min Celsius: -40.0
+
+Operating Temp Max Celsius: 85.0
+
+Core: Arm Cortex-M3
+
+ECCN US: 3A991.a.2
+
+ECCN EU: NEC
+
+Packing Type: Tray
+
+RoHs compliant: Ecopack2
+
+Grade: Industrial
+
+Package Name: LQFP 64 10x10x1.4 mm
+
+Key features:
+        • Ultra-low-power platform1.8 V to 3.6 V power supply-40°C to 85°C temperature range0.3 µA Standby mode (2 wakeup pins)0.9 µA Standby mode + RTC0.57 µA Stop mode (16 wakeup lines)1.2 µA Stop mode + RTC9 µA Low-power run mode214 µA/MHz Run mode10 nA ultra-low I/O leakage< 8 µs wakeup time
+                • 1.8 V to 3.6 V power supply
+                • -40°C to 85°C temperature range
+                • 0.3 µA Standby mode (2 wakeup pins)
+                • 0.9 µA Standby mode + RTC
+                • 0.57 µA Stop mode (16 wakeup lines)
+                • 1.2 µA Stop mode + RTC
+                • 9 µA Low-power run mode
+                • 214 µA/MHz Run mode
+                • 10 nA ultra-low I/O leakage
+                • < 8 µs wakeup time
+        • Core: 32-bit ARM® Cortex® -M3 CPUFrom 32 kHz up to 32 MHz max1.25 DMIPS/MHz (Dhrystone 2.1)Memory protection unit
+                • From 32 kHz up to 32 MHz max
+                • 1.25 DMIPS/MHz (Dhrystone 2.1)
+                • Memory protection unit
+        • Reset and supply managementUltra-safe, low-power BOR (brownout reset) with 5 selectable thresholdsUltra-low-power POR/PDRProgrammable voltage detector (PVD)
+                • Ultra-safe, low-power BOR (brownout reset) with 5 selectable thresholds
+                • Ultra-low-power POR/PDR
+                • Programmable voltage detector (PVD)
+        • Clock sources1 to 24 MHz crystal oscillator32 kHz oscillator for RTC with calibrationHigh-speed internal 16 MHzInternal low-power 37 kHz RCInternal multispeed low-power 65 kHz to 4.2 MHzPLL for CPU clock and USB (48 MHz)
+                • 1 to 24 MHz crystal oscillator
+                • 32 kHz oscillator for RTC with calibration
+                • High-speed internal 16 MHz
+                • Internal low-power 37 kHz RC
+                • Internal multispeed low-power 65 kHz to 4.2 MHz
+                • PLL for CPU clock and USB (48 MHz)
+        • Pre-programmed bootloaderUSART supported
+                • USART supported
+        • Development supportSerial wire debug supportedJTAG supported
+                • Serial wire debug supported
+                • JTAG supported
+        • Up to 51 fast I/Os (42 I/Os 5V tolerant), all mappable on 16 external interrupt vectors
+        • MemoriesUp to 128 Kbytes of Flash memory with ECCUp to 10 Kbytes of RAMUp to 2 Kbytes of true EEPROM with ECC20-byte backup register
+                • Up to 128 Kbytes of Flash memory with ECC
+                • Up to 10 Kbytes of RAM
+                • Up to 2 Kbytes of true EEPROM with ECC
+                • 20-byte backup register
+        • LCD Driver for up to 8x28 segments
+        • Analog peripherals12-bit ADC 1 Msps up to 20 channels12-bit DAC 2 channels with output buffersTwo ultra-low-power comparators
+                • 12-bit ADC 1 Msps up to 20 channels
+                • 12-bit DAC 2 channels with output buffers
+                • Two ultra-low-power comparators
+        • Seven DMA controller channels
+        • Eight communication interface peripheralsOne USB 2.0Three USARTs (ISO 7816, IrDA)Two SPIs (16 Mbit/s)Two I2Cs (SMBus/PMBus)
+                • One USB 2.0
+                • Three USARTs (ISO 7816, IrDA)
+                • Two SPIs (16 Mbit/s)
+                • Two I2Cs (SMBus/PMBus)
+        • Ten timers:Six 16-bit timers with up to 4 IC/OC/PWM channelsTwo 16-bit basic timersTwo watchdog timers (independent and window)
+                • Six 16-bit timers with up to 4 IC/OC/PWM channels
+                • Two 16-bit basic timers
+                • Two watchdog timers (independent and window)
+        • CRC calculation unit
+        • All packages ECOPACK® 2
+Description: 
+The ultra-low-power STM32L100C6 and STM32L100R8/RB devices incorporate the connectivity power of the universal serial bus (USB) with the high-performance ARM® Cortex®-M3 32-bit RISC core operating at a frequency of 32 MHz (33.3 DMIPS), a memory protection unit (MPU), high-speed embedded memories (Flash memory up to 128 Kbytes and RAM up to 10 Kbytes) and an extensive range of enhanced I/Os and peripherals connected to two APB buses.All the devices offer a 12-bit ADC, 2 DACs and 2 ultra-low-power comparators, six general-purpose 16-bit timers and two basic timers, which can be used as time bases.Moreover, the STM32L100C6 and STM32L100R8/RB devices contain standard and advanced communication interfaces: up to two I2Cs and SPIs, three USARTs and a USB.They also include a real-time clock with sub-second counting and a set of backup registers that remain powered in Standby mode.Finally, the integrated LCD controller has a built-in LCD voltage generator that allows to drive up to 8 multiplexed LCDs with contrast independent of the supply voltage.The ultra-low-power STM32L100C6 and STM32L100R8/RB devices operate from a 1.8 to 3.6 V power supply. They are available in the -40 to +85 °C temperature range. A comprehensive set of power-saving modes allows the design of low-power applications. 
